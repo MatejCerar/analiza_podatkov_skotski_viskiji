@@ -1,4 +1,4 @@
-# analiza_podatkov_skotski_viskiji#
+# analiza_podatkov_skotski_viskiji
 
 <h2>Škotski viski</h2>
 
