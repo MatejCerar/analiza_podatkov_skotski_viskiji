@@ -1,0 +1,4384 @@
+[
+  {
+    "ime": " Clynelish 14 Year Old",
+    "cena": 15.95,
+    "kolicina": "20",
+    "procent_alkohola": 0.46,
+    "cena_na_enoto": "7.98 per 10cl"
+  },
+  {
+    "ime": " Edradour 10 Year Old",
+    "cena": 17.95,
+    "kolicina": "20",
+    "procent_alkohola": 0.4,
+    "cena_na_enoto": "8.97 per 10cl"
+  },
+  {
+    "ime": " Oban 14 Year Old",
+    "cena": 18.45,
+    "kolicina": "20",
+    "procent_alkohola": 0.43,
+    "cena_na_enoto": "9.23 per 10cl"
+  },
+  {
+    "ime": " Glenmorangie 10 Year Old",
+    "cena": 21.95,
+    "kolicina": "35",
+    "procent_alkohola": 0.4,
+    "cena_na_enoto": "62.71 per litre"
+  },
+  {
+    "ime": " Loch Lomond Original",
+    "cena": 25.75,
+    "kolicina": "70",
+    "procent_alkohola": 0.4,
+    "cena_na_enoto": "36.79 per litre"
+  },
+  {
+    "ime": "Ardmore Legacy",
+    "cena": 23.95,
+    "kolicina": "70",
+    "procent_alkohola": 0.4,
+    "cena_na_enoto": "34.21 per litre"
+  },
+  {
+    "ime": " Tomatin Legacy",
+    "cena": 28.75,
+    "kolicina": "70",
+    "procent_alkohola": 0.43,
+    "cena_na_enoto": "41.07 per litre"
+  },
+  {
+    "ime": " Glencadam Origin 1825",
+    "cena": 28.95,
+    "kolicina": "70",
+    "procent_alkohola": 0.4,
+    "cena_na_enoto": "41.36 per litre"
+  },
+  {
+    "ime": "AnCnoc 12 Year Old",
+    "cena": 30.95,
+    "kolicina": "70",
+    "procent_alkohola": 0.4,
+    "cena_na_enoto": "44.21 per litre"
+  },
+  {
+    "ime": "Old Pulteney 12 Year Old",
+    "cena": 31.95,
+    "kolicina": "70",
+    "procent_alkohola": 0.4,
+    "cena_na_enoto": "45.64 per litre"
+  },
+  {
+    "ime": " Glengoyne 18 Year Old",
+    "cena": 32.95,
+    "kolicina": "20",
+    "procent_alkohola": 0.43,
+    "cena_na_enoto": "16.47 per 10cl"
+  },
+  {
+    "ime": "Glengoyne 10 Year Old",
+    "cena": 34.45,
+    "kolicina": "70",
+    "procent_alkohola": 0.4,
+    "cena_na_enoto": "49.21 per litre"
+  },
+  {
+    "ime": "Glenmorangie 10 Year Old Original",
+    "cena": 34.95,
+    "kolicina": "70",
+    "procent_alkohola": 0.4,
+    "cena_na_enoto": "49.93 per litre"
+  },
+  {
+    "ime": "Glencadam 10 Year Old",
+    "cena": 34.95,
+    "kolicina": "70",
+    "procent_alkohola": 0.46,
+    "cena_na_enoto": "49.93 per litre"
+  },
+  {
+    "ime": "Glen Garioch Founder's Reserve",
+    "cena": 34.95,
+    "kolicina": "70",
+    "procent_alkohola": 0.48,
+    "cena_na_enoto": "49.93 per litre"
+  },
+  {
+    "ime": " Glenmorangie 10 Year Old Original",
+    "cena": 34.95,
+    "kolicina": "70",
+    "procent_alkohola": 0.4,
+    "cena_na_enoto": "49.93 per litre"
+  },
+  {
+    "ime": "Deanston Virgin Oak",
+    "cena": 35.95,
+    "kolicina": "70",
+    "procent_alkohola": 0.46,
+    "cena_na_enoto": "51.36 per litre"
+  },
+  {
+    "ime": " Tullibardine Sovereign",
+    "cena": 36.45,
+    "kolicina": "70",
+    "procent_alkohola": 0.43,
+    "cena_na_enoto": "52.07 per litre"
+  },
+  {
+    "ime": "The Deveron 12 Year Old",
+    "cena": 36.45,
+    "kolicina": "70",
+    "procent_alkohola": 0.4,
+    "cena_na_enoto": "52.07 per litre"
+  },
+  {
+    "ime": " Glendronach 8 Year Old",
+    "cena": 36.75,
+    "kolicina": "70",
+    "procent_alkohola": 0.46,
+    "cena_na_enoto": "52.50 per litre"
+  },
+  {
+    "ime": "Royal Lochnagar 12 Year Old",
+    "cena": 36.95,
+    "kolicina": "70",
+    "procent_alkohola": 0.4,
+    "cena_na_enoto": "52.79 per litre"
+  },
+  {
+    "ime": " Loch Lomond 12 Year Old",
+    "cena": 36.95,
+    "kolicina": "70",
+    "procent_alkohola": 0.46,
+    "cena_na_enoto": "52.79 per litre"
+  },
+  {
+    "ime": "Glengoyne 12 Year Old",
+    "cena": 33.95,
+    "kolicina": "70",
+    "procent_alkohola": 0.43,
+    "cena_na_enoto": "48.50 per litre"
+  },
+  {
+    "ime": "Aberfeldy 12 Year Old",
+    "cena": 37.95,
+    "kolicina": "70",
+    "procent_alkohola": 0.4,
+    "cena_na_enoto": "54.21 per litre"
+  },
+  {
+    "ime": " Glencadam Reserva Andalucia",
+    "cena": 37.95,
+    "kolicina": "70",
+    "procent_alkohola": 0.46,
+    "cena_na_enoto": "54.21 per litre"
+  },
+  {
+    "ime": " Deanston 12 Year Old",
+    "cena": 38.95,
+    "kolicina": "70",
+    "procent_alkohola": 0.46,
+    "cena_na_enoto": "55.64 per litre"
+  },
+  {
+    "ime": " Teaninich 2008",
+    "cena": 39.75,
+    "kolicina": "70",
+    "procent_alkohola": 0.46,
+    "cena_na_enoto": "56.79 per litre"
+  },
+  {
+    "ime": " Tullibardine 500",
+    "cena": 39.95,
+    "kolicina": "70",
+    "procent_alkohola": 0.43,
+    "cena_na_enoto": "57.07 per litre"
+  },
+  {
+    "ime": " Tomatin 12 Year Old",
+    "cena": 40.95,
+    "kolicina": "70",
+    "procent_alkohola": 0.43,
+    "cena_na_enoto": "58.50 per litre"
+  },
+  {
+    "ime": " Pulteney 2005",
+    "cena": 40.95,
+    "kolicina": "70",
+    "procent_alkohola": 0.43,
+    "cena_na_enoto": "58.50 per litre"
+  },
+  {
+    "ime": " Ben Eideann Distillery Edition Kosher Whisky",
+    "cena": 41.75,
+    "kolicina": "70",
+    "procent_alkohola": 0.4,
+    "cena_na_enoto": "59.64 per litre"
+  },
+  {
+    "ime": "Edradour 10 Year Old",
+    "cena": 41.95,
+    "kolicina": "70",
+    "procent_alkohola": 0.4,
+    "cena_na_enoto": "59.93 per litre"
+  },
+  {
+    "ime": "Cu Bocan Signature",
+    "cena": 41.95,
+    "kolicina": "70",
+    "procent_alkohola": 0.46,
+    "cena_na_enoto": "59.93 per litre"
+  },
+  {
+    "ime": " Tullibardine 2012",
+    "cena": 41.95,
+    "kolicina": "70",
+    "procent_alkohola": 0.46,
+    "cena_na_enoto": "59.93 per litre"
+  },
+  {
+    "ime": "Loch Lomond 12 Year Old Gift Set",
+    "cena": 42.95,
+    "kolicina": "70",
+    "procent_alkohola": 0.46,
+    "cena_na_enoto": "61.36 per litre"
+  },
+  {
+    "ime": "Inchmurrin 12 Year Old",
+    "cena": 42.95,
+    "kolicina": "70",
+    "procent_alkohola": 0.46,
+    "cena_na_enoto": "61.36 per litre"
+  },
+  {
+    "ime": "Glendronach 12 Year Old Original",
+    "cena": 43.45,
+    "kolicina": "70",
+    "procent_alkohola": 0.43,
+    "cena_na_enoto": "62.07 per litre"
+  },
+  {
+    "ime": "Balblair 12 Year Old",
+    "cena": 43.75,
+    "kolicina": "70",
+    "procent_alkohola": 0.46,
+    "cena_na_enoto": "62.50 per litre"
+  },
+  {
+    "ime": "Glen Garioch 12 Year Old",
+    "cena": 43.95,
+    "kolicina": "70",
+    "procent_alkohola": 0.48,
+    "cena_na_enoto": "62.79 per litre"
+  },
+  {
+    "ime": "Glenturret Sherry Edition",
+    "cena": 43.95,
+    "kolicina": "70",
+    "procent_alkohola": 0.43,
+    "cena_na_enoto": "62.79 per litre"
+  },
+  {
+    "ime": "Glenturret Triple Wood",
+    "cena": 43.95,
+    "kolicina": "70",
+    "procent_alkohola": 0.43,
+    "cena_na_enoto": "62.79 per litre"
+  },
+  {
+    "ime": "Inchmoan 12 Year Old",
+    "cena": 43.95,
+    "kolicina": "70",
+    "procent_alkohola": 0.46,
+    "cena_na_enoto": "62.79 per litre"
+  },
+  {
+    "ime": "Old Pulteney Huddart",
+    "cena": 43.95,
+    "kolicina": "70",
+    "procent_alkohola": 0.46,
+    "cena_na_enoto": "62.79 per litre"
+  },
+  {
+    "ime": "Glenglassaugh Torfa",
+    "cena": 44.25,
+    "kolicina": "70",
+    "procent_alkohola": 0.5,
+    "cena_na_enoto": "63.21 per litre"
+  },
+  {
+    "ime": "Inchmoan 12 Year Old",
+    "cena": 44.45,
+    "kolicina": "70",
+    "procent_alkohola": 0.46,
+    "cena_na_enoto": "63.50 per litre"
+  },
+  {
+    "ime": " Tomatin 2010",
+    "cena": 44.95,
+    "kolicina": "70",
+    "procent_alkohola": 0.46,
+    "cena_na_enoto": "64.21 per litre"
+  },
+  {
+    "ime": " Glenmorangie Lasanta 12 Year Old",
+    "cena": 45.95,
+    "kolicina": "70",
+    "procent_alkohola": 0.43,
+    "cena_na_enoto": "65.64 per litre"
+  },
+  {
+    "ime": "Glenglassaugh Evolution",
+    "cena": 45.95,
+    "kolicina": "70",
+    "procent_alkohola": 0.5,
+    "cena_na_enoto": "65.64 per litre"
+  },
+  {
+    "ime": "Glenturret Peated Edition",
+    "cena": 45.95,
+    "kolicina": "70",
+    "procent_alkohola": 0.43,
+    "cena_na_enoto": "65.64 per litre"
+  },
+  {
+    "ime": "Fettercairn 12 Year Old",
+    "cena": 39.95,
+    "kolicina": "70",
+    "procent_alkohola": 0.4,
+    "cena_na_enoto": "57.07 per litre"
+  },
+  {
+    "ime": "Clynelish 14 Year Old",
+    "cena": 46.75,
+    "kolicina": "70",
+    "procent_alkohola": 0.46,
+    "cena_na_enoto": "66.79 per litre"
+  },
+  {
+    "ime": " Classic Malts Gentle Collection",
+    "cena": 46.95,
+    "kolicina": "60",
+    "procent_alkohola": 0.43,
+    "cena_na_enoto": "78.25 per litre"
+  },
+  {
+    "ime": " Teaninich 10 Year Old",
+    "cena": 46.95,
+    "kolicina": "70",
+    "procent_alkohola": 0.43,
+    "cena_na_enoto": "67.07 per litre"
+  },
+  {
+    "ime": "Dalmore 12 Year Old",
+    "cena": 46.95,
+    "kolicina": "70",
+    "procent_alkohola": 0.4,
+    "cena_na_enoto": "67.07 per litre"
+  },
+  {
+    "ime": " Classic Malts Coastal Collection",
+    "cena": 46.95,
+    "kolicina": "60",
+    "procent_alkohola": 0.45,
+    "cena_na_enoto": "78.25 per litre"
+  },
+  {
+    "ime": "MacDonald's Traditional Ben Nevis",
+    "cena": 46.95,
+    "kolicina": "70",
+    "procent_alkohola": 0.46,
+    "cena_na_enoto": "67.07 per litre"
+  },
+  {
+    "ime": " Ballechin 10 Year Old",
+    "cena": 46.95,
+    "kolicina": "70",
+    "procent_alkohola": 0.46,
+    "cena_na_enoto": "67.07 per litre"
+  },
+  {
+    "ime": " Glenturret Triple Wood",
+    "cena": 47.45,
+    "kolicina": "70",
+    "procent_alkohola": 0.43,
+    "cena_na_enoto": "67.79 per litre"
+  },
+  {
+    "ime": " Glencadam 13 Year Old",
+    "cena": 47.75,
+    "kolicina": "70",
+    "procent_alkohola": 0.46,
+    "cena_na_enoto": "68.21 per litre"
+  },
+  {
+    "ime": " Glengoyne 12 Year Old",
+    "cena": 47.95,
+    "kolicina": "70",
+    "procent_alkohola": 0.43,
+    "cena_na_enoto": "68.50 per litre"
+  },
+  {
+    "ime": " Blair Athol 12 Year Old",
+    "cena": 48.45,
+    "kolicina": "70",
+    "procent_alkohola": 0.43,
+    "cena_na_enoto": "69.21 per litre"
+  },
+  {
+    "ime": "Glendronach Traditionally Peated",
+    "cena": 48.45,
+    "kolicina": "70",
+    "procent_alkohola": 0.48,
+    "cena_na_enoto": "69.21 per litre"
+  },
+  {
+    "ime": "Oban 14 Year Old",
+    "cena": 48.95,
+    "kolicina": "70",
+    "procent_alkohola": 0.43,
+    "cena_na_enoto": "69.93 per litre"
+  },
+  {
+    "ime": "Royal Brackla 12 Year Old",
+    "cena": 48.95,
+    "kolicina": "70",
+    "procent_alkohola": 0.4,
+    "cena_na_enoto": "69.93 per litre"
+  },
+  {
+    "ime": " Clynelish Reserve",
+    "cena": 39.95,
+    "kolicina": "70",
+    "procent_alkohola": 0.51,
+    "cena_na_enoto": "57.07 per litre"
+  },
+  {
+    "ime": " Classic Malts Strong Collection",
+    "cena": 49.95,
+    "kolicina": "60",
+    "procent_alkohola": 0.43,
+    "cena_na_enoto": "83.25 per litre"
+  },
+  {
+    "ime": " Ben Eideann Ruby Galilean Kosher Whisky",
+    "cena": 49.95,
+    "kolicina": "70",
+    "procent_alkohola": 0.4,
+    "cena_na_enoto": "71.36 per litre"
+  },
+  {
+    "ime": " Ben Eideann Fionain Kosher Whisky",
+    "cena": 49.95,
+    "kolicina": "70",
+    "procent_alkohola": 0.4,
+    "cena_na_enoto": "71.36 per litre"
+  },
+  {
+    "ime": " Tomatin Discovery 2008",
+    "cena": 49.95,
+    "kolicina": "70",
+    "procent_alkohola": 0.43,
+    "cena_na_enoto": "71.36 per litre"
+  },
+  {
+    "ime": " Personalised Highland Special Reserve",
+    "cena": 49.95,
+    "kolicina": "70",
+    "procent_alkohola": 0.48,
+    "cena_na_enoto": "71.36 per litre"
+  },
+  {
+    "ime": "Inchmurrin Madeira Wood Finish",
+    "cena": 50.95,
+    "kolicina": "70",
+    "procent_alkohola": 0.46,
+    "cena_na_enoto": "72.79 per litre"
+  },
+  {
+    "ime": "Tomatin Cask Strength Edition",
+    "cena": 50.95,
+    "kolicina": "70",
+    "procent_alkohola": 0.57,
+    "cena_na_enoto": "72.79 per litre"
+  },
+  {
+    "ime": " Glenmorangie Quinta Ruban 14 Year Old",
+    "cena": 50.95,
+    "kolicina": "70",
+    "procent_alkohola": 0.46,
+    "cena_na_enoto": "72.79 per litre"
+  },
+  {
+    "ime": " Glengoyne 21 Year Old",
+    "cena": 51.25,
+    "kolicina": "20",
+    "procent_alkohola": 0.43,
+    "cena_na_enoto": "25.62 per 10cl"
+  },
+  {
+    "ime": "Edradour 10 Year Old Glass Pack",
+    "cena": 51.95,
+    "kolicina": "70",
+    "procent_alkohola": 0.4,
+    "cena_na_enoto": "74.21 per litre"
+  },
+  {
+    "ime": " Edradour Ballechin Double Malt",
+    "cena": 51.95,
+    "kolicina": "70",
+    "procent_alkohola": 0.46,
+    "cena_na_enoto": "74.21 per litre"
+  },
+  {
+    "ime": "AnCnoc Peatheart Batch 2",
+    "cena": 51.95,
+    "kolicina": "70",
+    "procent_alkohola": 0.46,
+    "cena_na_enoto": "74.21 per litre"
+  },
+  {
+    "ime": " Glenturret 10 Year Old Peat Smoked",
+    "cena": 52.45,
+    "kolicina": "70",
+    "procent_alkohola": 0.5,
+    "cena_na_enoto": "74.93 per litre"
+  },
+  {
+    "ime": "Loch Lomond 14 Year Old",
+    "cena": 52.95,
+    "kolicina": "70",
+    "procent_alkohola": 0.46,
+    "cena_na_enoto": "75.64 per litre"
+  },
+  {
+    "ime": "Tullibardine 15 Year Old",
+    "cena": 52.95,
+    "kolicina": "70",
+    "procent_alkohola": 0.43,
+    "cena_na_enoto": "75.64 per litre"
+  },
+  {
+    "ime": "Oban Little Bay",
+    "cena": 53.95,
+    "kolicina": "70",
+    "procent_alkohola": 0.43,
+    "cena_na_enoto": "77.07 per litre"
+  },
+  {
+    "ime": " Ardmore 2009",
+    "cena": 53.95,
+    "kolicina": "70",
+    "procent_alkohola": 0.46,
+    "cena_na_enoto": "77.07 per litre"
+  },
+  {
+    "ime": " Glengoyne Cask Strength",
+    "cena": 54.45,
+    "kolicina": "70",
+    "procent_alkohola": 0.59,
+    "cena_na_enoto": "77.79 per litre"
+  },
+  {
+    "ime": " Glenmorangie Nectar D'Or",
+    "cena": 54.95,
+    "kolicina": "70",
+    "procent_alkohola": 0.46,
+    "cena_na_enoto": "78.50 per litre"
+  },
+  {
+    "ime": " Deanston 10 Year Old",
+    "cena": 54.95,
+    "kolicina": "70",
+    "procent_alkohola": 0.46,
+    "cena_na_enoto": "78.50 per litre"
+  },
+  {
+    "ime": " Glengoyne The Legacy Series Chapter Two",
+    "cena": 55.95,
+    "kolicina": "70",
+    "procent_alkohola": 0.48,
+    "cena_na_enoto": "79.93 per litre"
+  },
+  {
+    "ime": " Glenglassaugh Octaves Classic",
+    "cena": 56.95,
+    "kolicina": "70",
+    "procent_alkohola": 0.44,
+    "cena_na_enoto": "81.36 per litre"
+  },
+  {
+    "ime": " Edradour 12 Year Old",
+    "cena": 54.45,
+    "kolicina": "70",
+    "procent_alkohola": 0.46,
+    "cena_na_enoto": "77.79 per litre"
+  },
+  {
+    "ime": " Aberfeldy 15 Year Old",
+    "cena": 57.75,
+    "kolicina": "70",
+    "procent_alkohola": 0.43,
+    "cena_na_enoto": "82.50 per litre"
+  },
+  {
+    "ime": " Edradour 2010",
+    "cena": 57.95,
+    "kolicina": "70",
+    "procent_alkohola": 0.46,
+    "cena_na_enoto": "82.79 per litre"
+  },
+  {
+    "ime": " Edradour 2010",
+    "cena": 57.95,
+    "kolicina": "70",
+    "procent_alkohola": 0.46,
+    "cena_na_enoto": "82.79 per litre"
+  },
+  {
+    "ime": "Glencadam 15 Year Old",
+    "cena": 58.95,
+    "kolicina": "70",
+    "procent_alkohola": 0.46,
+    "cena_na_enoto": "84.21 per litre"
+  },
+  {
+    "ime": " Cu Bocan Creation 1",
+    "cena": 58.95,
+    "kolicina": "70",
+    "procent_alkohola": 0.46,
+    "cena_na_enoto": "84.21 per litre"
+  },
+  {
+    "ime": " Cu Bocan Creation 2",
+    "cena": 58.95,
+    "kolicina": "70",
+    "procent_alkohola": 0.46,
+    "cena_na_enoto": "84.21 per litre"
+  },
+  {
+    "ime": " AnCnoc Peter Arkle",
+    "cena": 59.95,
+    "kolicina": "70",
+    "procent_alkohola": 0.46,
+    "cena_na_enoto": "85.64 per litre"
+  },
+  {
+    "ime": "Glenglassaugh Peated Port Wood Finish",
+    "cena": 59.95,
+    "kolicina": "70",
+    "procent_alkohola": 0.46,
+    "cena_na_enoto": "85.64 per litre"
+  },
+  {
+    "ime": " Croftengea 2005",
+    "cena": 59.95,
+    "kolicina": "70",
+    "procent_alkohola": 0.5,
+    "cena_na_enoto": "85.64 per litre"
+  },
+  {
+    "ime": " Ardmore 2009",
+    "cena": 59.95,
+    "kolicina": "70",
+    "procent_alkohola": 0.59,
+    "cena_na_enoto": "85.64 per litre"
+  },
+  {
+    "ime": "Aberfeldy 16 Year Old",
+    "cena": 60.75,
+    "kolicina": "70",
+    "procent_alkohola": 0.4,
+    "cena_na_enoto": "86.79 per litre"
+  },
+  {
+    "ime": " Glenglassaugh Octaves Peated",
+    "cena": 61.75,
+    "kolicina": "70",
+    "procent_alkohola": 0.44,
+    "cena_na_enoto": "88.21 per litre"
+  },
+  {
+    "ime": " Tomatin 14 Year Old",
+    "cena": 62.45,
+    "kolicina": "70",
+    "procent_alkohola": 0.46,
+    "cena_na_enoto": "89.21 per litre"
+  },
+  {
+    "ime": " Glenglassaugh Peated",
+    "cena": 62.95,
+    "kolicina": "70",
+    "procent_alkohola": 0.46,
+    "cena_na_enoto": "89.93 per litre"
+  },
+  {
+    "ime": " Glencadam 2011",
+    "cena": 62.95,
+    "kolicina": "70",
+    "procent_alkohola": 0.64,
+    "cena_na_enoto": "89.93 per litre"
+  },
+  {
+    "ime": " Loch Lomond 2010",
+    "cena": 62.95,
+    "kolicina": "70",
+    "procent_alkohola": 0.58,
+    "cena_na_enoto": "89.93 per litre"
+  },
+  {
+    "ime": " Glendronach 15 Year Old Revival",
+    "cena": 63.95,
+    "kolicina": "70",
+    "procent_alkohola": 0.46,
+    "cena_na_enoto": "91.36 per litre"
+  },
+  {
+    "ime": " Teaninich 2007",
+    "cena": 63.95,
+    "kolicina": "70",
+    "procent_alkohola": 0.59,
+    "cena_na_enoto": "91.36 per litre"
+  },
+  {
+    "ime": " Teaninich 2009",
+    "cena": 63.95,
+    "kolicina": "70",
+    "procent_alkohola": 0.6,
+    "cena_na_enoto": "91.36 per litre"
+  },
+  {
+    "ime": " Loch Lomond 2006 Peated",
+    "cena": 64.95,
+    "kolicina": "70",
+    "procent_alkohola": 0.57,
+    "cena_na_enoto": "92.79 per litre"
+  },
+  {
+    "ime": " Glengoyne 2005",
+    "cena": 64.95,
+    "kolicina": "70",
+    "procent_alkohola": 0.48,
+    "cena_na_enoto": "92.79 per litre"
+  },
+  {
+    "ime": " Glenturret 12 Year Old",
+    "cena": 64.95,
+    "kolicina": "70",
+    "procent_alkohola": 0.46,
+    "cena_na_enoto": "92.79 per litre"
+  },
+  {
+    "ime": "Dalmore Port Wood Reserve",
+    "cena": 62.95,
+    "kolicina": "70",
+    "procent_alkohola": 0.47,
+    "cena_na_enoto": "89.93 per litre"
+  },
+  {
+    "ime": "Edradour 12 Year Old Caledonia Selection Glass Pack",
+    "cena": 67.75,
+    "kolicina": "70",
+    "procent_alkohola": 0.46,
+    "cena_na_enoto": "96.79 per litre"
+  },
+  {
+    "ime": " Oban Bay Reserve",
+    "cena": 57.95,
+    "kolicina": "70",
+    "procent_alkohola": 0.43,
+    "cena_na_enoto": "82.79 per litre"
+  },
+  {
+    "ime": "Dalmore 15 Year Old",
+    "cena": 67.95,
+    "kolicina": "70",
+    "procent_alkohola": 0.4,
+    "cena_na_enoto": "97.07 per litre"
+  },
+  {
+    "ime": "Old Pulteney 15 Year Old",
+    "cena": 67.95,
+    "kolicina": "70",
+    "procent_alkohola": 0.46,
+    "cena_na_enoto": "97.07 per litre"
+  },
+  {
+    "ime": "The Deveron 18 Year Old",
+    "cena": 68.95,
+    "kolicina": "70",
+    "procent_alkohola": 0.4,
+    "cena_na_enoto": "98.50 per litre"
+  },
+  {
+    "ime": " Tomatin 2011",
+    "cena": 69.95,
+    "kolicina": "70",
+    "procent_alkohola": 0.57,
+    "cena_na_enoto": "99.93 per litre"
+  },
+  {
+    "ime": " Glen Garioch 1997",
+    "cena": 69.95,
+    "kolicina": "70",
+    "procent_alkohola": 0.57,
+    "cena_na_enoto": "99.93 per litre"
+  },
+  {
+    "ime": " Glendronach Cask Strength",
+    "cena": 69.95,
+    "kolicina": "70",
+    "procent_alkohola": 0.58,
+    "cena_na_enoto": "99.93 per litre"
+  },
+  {
+    "ime": " Ballechin 2008",
+    "cena": 69.95,
+    "kolicina": "50",
+    "procent_alkohola": 0.61,
+    "cena_na_enoto": "139.90 per litre"
+  },
+  {
+    "ime": "Loch Lomond 18 Year Old",
+    "cena": 63.95,
+    "kolicina": "70",
+    "procent_alkohola": 0.46,
+    "cena_na_enoto": "91.36 per litre"
+  },
+  {
+    "ime": " Macduff 2008",
+    "cena": 69.95,
+    "kolicina": "70",
+    "procent_alkohola": 0.46,
+    "cena_na_enoto": "99.93 per litre"
+  },
+  {
+    "ime": " Croftengea 2007",
+    "cena": 69.95,
+    "kolicina": "70",
+    "procent_alkohola": 0.46,
+    "cena_na_enoto": "99.93 per litre"
+  },
+  {
+    "ime": " Edradour 2009",
+    "cena": 70.95,
+    "kolicina": "50",
+    "procent_alkohola": 0.56,
+    "cena_na_enoto": "141.90 per litre"
+  },
+  {
+    "ime": " Ballechin 2009",
+    "cena": 70.95,
+    "kolicina": "50",
+    "procent_alkohola": 0.6,
+    "cena_na_enoto": "141.90 per litre"
+  },
+  {
+    "ime": " Edradour 2010",
+    "cena": 70.95,
+    "kolicina": "50",
+    "procent_alkohola": 0.57,
+    "cena_na_enoto": "141.90 per litre"
+  },
+  {
+    "ime": " Ardmore 2010",
+    "cena": 70.95,
+    "kolicina": "70",
+    "procent_alkohola": 0.54,
+    "cena_na_enoto": "101.36 per litre"
+  },
+  {
+    "ime": " Croftengea 2007",
+    "cena": 71.95,
+    "kolicina": "70",
+    "procent_alkohola": 0.54,
+    "cena_na_enoto": "102.79 per litre"
+  },
+  {
+    "ime": " Croftengea 2010",
+    "cena": 71.95,
+    "kolicina": "70",
+    "procent_alkohola": 0.48,
+    "cena_na_enoto": "102.79 per litre"
+  },
+  {
+    "ime": "Balblair 15 Year Old",
+    "cena": 66.95,
+    "kolicina": "70",
+    "procent_alkohola": 0.46,
+    "cena_na_enoto": "95.64 per litre"
+  },
+  {
+    "ime": " Teaninich 2007",
+    "cena": 72.95,
+    "kolicina": "70",
+    "procent_alkohola": 0.57,
+    "cena_na_enoto": "104.21 per litre"
+  },
+  {
+    "ime": "Dalmore Dominium",
+    "cena": 73.25,
+    "kolicina": "70",
+    "procent_alkohola": 0.43,
+    "cena_na_enoto": "104.64 per litre"
+  },
+  {
+    "ime": " Glenmorangie Spios",
+    "cena": 74.95,
+    "kolicina": "70",
+    "procent_alkohola": 0.46,
+    "cena_na_enoto": "107.07 per litre"
+  },
+  {
+    "ime": " Balblair 2005",
+    "cena": 74.95,
+    "kolicina": "70",
+    "procent_alkohola": 0.46,
+    "cena_na_enoto": "107.07 per litre"
+  },
+  {
+    "ime": " Deanston 18 Year Old",
+    "cena": 74.95,
+    "kolicina": "70",
+    "procent_alkohola": 0.46,
+    "cena_na_enoto": "107.07 per litre"
+  },
+  {
+    "ime": " Inchmoan 2007",
+    "cena": 74.95,
+    "kolicina": "70",
+    "procent_alkohola": 0.55,
+    "cena_na_enoto": "107.07 per litre"
+  },
+  {
+    "ime": " Oban 2005",
+    "cena": 74.95,
+    "kolicina": "70",
+    "procent_alkohola": 0.43,
+    "cena_na_enoto": "107.07 per litre"
+  },
+  {
+    "ime": " Teaninich 2008",
+    "cena": 74.95,
+    "kolicina": "70",
+    "procent_alkohola": 0.6,
+    "cena_na_enoto": "107.07 per litre"
+  },
+  {
+    "ime": " Glenmorangie 12 Year Old",
+    "cena": 74.95,
+    "kolicina": "70",
+    "procent_alkohola": 0.47,
+    "cena_na_enoto": "107.07 per litre"
+  },
+  {
+    "ime": "AnCnoc 18 Year Old",
+    "cena": 75.95,
+    "kolicina": "70",
+    "procent_alkohola": 0.46,
+    "cena_na_enoto": "108.50 per litre"
+  },
+  {
+    "ime": " Glenmorangie Astar",
+    "cena": 76.95,
+    "kolicina": "70",
+    "procent_alkohola": 0.53,
+    "cena_na_enoto": "109.93 per litre"
+  },
+  {
+    "ime": "Wolfburn Batch 128",
+    "cena": 78.95,
+    "kolicina": "70",
+    "procent_alkohola": 0.46,
+    "cena_na_enoto": "112.79 per litre"
+  },
+  {
+    "ime": "Wolfburn Batch 270",
+    "cena": 78.95,
+    "kolicina": "70",
+    "procent_alkohola": 0.46,
+    "cena_na_enoto": "112.79 per litre"
+  },
+  {
+    "ime": " Glenmorangie Allta",
+    "cena": 78.95,
+    "kolicina": "70",
+    "procent_alkohola": 0.51,
+    "cena_na_enoto": "112.79 per litre"
+  },
+  {
+    "ime": " Edradour 2008",
+    "cena": 78.95,
+    "kolicina": "70",
+    "procent_alkohola": 0.56,
+    "cena_na_enoto": "112.79 per litre"
+  },
+  {
+    "ime": "Inchmurrin 18 Year Old",
+    "cena": 79.95,
+    "kolicina": "70",
+    "procent_alkohola": 0.46,
+    "cena_na_enoto": "114.21 per litre"
+  },
+  {
+    "ime": " Edradour 2009",
+    "cena": 79.95,
+    "kolicina": "50",
+    "procent_alkohola": 0.57,
+    "cena_na_enoto": "159.90 per litre"
+  },
+  {
+    "ime": "AnCnoc Peaty",
+    "cena": 79.95,
+    "kolicina": "70",
+    "procent_alkohola": 0.46,
+    "cena_na_enoto": "114.21 per litre"
+  },
+  {
+    "ime": " Deanston 2008",
+    "cena": 79.95,
+    "kolicina": "70",
+    "procent_alkohola": 0.67,
+    "cena_na_enoto": "114.21 per litre"
+  },
+  {
+    "ime": " Teaninich 2007",
+    "cena": 79.95,
+    "kolicina": "70",
+    "procent_alkohola": 0.57,
+    "cena_na_enoto": "114.21 per litre"
+  },
+  {
+    "ime": " Tomatin 2006",
+    "cena": 79.95,
+    "kolicina": "70",
+    "procent_alkohola": 0.58,
+    "cena_na_enoto": "114.21 per litre"
+  },
+  {
+    "ime": " Tomatin 2006",
+    "cena": 80.95,
+    "kolicina": "70",
+    "procent_alkohola": 0.46,
+    "cena_na_enoto": "115.64 per litre"
+  },
+  {
+    "ime": "Dalmore Cigar Malt",
+    "cena": 81.95,
+    "kolicina": "70",
+    "procent_alkohola": 0.44,
+    "cena_na_enoto": "117.07 per litre"
+  },
+  {
+    "ime": "Glencadam 18 Year Old",
+    "cena": 83.95,
+    "kolicina": "70",
+    "procent_alkohola": 0.46,
+    "cena_na_enoto": "119.93 per litre"
+  },
+  {
+    "ime": "Glenmorangie Bacalta",
+    "cena": 84.95,
+    "kolicina": "70",
+    "procent_alkohola": 0.46,
+    "cena_na_enoto": "121.36 per litre"
+  },
+  {
+    "ime": " Croftengea 2005",
+    "cena": 84.95,
+    "kolicina": "70",
+    "procent_alkohola": 0.57,
+    "cena_na_enoto": "121.36 per litre"
+  },
+  {
+    "ime": " Teaninich 2005",
+    "cena": 84.95,
+    "kolicina": "70",
+    "procent_alkohola": 0.56,
+    "cena_na_enoto": "121.36 per litre"
+  },
+  {
+    "ime": "Royal Brackla 16 Year Old",
+    "cena": 85.95,
+    "kolicina": "70",
+    "procent_alkohola": 0.4,
+    "cena_na_enoto": "122.79 per litre"
+  },
+  {
+    "ime": "Glenmorangie The Cadboll",
+    "cena": 86.95,
+    "kolicina": "100",
+    "procent_alkohola": 0.43,
+    "cena_na_enoto": null
+  },
+  {
+    "ime": " Deanston 2002",
+    "cena": 88.95,
+    "kolicina": "70",
+    "procent_alkohola": 0.55,
+    "cena_na_enoto": "127.07 per litre"
+  },
+  {
+    "ime": " Deanston 2007",
+    "cena": 88.95,
+    "kolicina": "70",
+    "procent_alkohola": 0.65,
+    "cena_na_enoto": "127.07 per litre"
+  },
+  {
+    "ime": " Deanston 2006",
+    "cena": 88.95,
+    "kolicina": "70",
+    "procent_alkohola": 0.56,
+    "cena_na_enoto": "127.07 per litre"
+  },
+  {
+    "ime": "Glengoyne 18 Year Old",
+    "cena": 89.95,
+    "kolicina": "70",
+    "procent_alkohola": 0.43,
+    "cena_na_enoto": "128.50 per litre"
+  },
+  {
+    "ime": " Ardmore 1998",
+    "cena": 91.95,
+    "kolicina": "70",
+    "procent_alkohola": 0.43,
+    "cena_na_enoto": "131.36 per litre"
+  },
+  {
+    "ime": " Dalmore 2005",
+    "cena": 93.95,
+    "kolicina": "70",
+    "procent_alkohola": 0.58,
+    "cena_na_enoto": "134.21 per litre"
+  },
+  {
+    "ime": " Glenturret 2005",
+    "cena": 93.95,
+    "kolicina": "70",
+    "procent_alkohola": 0.54,
+    "cena_na_enoto": "134.21 per litre"
+  },
+  {
+    "ime": " Tomatin 18 Year Old",
+    "cena": 94.95,
+    "kolicina": "70",
+    "procent_alkohola": 0.46,
+    "cena_na_enoto": "135.64 per litre"
+  },
+  {
+    "ime": "Glencadam 21 Year Old",
+    "cena": 99.95,
+    "kolicina": "70",
+    "procent_alkohola": 0.46,
+    "cena_na_enoto": "142.79 per litre"
+  },
+  {
+    "ime": " Glenmorangie Tusail",
+    "cena": 99.95,
+    "kolicina": "70",
+    "procent_alkohola": 0.46,
+    "cena_na_enoto": "142.79 per litre"
+  },
+  {
+    "ime": " Balblair 21 Year Old",
+    "cena": 99.95,
+    "kolicina": "70",
+    "procent_alkohola": 0.43,
+    "cena_na_enoto": "142.79 per litre"
+  },
+  {
+    "ime": " Glencadam 2003",
+    "cena": 99.95,
+    "kolicina": "70",
+    "procent_alkohola": 0.63,
+    "cena_na_enoto": "142.79 per litre"
+  },
+  {
+    "ime": " Deanston 14 Year Old",
+    "cena": 99.95,
+    "kolicina": "70",
+    "procent_alkohola": 0.58,
+    "cena_na_enoto": "142.79 per litre"
+  },
+  {
+    "ime": " Dalmore 2005",
+    "cena": 99.95,
+    "kolicina": "70",
+    "procent_alkohola": 0.58,
+    "cena_na_enoto": "142.79 per litre"
+  },
+  {
+    "ime": " Glendronach 18 Year Old",
+    "cena": 105.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.46,
+    "cena_na_enoto": "150 per litre"
+  },
+  {
+    "ime": " Deanston 2002",
+    "cena": 105.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.5,
+    "cena_na_enoto": "150 per litre"
+  },
+  {
+    "ime": " Glenmorangie",
+    "cena": 110.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.46,
+    "cena_na_enoto": "157.14 per litre"
+  },
+  {
+    "ime": "Glencadam 19 Year Old Oloroso Sherry Finish",
+    "cena": 111.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.46,
+    "cena_na_enoto": "158.57 per litre"
+  },
+  {
+    "ime": "Old Pulteney 18 Year Old",
+    "cena": 112.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.46,
+    "cena_na_enoto": "160 per litre"
+  },
+  {
+    "ime": " Ben Nevis 10 Year Old Cask Strength",
+    "cena": 115.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.62,
+    "cena_na_enoto": "164.29 per litre"
+  },
+  {
+    "ime": " Inchfad 2005",
+    "cena": 115.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.57,
+    "cena_na_enoto": "164.29 per litre"
+  },
+  {
+    "ime": " Inchfad 2005",
+    "cena": 115.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.57,
+    "cena_na_enoto": "164.29 per litre"
+  },
+  {
+    "ime": "Balblair 18 Year Old",
+    "cena": 105.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.46,
+    "cena_na_enoto": "150 per litre"
+  },
+  {
+    "ime": " Ardmore 2006",
+    "cena": 120.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.52,
+    "cena_na_enoto": "171.43 per litre"
+  },
+  {
+    "ime": " Glencadam 1991",
+    "cena": 125.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.46,
+    "cena_na_enoto": "178.57 per litre"
+  },
+  {
+    "ime": "Glen Garioch 15 Year Old Sherry Cask",
+    "cena": 125.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.54,
+    "cena_na_enoto": "178.57 per litre"
+  },
+  {
+    "ime": " Aberfeldy 20 Year Old",
+    "cena": 125.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.43,
+    "cena_na_enoto": "178.57 per litre"
+  },
+  {
+    "ime": " Deanston 1999",
+    "cena": 130.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.53,
+    "cena_na_enoto": "185.71 per litre"
+  },
+  {
+    "ime": " Ardmore 1998",
+    "cena": 130.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.51,
+    "cena_na_enoto": "185.71 per litre"
+  },
+  {
+    "ime": "Compass Box Myths and Legends I",
+    "cena": 130.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.46,
+    "cena_na_enoto": "185.71 per litre"
+  },
+  {
+    "ime": " Deanston 2002",
+    "cena": 132.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.49,
+    "cena_na_enoto": "188.57 per litre"
+  },
+  {
+    "ime": " Old Fettercairn 10 Year Old",
+    "cena": 135.0,
+    "kolicina": "75",
+    "procent_alkohola": 0.43,
+    "cena_na_enoto": "180 per litre"
+  },
+  {
+    "ime": " Ardmore 1997",
+    "cena": 135.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.49,
+    "cena_na_enoto": "192.86 per litre"
+  },
+  {
+    "ime": "Loch Lomond 21 Year Old",
+    "cena": 135.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.46,
+    "cena_na_enoto": "192.86 per litre"
+  },
+  {
+    "ime": " Glengoyne 21 Year Old",
+    "cena": 140.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.43,
+    "cena_na_enoto": "200 per litre"
+  },
+  {
+    "ime": " Deanston 8 Year Old",
+    "cena": 140.0,
+    "kolicina": "75",
+    "procent_alkohola": 0.4,
+    "cena_na_enoto": "186.67 per litre"
+  },
+  {
+    "ime": "Wolfburn Kylver Series Release 3",
+    "cena": 140.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.5,
+    "cena_na_enoto": "200 per litre"
+  },
+  {
+    "ime": "Aberfeldy 21 Year Old",
+    "cena": 141.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.4,
+    "cena_na_enoto": "201.43 per litre"
+  },
+  {
+    "ime": " Aberfeldy 21 Year Old",
+    "cena": 141.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.4,
+    "cena_na_enoto": "201.43 per litre"
+  },
+  {
+    "ime": " Ardmore 1997",
+    "cena": 143.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.58,
+    "cena_na_enoto": "204.29 per litre"
+  },
+  {
+    "ime": " Deanston 1999",
+    "cena": 145.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.49,
+    "cena_na_enoto": "207.14 per litre"
+  },
+  {
+    "ime": " Deanston 1999",
+    "cena": 145.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.51,
+    "cena_na_enoto": "207.14 per litre"
+  },
+  {
+    "ime": " Glencadam 1998",
+    "cena": 145.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.54,
+    "cena_na_enoto": "207.14 per litre"
+  },
+  {
+    "ime": " Glendronach 21 Year Old Parliament",
+    "cena": 148.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.48,
+    "cena_na_enoto": "211.43 per litre"
+  },
+  {
+    "ime": " Glenglassaugh 12 Year Old",
+    "cena": 150.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.43,
+    "cena_na_enoto": "214.29 per litre"
+  },
+  {
+    "ime": " Tomatin 18 Year Old",
+    "cena": 150.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.46,
+    "cena_na_enoto": "214.29 per litre"
+  },
+  {
+    "ime": " Macduff 1997",
+    "cena": 150.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.51,
+    "cena_na_enoto": "214.29 per litre"
+  },
+  {
+    "ime": "Wolfburn Kylver Series Release 4",
+    "cena": 150.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.5,
+    "cena_na_enoto": "214.29 per litre"
+  },
+  {
+    "ime": "Glenmorangie Signet",
+    "cena": 155.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.46,
+    "cena_na_enoto": "221.43 per litre"
+  },
+  {
+    "ime": "Royal Lochnagar Selected Reserve",
+    "cena": 155.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.43,
+    "cena_na_enoto": "221.43 per litre"
+  },
+  {
+    "ime": " Deanston 1995",
+    "cena": 158.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.5,
+    "cena_na_enoto": "225.71 per litre"
+  },
+  {
+    "ime": " Deanston 1999",
+    "cena": 160.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.53,
+    "cena_na_enoto": "228.57 per litre"
+  },
+  {
+    "ime": " Ardmore 2002",
+    "cena": 160.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.53,
+    "cena_na_enoto": "228.57 per litre"
+  },
+  {
+    "ime": " Ardmore 1997",
+    "cena": 160.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.51,
+    "cena_na_enoto": "228.57 per litre"
+  },
+  {
+    "ime": " Fettercairn 1998",
+    "cena": 160.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.56,
+    "cena_na_enoto": "228.57 per litre"
+  },
+  {
+    "ime": " Tullibardine 1993",
+    "cena": 168.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.46,
+    "cena_na_enoto": "240 per litre"
+  },
+  {
+    "ime": "Tomatin Decades II",
+    "cena": 168.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.46,
+    "cena_na_enoto": "240 per litre"
+  },
+  {
+    "ime": "Fettercairn 22 Year Old",
+    "cena": 170.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.47,
+    "cena_na_enoto": "242.86 per litre"
+  },
+  {
+    "ime": " Tullibardine 5 Year Old",
+    "cena": 175.0,
+    "kolicina": "75",
+    "procent_alkohola": 0.4,
+    "cena_na_enoto": "233.33 per litre"
+  },
+  {
+    "ime": " Deanston Malt",
+    "cena": 175.0,
+    "kolicina": "75",
+    "procent_alkohola": 0.4,
+    "cena_na_enoto": "233.33 per litre"
+  },
+  {
+    "ime": " Tomatin 5 Year Old",
+    "cena": 175.0,
+    "kolicina": "75",
+    "procent_alkohola": 0.43,
+    "cena_na_enoto": "233.33 per litre"
+  },
+  {
+    "ime": " Tullibardine 5 Year Old",
+    "cena": 175.0,
+    "kolicina": "75",
+    "procent_alkohola": 0.4,
+    "cena_na_enoto": "233.33 per litre"
+  },
+  {
+    "ime": " Tullibardine 5 Year Old",
+    "cena": 175.0,
+    "kolicina": "75",
+    "procent_alkohola": 0.4,
+    "cena_na_enoto": "233.33 per litre"
+  },
+  {
+    "ime": " Clynelish 1997 Distillers Edition",
+    "cena": 175.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.46,
+    "cena_na_enoto": "250 per litre"
+  },
+  {
+    "ime": " Glenmorangie Milsean",
+    "cena": 175.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.46,
+    "cena_na_enoto": "250 per litre"
+  },
+  {
+    "ime": "Dalmore King Alexander III",
+    "cena": 170.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.4,
+    "cena_na_enoto": "242.86 per litre"
+  },
+  {
+    "ime": " Edradour 2000",
+    "cena": 185.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.47,
+    "cena_na_enoto": "264.29 per litre"
+  },
+  {
+    "ime": " Tomatin 1997",
+    "cena": 190.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.53,
+    "cena_na_enoto": "271.43 per litre"
+  },
+  {
+    "ime": "Royal Brackla 21 Year Old",
+    "cena": 192.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.4,
+    "cena_na_enoto": "274.29 per litre"
+  },
+  {
+    "ime": " Edradour 1999",
+    "cena": 195.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.56,
+    "cena_na_enoto": "278.57 per litre"
+  },
+  {
+    "ime": " Glenmorangie Astar",
+    "cena": 199.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.57,
+    "cena_na_enoto": "284.29 per litre"
+  },
+  {
+    "ime": " Fettercairn 1988",
+    "cena": 199.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.49,
+    "cena_na_enoto": "284.29 per litre"
+  },
+  {
+    "ime": " Aberfeldy 1991",
+    "cena": 210.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.43,
+    "cena_na_enoto": "300 per litre"
+  },
+  {
+    "ime": " Blair Athol 8 Year Old",
+    "cena": 220.0,
+    "kolicina": "75",
+    "procent_alkohola": 0.4,
+    "cena_na_enoto": "293.33 per litre"
+  },
+  {
+    "ime": " Blair Athol 8 Year Old",
+    "cena": 225.0,
+    "kolicina": "75",
+    "procent_alkohola": 0.4,
+    "cena_na_enoto": "300 per litre"
+  },
+  {
+    "ime": "Glen Ord 12 Year Old",
+    "cena": 225.0,
+    "kolicina": "75",
+    "procent_alkohola": 0.43,
+    "cena_na_enoto": "300 per litre"
+  },
+  {
+    "ime": " Blair Athol 8 Year Old",
+    "cena": 225.0,
+    "kolicina": "75",
+    "procent_alkohola": 0.4,
+    "cena_na_enoto": "300 per litre"
+  },
+  {
+    "ime": " Glenmorangie 10 Year Old",
+    "cena": 225.0,
+    "kolicina": "100",
+    "procent_alkohola": 0.43,
+    "cena_na_enoto": null
+  },
+  {
+    "ime": " Glencadam 25 Year Old",
+    "cena": 225.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.46,
+    "cena_na_enoto": "321.43 per litre"
+  },
+  {
+    "ime": "Glen Garioch 12 Year Old",
+    "cena": 225.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.4,
+    "cena_na_enoto": "321.43 per litre"
+  },
+  {
+    "ime": "Royal Brackla 18 Year Old PX Cask",
+    "cena": 226.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.46,
+    "cena_na_enoto": "322.86 per litre"
+  },
+  {
+    "ime": " Blair Athol 1988",
+    "cena": 230.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.51,
+    "cena_na_enoto": "328.57 per litre"
+  },
+  {
+    "ime": " Loch Lomond 2002 Christie Kerr",
+    "cena": 250.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.48,
+    "cena_na_enoto": "357.14 per litre"
+  },
+  {
+    "ime": " Royal Lochnagar 17 Year Old",
+    "cena": 250.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.56,
+    "cena_na_enoto": "357.14 per litre"
+  },
+  {
+    "ime": " Tomatin 1990",
+    "cena": 255.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.5,
+    "cena_na_enoto": "364.29 per litre"
+  },
+  {
+    "ime": " Clynelish 1995",
+    "cena": 260.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.55,
+    "cena_na_enoto": "371.43 per litre"
+  },
+  {
+    "ime": " Royal Brackla 20 Year Old",
+    "cena": 260.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.53,
+    "cena_na_enoto": "371.43 per litre"
+  },
+  {
+    "ime": " Royal Brackla 20 Year Old",
+    "cena": 260.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.53,
+    "cena_na_enoto": "371.43 per litre"
+  },
+  {
+    "ime": " Teaninich 1999",
+    "cena": 265.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.56,
+    "cena_na_enoto": "378.57 per litre"
+  },
+  {
+    "ime": " Glenmorangie 18 Year Old",
+    "cena": 275.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.43,
+    "cena_na_enoto": "392.86 per litre"
+  },
+  {
+    "ime": " Glengoyne 8 Year Old",
+    "cena": 275.0,
+    "kolicina": "75.7",
+    "procent_alkohola": 0.4,
+    "cena_na_enoto": "363.28 per litre"
+  },
+  {
+    "ime": " Blair Athol 1988",
+    "cena": 275.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.48,
+    "cena_na_enoto": "392.86 per litre"
+  },
+  {
+    "ime": " Edradour 1995",
+    "cena": 280.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.56,
+    "cena_na_enoto": "400 per litre"
+  },
+  {
+    "ime": " Fettercairn 1988",
+    "cena": 280.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.57,
+    "cena_na_enoto": "400 per litre"
+  },
+  {
+    "ime": " Clynelish 1995",
+    "cena": 285.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.56,
+    "cena_na_enoto": "407.14 per litre"
+  },
+  {
+    "ime": " Glendronach 1993",
+    "cena": 285.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.53,
+    "cena_na_enoto": "407.14 per litre"
+  },
+  {
+    "ime": " Tullibardine 1993",
+    "cena": 295.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.55,
+    "cena_na_enoto": "421.43 per litre"
+  },
+  {
+    "ime": " Dalmore 12 Year Old",
+    "cena": 299.0,
+    "kolicina": "75",
+    "procent_alkohola": 0.4,
+    "cena_na_enoto": "398.67 per litre"
+  },
+  {
+    "ime": " Glen Deveron 8 Year Old",
+    "cena": 299.0,
+    "kolicina": "75",
+    "procent_alkohola": 0.4,
+    "cena_na_enoto": "398.67 per litre"
+  },
+  {
+    "ime": " Glenmorangie 10 Year Old",
+    "cena": 299.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.57,
+    "cena_na_enoto": "427.14 per litre"
+  },
+  {
+    "ime": " Dalmore 12 Year Old",
+    "cena": 299.0,
+    "kolicina": "75",
+    "procent_alkohola": 0.4,
+    "cena_na_enoto": "398.67 per litre"
+  },
+  {
+    "ime": " Dalmore 12 Year Old",
+    "cena": 299.0,
+    "kolicina": "75",
+    "procent_alkohola": 0.43,
+    "cena_na_enoto": "398.67 per litre"
+  },
+  {
+    "ime": " Deanston Mill 8 Year Old",
+    "cena": 299.0,
+    "kolicina": "75",
+    "procent_alkohola": 0.4,
+    "cena_na_enoto": "398.67 per litre"
+  },
+  {
+    "ime": " Blair Athol 8 Year Old",
+    "cena": 299.0,
+    "kolicina": "75",
+    "procent_alkohola": 0.4,
+    "cena_na_enoto": "398.67 per litre"
+  },
+  {
+    "ime": " Dalmore 12 Year Old",
+    "cena": 299.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.4,
+    "cena_na_enoto": "427.14 per litre"
+  },
+  {
+    "ime": " Oban 14 Year Old",
+    "cena": 299.0,
+    "kolicina": "100",
+    "procent_alkohola": 0.43,
+    "cena_na_enoto": null
+  },
+  {
+    "ime": " Dalmore 12 Year Old",
+    "cena": 299.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.43,
+    "cena_na_enoto": "427.15 per litre"
+  },
+  {
+    "ime": " Glengoyne 25 Year Old",
+    "cena": 315.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.48,
+    "cena_na_enoto": "450 per litre"
+  },
+  {
+    "ime": " Ardmore 1988",
+    "cena": 315.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.5,
+    "cena_na_enoto": "450 per litre"
+  },
+  {
+    "ime": " Old Fettercairn 26 Year Old",
+    "cena": 325.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.45,
+    "cena_na_enoto": "464.29 per litre"
+  },
+  {
+    "ime": " Fettercairn 1988",
+    "cena": 325.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.48,
+    "cena_na_enoto": "464.29 per litre"
+  },
+  {
+    "ime": " Tomatin 30 Year Old",
+    "cena": 335.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.46,
+    "cena_na_enoto": "478.57 per litre"
+  },
+  {
+    "ime": "Glenesk 5 Year Old",
+    "cena": 350.0,
+    "kolicina": "75",
+    "procent_alkohola": 0.4,
+    "cena_na_enoto": "466.67 per litre"
+  },
+  {
+    "ime": " Glenesk 12 Year Old",
+    "cena": 350.0,
+    "kolicina": "75",
+    "procent_alkohola": 0.4,
+    "cena_na_enoto": "466.67 per litre"
+  },
+  {
+    "ime": " Glenmorangie 10 Year Old",
+    "cena": 350.0,
+    "kolicina": "100",
+    "procent_alkohola": 0.57,
+    "cena_na_enoto": null
+  },
+  {
+    "ime": " Glenesk 1982",
+    "cena": 350.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.4,
+    "cena_na_enoto": "500 per litre"
+  },
+  {
+    "ime": " Glenmorangie 1993",
+    "cena": 350.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.57,
+    "cena_na_enoto": "500 per litre"
+  },
+  {
+    "ime": " Glenesk 12 Year Old",
+    "cena": 350.0,
+    "kolicina": "75",
+    "procent_alkohola": 0.4,
+    "cena_na_enoto": "466.67 per litre"
+  },
+  {
+    "ime": " Glenesk 12 Year Old",
+    "cena": 350.0,
+    "kolicina": "75",
+    "procent_alkohola": 0.4,
+    "cena_na_enoto": "466.67 per litre"
+  },
+  {
+    "ime": " Glenmorangie 1992",
+    "cena": 350.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.57,
+    "cena_na_enoto": "500 per litre"
+  },
+  {
+    "ime": " Glenesk 12 Year Old",
+    "cena": 350.0,
+    "kolicina": "75",
+    "procent_alkohola": 0.4,
+    "cena_na_enoto": "466.67 per litre"
+  },
+  {
+    "ime": " Glen Esk 1984",
+    "cena": 350.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.49,
+    "cena_na_enoto": "500 per litre"
+  },
+  {
+    "ime": "Glenturret 30 Year Old",
+    "cena": 350.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.43,
+    "cena_na_enoto": "500 per litre"
+  },
+  {
+    "ime": " Ord 12 Year Old",
+    "cena": 375.0,
+    "kolicina": "75.7",
+    "procent_alkohola": 0.4,
+    "cena_na_enoto": "495.38 per litre"
+  },
+  {
+    "ime": " Dalmore 12 Year Old",
+    "cena": 375.0,
+    "kolicina": "100",
+    "procent_alkohola": 0.43,
+    "cena_na_enoto": null
+  },
+  {
+    "ime": " Deanston Mill",
+    "cena": 375.0,
+    "kolicina": "75",
+    "procent_alkohola": 0.4,
+    "cena_na_enoto": "500 per litre"
+  },
+  {
+    "ime": " Blair Athol 1993",
+    "cena": 375.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.58,
+    "cena_na_enoto": "535.71 per litre"
+  },
+  {
+    "ime": " Clynelish 1993",
+    "cena": 375.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.52,
+    "cena_na_enoto": "535.71 per litre"
+  },
+  {
+    "ime": " Dalmore 12 Year Old",
+    "cena": 375.0,
+    "kolicina": "100",
+    "procent_alkohola": 0.43,
+    "cena_na_enoto": null
+  },
+  {
+    "ime": " Dalmore 12 Year Old",
+    "cena": 375.0,
+    "kolicina": "100",
+    "procent_alkohola": 0.43,
+    "cena_na_enoto": null
+  },
+  {
+    "ime": " Old Pulteney 25 Year Old",
+    "cena": 380.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.46,
+    "cena_na_enoto": "542.86 per litre"
+  },
+  {
+    "ime": " Clynelish 14 Year Old",
+    "cena": 399.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.43,
+    "cena_na_enoto": "570 per litre"
+  },
+  {
+    "ime": " Glenesk 1984",
+    "cena": 399.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.43,
+    "cena_na_enoto": "570 per litre"
+  },
+  {
+    "ime": " Glendronach 8 Year Old",
+    "cena": 399.0,
+    "kolicina": "75",
+    "procent_alkohola": 0.4,
+    "cena_na_enoto": "532 per litre"
+  },
+  {
+    "ime": " Glenturret 8 Year Old",
+    "cena": 399.0,
+    "kolicina": "75",
+    "procent_alkohola": 0.43,
+    "cena_na_enoto": "532 per litre"
+  },
+  {
+    "ime": " Glenturret 8 Year Old",
+    "cena": 399.0,
+    "kolicina": "75",
+    "procent_alkohola": 0.43,
+    "cena_na_enoto": "532 per litre"
+  },
+  {
+    "ime": " Glenturret 8 Year Old",
+    "cena": 399.0,
+    "kolicina": "75",
+    "procent_alkohola": 0.43,
+    "cena_na_enoto": "532 per litre"
+  },
+  {
+    "ime": " Tomatin 1984",
+    "cena": 399.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.45,
+    "cena_na_enoto": "570 per litre"
+  },
+  {
+    "ime": " Fettercairn 875",
+    "cena": 399.0,
+    "kolicina": "75",
+    "procent_alkohola": 0.43,
+    "cena_na_enoto": "532 per litre"
+  },
+  {
+    "ime": " Glencadam St. Michael",
+    "cena": 399.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.4,
+    "cena_na_enoto": "570 per litre"
+  },
+  {
+    "ime": " Old Pulteney 25 Year Old",
+    "cena": 399.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.46,
+    "cena_na_enoto": "570 per litre"
+  },
+  {
+    "ime": " Blair Athol 12 Year Old",
+    "cena": 399.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.43,
+    "cena_na_enoto": "570 per litre"
+  },
+  {
+    "ime": " Glenturret 7 Year Old",
+    "cena": 425.0,
+    "kolicina": "75",
+    "procent_alkohola": 0.43,
+    "cena_na_enoto": "566.67 per litre"
+  },
+  {
+    "ime": "Glen Ord 28 Year Old",
+    "cena": 450.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.58,
+    "cena_na_enoto": "642.86 per litre"
+  },
+  {
+    "ime": " North Port 1970",
+    "cena": 450.0,
+    "kolicina": "75",
+    "procent_alkohola": 0.4,
+    "cena_na_enoto": "600 per litre"
+  },
+  {
+    "ime": " Glenesk 1984",
+    "cena": 450.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.43,
+    "cena_na_enoto": "642.86 per litre"
+  },
+  {
+    "ime": " Banff 1974",
+    "cena": 450.0,
+    "kolicina": "75",
+    "procent_alkohola": 0.4,
+    "cena_na_enoto": "600 per litre"
+  },
+  {
+    "ime": " Clynelish 18 Year Old",
+    "cena": 450.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.51,
+    "cena_na_enoto": "642.86 per litre"
+  },
+  {
+    "ime": " Tomatin 1965",
+    "cena": 450.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.46,
+    "cena_na_enoto": "642.86 per litre"
+  },
+  {
+    "ime": " Tomatin 1976",
+    "cena": 450.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.46,
+    "cena_na_enoto": "642.86 per litre"
+  },
+  {
+    "ime": " Tomatin 1976",
+    "cena": 450.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.46,
+    "cena_na_enoto": "642.86 per litre"
+  },
+  {
+    "ime": "Loch Lomond 30 Year Old",
+    "cena": 450.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.47,
+    "cena_na_enoto": "642.86 per litre"
+  },
+  {
+    "ime": " Lochside 1981",
+    "cena": 450.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.46,
+    "cena_na_enoto": "642.86 per litre"
+  },
+  {
+    "ime": "Fettercairn 28 Year Old",
+    "cena": 460.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.42,
+    "cena_na_enoto": "657.14 per litre"
+  },
+  {
+    "ime": " Glenmorangie Finealta",
+    "cena": 475.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.46,
+    "cena_na_enoto": "678.57 per litre"
+  },
+  {
+    "ime": " Clynelish Select Reserve",
+    "cena": 490.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.55,
+    "cena_na_enoto": "700 per litre"
+  },
+  {
+    "ime": " Old Pulteney 1983",
+    "cena": 495.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.46,
+    "cena_na_enoto": "707.14 per litre"
+  },
+  {
+    "ime": "Balblair 25 Year Old",
+    "cena": 499.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.46,
+    "cena_na_enoto": "712.86 per litre"
+  },
+  {
+    "ime": " Fettercairn 875",
+    "cena": 500.0,
+    "kolicina": "75",
+    "procent_alkohola": 0.43,
+    "cena_na_enoto": "666.67 per litre"
+  },
+  {
+    "ime": " Glenmorangie 1993 Ealanta",
+    "cena": 500.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.46,
+    "cena_na_enoto": "714.29 per litre"
+  },
+  {
+    "ime": " Glen Deveron 15 Year Old",
+    "cena": 500.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.4,
+    "cena_na_enoto": "714.29 per litre"
+  },
+  {
+    "ime": "Dalmore Custodian Malt",
+    "cena": 500.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.52,
+    "cena_na_enoto": "714.29 per litre"
+  },
+  {
+    "ime": " Lochside 1981",
+    "cena": 500.0,
+    "kolicina": "75",
+    "procent_alkohola": 0.5,
+    "cena_na_enoto": "666.67 per litre"
+  },
+  {
+    "ime": " Lochside 1981",
+    "cena": 500.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.5,
+    "cena_na_enoto": "714.29 per litre"
+  },
+  {
+    "ime": " Lochside 1981",
+    "cena": 500.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.5,
+    "cena_na_enoto": "714.29 per litre"
+  },
+  {
+    "ime": " Blair Athol 15 Year Old",
+    "cena": 550.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.59,
+    "cena_na_enoto": "785.71 per litre"
+  },
+  {
+    "ime": " Glenury Royal 12 Year Old",
+    "cena": 550.0,
+    "kolicina": "75.7",
+    "procent_alkohola": 0.4,
+    "cena_na_enoto": "726.55 per litre"
+  },
+  {
+    "ime": " Glenmorangie 1993",
+    "cena": 550.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.46,
+    "cena_na_enoto": "785.71 per litre"
+  },
+  {
+    "ime": " Clynelish Select Reserve 2nd Edition",
+    "cena": 550.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.56,
+    "cena_na_enoto": "785.71 per litre"
+  },
+  {
+    "ime": " Millburn 1983",
+    "cena": 550.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.59,
+    "cena_na_enoto": "785.71 per litre"
+  },
+  {
+    "ime": " Glenmorangie 10 Year Old",
+    "cena": 550.0,
+    "kolicina": "200",
+    "procent_alkohola": 0.4,
+    "cena_na_enoto": "275 per litre"
+  },
+  {
+    "ime": " Glendronach 1992",
+    "cena": 550.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.48,
+    "cena_na_enoto": "785.71 per litre"
+  },
+  {
+    "ime": " Teaninich 1983",
+    "cena": 575.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.57,
+    "cena_na_enoto": "821.43 per litre"
+  },
+  {
+    "ime": "Glenmorangie Grand Vintage 1996",
+    "cena": 595.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.43,
+    "cena_na_enoto": "850 per litre"
+  },
+  {
+    "ime": " Tomatin 36 Year Old",
+    "cena": 599.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.46,
+    "cena_na_enoto": "855.71 per litre"
+  },
+  {
+    "ime": " Tomatin 36 Year Old",
+    "cena": 599.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.46,
+    "cena_na_enoto": "855.71 per litre"
+  },
+  {
+    "ime": " Dalmore 12 Year Old",
+    "cena": 600.0,
+    "kolicina": "75",
+    "procent_alkohola": 0.43,
+    "cena_na_enoto": "800 per litre"
+  },
+  {
+    "ime": "Glenmorangie Original 1974",
+    "cena": 600.0,
+    "kolicina": "50",
+    "procent_alkohola": 0.43,
+    "cena_na_enoto": "1,200 per litre"
+  },
+  {
+    "ime": " Glenmorangie 1979",
+    "cena": 600.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.4,
+    "cena_na_enoto": "857.14 per litre"
+  },
+  {
+    "ime": " Glenmorangie Port Wood",
+    "cena": 600.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.47,
+    "cena_na_enoto": "857.14 per litre"
+  },
+  {
+    "ime": " Glenesk 1974",
+    "cena": 600.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.53,
+    "cena_na_enoto": "857.14 per litre"
+  },
+  {
+    "ime": " Glencadam 12 Year Old",
+    "cena": 600.0,
+    "kolicina": "75",
+    "procent_alkohola": 0.4,
+    "cena_na_enoto": "800 per litre"
+  },
+  {
+    "ime": " Glenesk 1974",
+    "cena": 600.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.53,
+    "cena_na_enoto": "857.14 per litre"
+  },
+  {
+    "ime": " Glendronach 8 Year Old",
+    "cena": 600.0,
+    "kolicina": "75",
+    "procent_alkohola": 0.4,
+    "cena_na_enoto": "800 per litre"
+  },
+  {
+    "ime": " Lochside 1981",
+    "cena": 600.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.51,
+    "cena_na_enoto": "857.14 per litre"
+  },
+  {
+    "ime": " Glencadam 12 Year Old",
+    "cena": 650.0,
+    "kolicina": "75",
+    "procent_alkohola": 0.4,
+    "cena_na_enoto": "866.67 per litre"
+  },
+  {
+    "ime": " Glenesk Maltings 1969",
+    "cena": 650.0,
+    "kolicina": "75",
+    "procent_alkohola": 0.6,
+    "cena_na_enoto": "866.67 per litre"
+  },
+  {
+    "ime": "Glenmorangie Cognac Matured",
+    "cena": 650.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.43,
+    "cena_na_enoto": "928.57 per litre"
+  },
+  {
+    "ime": " Brechin 1976",
+    "cena": 650.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.6,
+    "cena_na_enoto": "928.57 per litre"
+  },
+  {
+    "ime": " Brechin 1977",
+    "cena": 650.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.53,
+    "cena_na_enoto": "928.57 per litre"
+  },
+  {
+    "ime": " Glenmorangie 10 Year Old",
+    "cena": 650.0,
+    "kolicina": "75",
+    "procent_alkohola": 0.43,
+    "cena_na_enoto": "866.67 per litre"
+  },
+  {
+    "ime": " Tomatin 36 Year Old",
+    "cena": 650.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.46,
+    "cena_na_enoto": "928.57 per litre"
+  },
+  {
+    "ime": " Lochside 1981",
+    "cena": 650.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.46,
+    "cena_na_enoto": "928.57 per litre"
+  },
+  {
+    "ime": " Clynelish 1982",
+    "cena": 650.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.46,
+    "cena_na_enoto": "928.57 per litre"
+  },
+  {
+    "ime": " Millburn 1983",
+    "cena": 650.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.6,
+    "cena_na_enoto": "928.57 per litre"
+  },
+  {
+    "ime": " Glen Mhor 1965",
+    "cena": 660.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.43,
+    "cena_na_enoto": "942.86 per litre"
+  },
+  {
+    "ime": " North Port Brechin 1974",
+    "cena": 675.0,
+    "kolicina": "75",
+    "procent_alkohola": 0.43,
+    "cena_na_enoto": "900 per litre"
+  },
+  {
+    "ime": " Millburn 1974",
+    "cena": 699.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.59,
+    "cena_na_enoto": "998.57 per litre"
+  },
+  {
+    "ime": " North Port Brechin 1979",
+    "cena": 699.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.61,
+    "cena_na_enoto": "998.57 per litre"
+  },
+  {
+    "ime": " Glenury 1978",
+    "cena": 699.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.43,
+    "cena_na_enoto": "998.57 per litre"
+  },
+  {
+    "ime": " Glen Flagler 5 Year Old",
+    "cena": 699.0,
+    "kolicina": "200",
+    "procent_alkohola": 0.4,
+    "cena_na_enoto": "349.50 per litre"
+  },
+  {
+    "ime": " Glenesk 1983",
+    "cena": 699.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.56,
+    "cena_na_enoto": "998.57 per litre"
+  },
+  {
+    "ime": " Banff 1982",
+    "cena": 700.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.57,
+    "cena_na_enoto": "1,000 per litre"
+  },
+  {
+    "ime": " Glenesk 1974",
+    "cena": 700.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.48,
+    "cena_na_enoto": "1,000 per litre"
+  },
+  {
+    "ime": " Glenugie 1967",
+    "cena": 700.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.4,
+    "cena_na_enoto": "1,000 per litre"
+  },
+  {
+    "ime": " Glenugie 1967",
+    "cena": 700.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.4,
+    "cena_na_enoto": "1,000 per litre"
+  },
+  {
+    "ime": " Ben Nevis 1991",
+    "cena": 700.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.61,
+    "cena_na_enoto": "1,000 per litre"
+  },
+  {
+    "ime": "Glengoyne 30 Year Old",
+    "cena": 720.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.47,
+    "cena_na_enoto": "1,028.57 per litre"
+  },
+  {
+    "ime": " Glen Albyn 10 Year Old",
+    "cena": 750.0,
+    "kolicina": "75",
+    "procent_alkohola": 0.43,
+    "cena_na_enoto": "1,000 per litre"
+  },
+  {
+    "ime": " Glenmorangie 1988",
+    "cena": 750.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.57,
+    "cena_na_enoto": "1,071.43 per litre"
+  },
+  {
+    "ime": " Glenmorangie 1991",
+    "cena": 750.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.56,
+    "cena_na_enoto": "1,071.43 per litre"
+  },
+  {
+    "ime": " Glenmorangie 1993",
+    "cena": 750.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.56,
+    "cena_na_enoto": "1,071.43 per litre"
+  },
+  {
+    "ime": " Glenmorangie 25 Year Old",
+    "cena": 750.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.43,
+    "cena_na_enoto": "1,071.43 per litre"
+  },
+  {
+    "ime": " Glen Mhor 10 Year Old",
+    "cena": 750.0,
+    "kolicina": "75",
+    "procent_alkohola": 0.43,
+    "cena_na_enoto": "1,000 per litre"
+  },
+  {
+    "ime": " Glenugie 1976",
+    "cena": 750.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.5,
+    "cena_na_enoto": "1,071.43 per litre"
+  },
+  {
+    "ime": " Millburn 1975",
+    "cena": 750.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.59,
+    "cena_na_enoto": "1,071.43 per litre"
+  },
+  {
+    "ime": " Glenugie 1966",
+    "cena": 750.0,
+    "kolicina": "75",
+    "procent_alkohola": 0.4,
+    "cena_na_enoto": "1,000 per litre"
+  },
+  {
+    "ime": " Lochside 1966",
+    "cena": 750.0,
+    "kolicina": "75",
+    "procent_alkohola": 0.4,
+    "cena_na_enoto": "1,000 per litre"
+  },
+  {
+    "ime": " Glen Garioch 1975",
+    "cena": 750.0,
+    "kolicina": "75",
+    "procent_alkohola": 0.43,
+    "cena_na_enoto": "1,000 per litre"
+  },
+  {
+    "ime": " Glenugie 1966",
+    "cena": 750.0,
+    "kolicina": "75",
+    "procent_alkohola": 0.4,
+    "cena_na_enoto": "1,000 per litre"
+  },
+  {
+    "ime": " Old Pulteney 8 Year Old",
+    "cena": 750.0,
+    "kolicina": "75",
+    "procent_alkohola": 0.4,
+    "cena_na_enoto": "1,000 per litre"
+  },
+  {
+    "ime": " Glenury Royal 1973",
+    "cena": 750.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.54,
+    "cena_na_enoto": "1,071.43 per litre"
+  },
+  {
+    "ime": " Glenugie 1976",
+    "cena": 750.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.52,
+    "cena_na_enoto": "1,071.43 per litre"
+  },
+  {
+    "ime": " Macduff 1963",
+    "cena": 750.0,
+    "kolicina": "75",
+    "procent_alkohola": 0.4,
+    "cena_na_enoto": "1,000 per litre"
+  },
+  {
+    "ime": " Teaninich 12 Year Old",
+    "cena": 750.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.43,
+    "cena_na_enoto": "1,071.43 per litre"
+  },
+  {
+    "ime": " Glenmorangie 10 Year Old",
+    "cena": 750.0,
+    "kolicina": "75",
+    "procent_alkohola": 0.4,
+    "cena_na_enoto": "1,000 per litre"
+  },
+  {
+    "ime": " Glenugie 1965",
+    "cena": 750.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.43,
+    "cena_na_enoto": "1,071.43 per litre"
+  },
+  {
+    "ime": " Glenlochy 1980",
+    "cena": 750.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.6,
+    "cena_na_enoto": "1,071.43 per litre"
+  },
+  {
+    "ime": " Glen Mhor 10 Year Old",
+    "cena": 750.0,
+    "kolicina": "75",
+    "procent_alkohola": 0.43,
+    "cena_na_enoto": "1,000 per litre"
+  },
+  {
+    "ime": " Lochside 1966",
+    "cena": 750.0,
+    "kolicina": "75",
+    "procent_alkohola": 0.4,
+    "cena_na_enoto": "1,000 per litre"
+  },
+  {
+    "ime": " Glenmorangie 25 Year Old",
+    "cena": 750.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.43,
+    "cena_na_enoto": "1,071.43 per litre"
+  },
+  {
+    "ime": " Glenugie 1966",
+    "cena": 750.0,
+    "kolicina": "75",
+    "procent_alkohola": 0.4,
+    "cena_na_enoto": "1,000 per litre"
+  },
+  {
+    "ime": " Glenugie 1965",
+    "cena": 750.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.43,
+    "cena_na_enoto": "1,071.43 per litre"
+  },
+  {
+    "ime": " Glenmorangie 1987",
+    "cena": 750.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.56,
+    "cena_na_enoto": "1,071.43 per litre"
+  },
+  {
+    "ime": " SMWS 78.17 (Ben Nevis)",
+    "cena": 750.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.64,
+    "cena_na_enoto": "1,071.43 per litre"
+  },
+  {
+    "ime": " Tomatin 1975",
+    "cena": 750.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.56,
+    "cena_na_enoto": "1,071.43 per litre"
+  },
+  {
+    "ime": " Hillside 1971",
+    "cena": 799.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.62,
+    "cena_na_enoto": "1,141.43 per litre"
+  },
+  {
+    "ime": " Glenmorangie 1974",
+    "cena": 800.0,
+    "kolicina": "75",
+    "procent_alkohola": 0.43,
+    "cena_na_enoto": "1,066.67 per litre"
+  },
+  {
+    "ime": " Glenmorangie 1975",
+    "cena": 800.0,
+    "kolicina": "75",
+    "procent_alkohola": 0.43,
+    "cena_na_enoto": "1,066.67 per litre"
+  },
+  {
+    "ime": " Brora 1982",
+    "cena": 800.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.43,
+    "cena_na_enoto": "1,142.86 per litre"
+  },
+  {
+    "ime": " Glenmorangie 1974",
+    "cena": 800.0,
+    "kolicina": "75",
+    "procent_alkohola": 0.43,
+    "cena_na_enoto": "1,066.67 per litre"
+  },
+  {
+    "ime": " Glenesk 1979",
+    "cena": 800.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.46,
+    "cena_na_enoto": "1,142.86 per litre"
+  },
+  {
+    "ime": " Glenmorangie 1974",
+    "cena": 800.0,
+    "kolicina": "75",
+    "procent_alkohola": 0.43,
+    "cena_na_enoto": "1,066.67 per litre"
+  },
+  {
+    "ime": " Glenmorangie 16 Year Old",
+    "cena": 850.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.56,
+    "cena_na_enoto": "1,214.28 per litre"
+  },
+  {
+    "ime": " Brora 1981",
+    "cena": 850.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.43,
+    "cena_na_enoto": "1,214.29 per litre"
+  },
+  {
+    "ime": " Glenury Royal 1984",
+    "cena": 850.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.46,
+    "cena_na_enoto": "1,214.29 per litre"
+  },
+  {
+    "ime": " Brora 1981",
+    "cena": 850.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.46,
+    "cena_na_enoto": "1,214.29 per litre"
+  },
+  {
+    "ime": "Wolfburn Inaugural Special Edition 2016",
+    "cena": 850.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.46,
+    "cena_na_enoto": "1,214.29 per litre"
+  },
+  {
+    "ime": " Brora 1981",
+    "cena": 850.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.43,
+    "cena_na_enoto": "1,214.29 per litre"
+  },
+  {
+    "ime": " Old Fettercairn 1967",
+    "cena": 850.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.4,
+    "cena_na_enoto": "1,214.29 per litre"
+  },
+  {
+    "ime": " Teaninich 1975",
+    "cena": 880.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.4,
+    "cena_na_enoto": "1,257.14 per litre"
+  },
+  {
+    "ime": " Glenugie 1966",
+    "cena": 900.0,
+    "kolicina": "75",
+    "procent_alkohola": 0.4,
+    "cena_na_enoto": "1,200 per litre"
+  },
+  {
+    "ime": " Glenugie 1966",
+    "cena": 900.0,
+    "kolicina": "75",
+    "procent_alkohola": 0.4,
+    "cena_na_enoto": "1,200 per litre"
+  },
+  {
+    "ime": " Brora 1981",
+    "cena": 900.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.46,
+    "cena_na_enoto": "1,285.71 per litre"
+  },
+  {
+    "ime": " Brora 1981",
+    "cena": 900.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.46,
+    "cena_na_enoto": "1,285.71 per litre"
+  },
+  {
+    "ime": " Glenglassaugh 1978",
+    "cena": 900.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.48,
+    "cena_na_enoto": "1,285.71 per litre"
+  },
+  {
+    "ime": " Glendronach 12 Year Old",
+    "cena": 950.0,
+    "kolicina": "75",
+    "procent_alkohola": 0.4,
+    "cena_na_enoto": "1,266.67 per litre"
+  },
+  {
+    "ime": " Balblair 33 Year Old + Glass",
+    "cena": 950.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.45,
+    "cena_na_enoto": "1,357.15 per litre"
+  },
+  {
+    "ime": " Glenugie 1973",
+    "cena": 1000.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.54,
+    "cena_na_enoto": "1,428.57 per litre"
+  },
+  {
+    "ime": " SMWS 78.8 (Ben Nevis)",
+    "cena": 1000.0,
+    "kolicina": "75",
+    "procent_alkohola": 0.56,
+    "cena_na_enoto": "1,333.33 per litre"
+  },
+  {
+    "ime": " SMWS 78.7 (Ben Nevis)",
+    "cena": 1000.0,
+    "kolicina": "75",
+    "procent_alkohola": 0.57,
+    "cena_na_enoto": "1,333.33 per litre"
+  },
+  {
+    "ime": " Brora 1981",
+    "cena": 1000.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.5,
+    "cena_na_enoto": "1,428.57 per litre"
+  },
+  {
+    "ime": " Brora 1982",
+    "cena": 1000.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.5,
+    "cena_na_enoto": "1,428.57 per litre"
+  },
+  {
+    "ime": " Brora 1982",
+    "cena": 1000.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.5,
+    "cena_na_enoto": "1,428.57 per litre"
+  },
+  {
+    "ime": " Brora 1982",
+    "cena": 1000.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.5,
+    "cena_na_enoto": "1,428.57 per litre"
+  },
+  {
+    "ime": " Brora 1982",
+    "cena": 1000.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.46,
+    "cena_na_enoto": "1,428.57 per litre"
+  },
+  {
+    "ime": " Glenmorangie 1981",
+    "cena": 1000.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.55,
+    "cena_na_enoto": "1,428.57 per litre"
+  },
+  {
+    "ime": "Glenmorangie Claret Finish",
+    "cena": 1000.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.43,
+    "cena_na_enoto": "1,428.57 per litre"
+  },
+  {
+    "ime": " Glen Mhor 1965",
+    "cena": 1000.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.49,
+    "cena_na_enoto": "1,428.57 per litre"
+  },
+  {
+    "ime": " Glenury Royal 1968",
+    "cena": 1000.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.51,
+    "cena_na_enoto": "1,428.57 per litre"
+  },
+  {
+    "ime": " Glenury Royal 1971",
+    "cena": 1000.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.61,
+    "cena_na_enoto": "1,428.57 per litre"
+  },
+  {
+    "ime": " Loch Lomond 1966",
+    "cena": 1000.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.47,
+    "cena_na_enoto": "1,428.57 per litre"
+  },
+  {
+    "ime": " Brora 1981",
+    "cena": 1000.0,
+    "kolicina": "50",
+    "procent_alkohola": 0.58,
+    "cena_na_enoto": "2,000 per litre"
+  },
+  {
+    "ime": " Brora 1981",
+    "cena": 1000.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.54,
+    "cena_na_enoto": "1,428.57 per litre"
+  },
+  {
+    "ime": " Glenury Royal 1970",
+    "cena": 1000.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.58,
+    "cena_na_enoto": "1,428.57 per litre"
+  },
+  {
+    "ime": " Glenlochy 1968",
+    "cena": 1000.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.43,
+    "cena_na_enoto": "1,428.57 per litre"
+  },
+  {
+    "ime": " Hillside 1970",
+    "cena": 1000.0,
+    "kolicina": "75",
+    "procent_alkohola": 0.61,
+    "cena_na_enoto": "1,333.33 per litre"
+  },
+  {
+    "ime": " Glenesk",
+    "cena": 1000.0,
+    "kolicina": "75",
+    "procent_alkohola": 0.4,
+    "cena_na_enoto": "1,333.33 per litre"
+  },
+  {
+    "ime": " Dalmore 28 Year Old",
+    "cena": 1000.0,
+    "kolicina": "75",
+    "procent_alkohola": 0.45,
+    "cena_na_enoto": "1,333.33 per litre"
+  },
+  {
+    "ime": " Brora 1981",
+    "cena": 1000.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.46,
+    "cena_na_enoto": "1,428.57 per litre"
+  },
+  {
+    "ime": " Brora 1982",
+    "cena": 1000.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.46,
+    "cena_na_enoto": "1,428.57 per litre"
+  },
+  {
+    "ime": " Royal Lochnagar 1969",
+    "cena": 1000.0,
+    "kolicina": "75",
+    "procent_alkohola": 0.4,
+    "cena_na_enoto": "1,333.33 per litre"
+  },
+  {
+    "ime": " Millburn 1966",
+    "cena": 1000.0,
+    "kolicina": "75",
+    "procent_alkohola": 0.4,
+    "cena_na_enoto": "1,333.33 per litre"
+  },
+  {
+    "ime": " Glen Flagler 8 Year Old",
+    "cena": 1000.0,
+    "kolicina": "75",
+    "procent_alkohola": 0.4,
+    "cena_na_enoto": "1,333.33 per litre"
+  },
+  {
+    "ime": "Balblair 33 Year Old Gift Set",
+    "cena": 1000.0,
+    "kolicina": "75",
+    "procent_alkohola": 0.45,
+    "cena_na_enoto": "1,333.33 per litre"
+  },
+  {
+    "ime": " Glenlochy 1979",
+    "cena": 1000.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.46,
+    "cena_na_enoto": "1,428.57 per litre"
+  },
+  {
+    "ime": " North Port Brechin 1974",
+    "cena": 1000.0,
+    "kolicina": "75",
+    "procent_alkohola": 0.66,
+    "cena_na_enoto": "1,333.33 per litre"
+  },
+  {
+    "ime": " Glenury Royal 1970",
+    "cena": 1000.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.57,
+    "cena_na_enoto": "1,428.57 per litre"
+  },
+  {
+    "ime": " Brora 1982",
+    "cena": 1000.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.46,
+    "cena_na_enoto": "1,428.57 per litre"
+  },
+  {
+    "ime": " Brora 1982",
+    "cena": 1000.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.5,
+    "cena_na_enoto": "1,428.57 per litre"
+  },
+  {
+    "ime": " Tomatin 10 Year Old",
+    "cena": 1000.0,
+    "kolicina": "75",
+    "procent_alkohola": 0.43,
+    "cena_na_enoto": "1,333.33 per litre"
+  },
+  {
+    "ime": " Brora 1981",
+    "cena": 1000.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.46,
+    "cena_na_enoto": "1,428.57 per litre"
+  },
+  {
+    "ime": " Brora 1982",
+    "cena": 1000.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.46,
+    "cena_na_enoto": "1,428.57 per litre"
+  },
+  {
+    "ime": " Brora 1982",
+    "cena": 1000.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.5,
+    "cena_na_enoto": "1,428.57 per litre"
+  },
+  {
+    "ime": " Glenesk 1980",
+    "cena": 1000.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.46,
+    "cena_na_enoto": "1,428.57 per litre"
+  },
+  {
+    "ime": " Brora 1982",
+    "cena": 1000.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.46,
+    "cena_na_enoto": "1,428.57 per litre"
+  },
+  {
+    "ime": " Brora 1982",
+    "cena": 1000.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.4,
+    "cena_na_enoto": "1,428.57 per litre"
+  },
+  {
+    "ime": " Brora 1981",
+    "cena": 1000.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.5,
+    "cena_na_enoto": "1,428.57 per litre"
+  },
+  {
+    "ime": " Brora 1982",
+    "cena": 1000.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.5,
+    "cena_na_enoto": "1,428.57 per litre"
+  },
+  {
+    "ime": " Brora 1982",
+    "cena": 1000.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.6,
+    "cena_na_enoto": "1,428.57 per litre"
+  },
+  {
+    "ime": " Brora 1982",
+    "cena": 1000.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.4,
+    "cena_na_enoto": "1,428.57 per litre"
+  },
+  {
+    "ime": " Brora 1982",
+    "cena": 1000.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.4,
+    "cena_na_enoto": "1,428.57 per litre"
+  },
+  {
+    "ime": " Millburn 1974",
+    "cena": 1000.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.46,
+    "cena_na_enoto": "1,428.57 per litre"
+  },
+  {
+    "ime": " Brora 1982",
+    "cena": 1000.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.46,
+    "cena_na_enoto": "1,428.57 per litre"
+  },
+  {
+    "ime": " Old Pulteney 1966",
+    "cena": 1200.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.4,
+    "cena_na_enoto": "1,714.29 per litre"
+  },
+  {
+    "ime": " Ord 1965",
+    "cena": 1200.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.4,
+    "cena_na_enoto": "1,714.29 per litre"
+  },
+  {
+    "ime": " Brora 1981",
+    "cena": 1200.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.56,
+    "cena_na_enoto": "1,714.29 per litre"
+  },
+  {
+    "ime": " SMWS 99.11 (Glenugie)",
+    "cena": 1200.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.43,
+    "cena_na_enoto": "1,714.29 per litre"
+  },
+  {
+    "ime": " Brora 1981",
+    "cena": 1200.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.51,
+    "cena_na_enoto": "1,714.29 per litre"
+  },
+  {
+    "ime": " Brora 1981",
+    "cena": 1200.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.61,
+    "cena_na_enoto": "1,714.29 per litre"
+  },
+  {
+    "ime": " SMWS 99.12 (Glenugie)",
+    "cena": 1200.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.47,
+    "cena_na_enoto": "1,714.29 per litre"
+  },
+  {
+    "ime": " Brora 1981",
+    "cena": 1200.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.54,
+    "cena_na_enoto": "1,714.29 per litre"
+  },
+  {
+    "ime": " Glenury Royal 1970",
+    "cena": 1200.0,
+    "kolicina": "75",
+    "procent_alkohola": 0.58,
+    "cena_na_enoto": "1,600 per litre"
+  },
+  {
+    "ime": " Brora 1981",
+    "cena": 1200.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.55,
+    "cena_na_enoto": "1,714.29 per litre"
+  },
+  {
+    "ime": " Tomatin 10 Year Old",
+    "cena": 1200.0,
+    "kolicina": "75.7",
+    "procent_alkohola": 0.4,
+    "cena_na_enoto": "1,585.20 per litre"
+  },
+  {
+    "ime": " Brora 1981",
+    "cena": 1200.0,
+    "kolicina": "75",
+    "procent_alkohola": 0.55,
+    "cena_na_enoto": "1,600 per litre"
+  },
+  {
+    "ime": " Tullibardine 1964",
+    "cena": 1200.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.51,
+    "cena_na_enoto": "1,714.29 per litre"
+  },
+  {
+    "ime": " Tullibardine 1964",
+    "cena": 1200.0,
+    "kolicina": "75",
+    "procent_alkohola": 0.49,
+    "cena_na_enoto": "1,600 per litre"
+  },
+  {
+    "ime": "Glenmorangie 1971",
+    "cena": 1250.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.43,
+    "cena_na_enoto": "1,785.71 per litre"
+  },
+  {
+    "ime": " Tomatin 1962",
+    "cena": 1250.0,
+    "kolicina": "75",
+    "procent_alkohola": 0.46,
+    "cena_na_enoto": "1,666.67 per litre"
+  },
+  {
+    "ime": " Brora 1983",
+    "cena": 1250.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.53,
+    "cena_na_enoto": "1,785.71 per litre"
+  },
+  {
+    "ime": " Brora 1982",
+    "cena": 1250.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.46,
+    "cena_na_enoto": "1,785.71 per litre"
+  },
+  {
+    "ime": " Brora 1982",
+    "cena": 1250.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.59,
+    "cena_na_enoto": "1,785.71 per litre"
+  },
+  {
+    "ime": "Glenmorangie 1971",
+    "cena": 1250.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.43,
+    "cena_na_enoto": "1,785.71 per litre"
+  },
+  {
+    "ime": " Glenglassaugh 1961",
+    "cena": 1250.0,
+    "kolicina": "75",
+    "procent_alkohola": 0.4,
+    "cena_na_enoto": "1,666.67 per litre"
+  },
+  {
+    "ime": " Glenmorangie 1972",
+    "cena": 1250.0,
+    "kolicina": "75",
+    "procent_alkohola": 0.46,
+    "cena_na_enoto": "1,666.67 per litre"
+  },
+  {
+    "ime": " Glenglassaugh 1978",
+    "cena": 1250.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.41,
+    "cena_na_enoto": "1,785.71 per litre"
+  },
+  {
+    "ime": " Glenmorangie 1972",
+    "cena": 1250.0,
+    "kolicina": "75",
+    "procent_alkohola": 0.46,
+    "cena_na_enoto": "1,666.67 per litre"
+  },
+  {
+    "ime": " North Port Brechin 1981",
+    "cena": 1275.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.57,
+    "cena_na_enoto": "1,821.43 per litre"
+  },
+  {
+    "ime": " Clynelish 12 Year Old",
+    "cena": 1300.0,
+    "kolicina": "75",
+    "procent_alkohola": 0.4,
+    "cena_na_enoto": "1,733.33 per litre"
+  },
+  {
+    "ime": " Dalmore 8 Year Old",
+    "cena": 1350.0,
+    "kolicina": "75",
+    "procent_alkohola": 0.4,
+    "cena_na_enoto": "1,800 per litre"
+  },
+  {
+    "ime": " Brora 1981",
+    "cena": 1350.0,
+    "kolicina": "75",
+    "procent_alkohola": 0.55,
+    "cena_na_enoto": "1,800 per litre"
+  },
+  {
+    "ime": " Brora 1981",
+    "cena": 1400.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.56,
+    "cena_na_enoto": "2,000 per litre"
+  },
+  {
+    "ime": " Brora 1981",
+    "cena": 1400.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.59,
+    "cena_na_enoto": "2,000 per litre"
+  },
+  {
+    "ime": " Glen Esk 1983",
+    "cena": 1400.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.54,
+    "cena_na_enoto": "2,000 per litre"
+  },
+  {
+    "ime": " Glenmorangie 1981",
+    "cena": 1450.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.46,
+    "cena_na_enoto": "2,071.43 per litre"
+  },
+  {
+    "ime": " Glenury 1968",
+    "cena": 1450.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.49,
+    "cena_na_enoto": "2,071.43 per litre"
+  },
+  {
+    "ime": " Clynelish 1974",
+    "cena": 1500.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.59,
+    "cena_na_enoto": "2,142.86 per litre"
+  },
+  {
+    "ime": " Glenlochy 1969",
+    "cena": 1500.0,
+    "kolicina": "75",
+    "procent_alkohola": 0.59,
+    "cena_na_enoto": "2,000 per litre"
+  },
+  {
+    "ime": " Glenmorangie 1971",
+    "cena": 1500.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.43,
+    "cena_na_enoto": "2,142.86 per litre"
+  },
+  {
+    "ime": " Glenmorangie",
+    "cena": 1500.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.43,
+    "cena_na_enoto": "2,142.86 per litre"
+  },
+  {
+    "ime": " Lochside 1966",
+    "cena": 1500.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.48,
+    "cena_na_enoto": "2,142.86 per litre"
+  },
+  {
+    "ime": " Millburn 1967",
+    "cena": 1500.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.5,
+    "cena_na_enoto": "2,142.86 per litre"
+  },
+  {
+    "ime": " Royal Brackla 1964",
+    "cena": 1500.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.46,
+    "cena_na_enoto": "2,142.86 per litre"
+  },
+  {
+    "ime": " Brora 25 Year Old",
+    "cena": 1500.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.56,
+    "cena_na_enoto": "2,142.86 per litre"
+  },
+  {
+    "ime": " Brora 1981",
+    "cena": 1500.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.58,
+    "cena_na_enoto": "2,142.86 per litre"
+  },
+  {
+    "ime": " Glendronach 1976",
+    "cena": 1500.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.43,
+    "cena_na_enoto": "2,142.86 per litre"
+  },
+  {
+    "ime": " Tomatin 1968",
+    "cena": 1500.0,
+    "kolicina": "75",
+    "procent_alkohola": 0.4,
+    "cena_na_enoto": "2,000 per litre"
+  },
+  {
+    "ime": " Dalmore 1980",
+    "cena": 1500.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.45,
+    "cena_na_enoto": "2,142.86 per litre"
+  },
+  {
+    "ime": " Glenturret 1965",
+    "cena": 1500.0,
+    "kolicina": "75",
+    "procent_alkohola": 0.43,
+    "cena_na_enoto": "2,000 per litre"
+  },
+  {
+    "ime": " Tomatin 40 Year Old",
+    "cena": 1500.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.43,
+    "cena_na_enoto": "2,142.86 per litre"
+  },
+  {
+    "ime": " Lochside 1966",
+    "cena": 1500.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.52,
+    "cena_na_enoto": "2,142.86 per litre"
+  },
+  {
+    "ime": " SMWS L13.11 (Dalmore)",
+    "cena": 1500.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.59,
+    "cena_na_enoto": "2,142.86 per litre"
+  },
+  {
+    "ime": " Glenturret 30 Year Old",
+    "cena": 1500.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.46,
+    "cena_na_enoto": "2,142.86 per litre"
+  },
+  {
+    "ime": " Brora 30 Year Old",
+    "cena": 1600.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.54,
+    "cena_na_enoto": "2,285.71 per litre"
+  },
+  {
+    "ime": " Brora 1982",
+    "cena": 1600.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.52,
+    "cena_na_enoto": "2,285.71 per litre"
+  },
+  {
+    "ime": " Glenmorangie 1987",
+    "cena": 1600.0,
+    "kolicina": "75",
+    "procent_alkohola": 0.46,
+    "cena_na_enoto": "2,133.33 per litre"
+  },
+  {
+    "ime": " Glen Garioch 1968",
+    "cena": 1750.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.56,
+    "cena_na_enoto": "2,500 per litre"
+  },
+  {
+    "ime": " Glenmorangie 1975",
+    "cena": 1750.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.46,
+    "cena_na_enoto": "2,500 per litre"
+  },
+  {
+    "ime": " Glenmorangie 1975",
+    "cena": 1750.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.43,
+    "cena_na_enoto": "2,500 per litre"
+  },
+  {
+    "ime": " Glendronach 33 Year Old",
+    "cena": 1750.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.4,
+    "cena_na_enoto": "2,500 per litre"
+  },
+  {
+    "ime": " Glenmorangie 1987",
+    "cena": 1750.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.46,
+    "cena_na_enoto": "2,500 per litre"
+  },
+  {
+    "ime": " Glenury Royal 1970",
+    "cena": 1750.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.59,
+    "cena_na_enoto": "2,500 per litre"
+  },
+  {
+    "ime": " Banff 1966",
+    "cena": 1750.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.45,
+    "cena_na_enoto": "2,500 per litre"
+  },
+  {
+    "ime": " Glenglassaugh 1975",
+    "cena": 1750.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.51,
+    "cena_na_enoto": "2,500 per litre"
+  },
+  {
+    "ime": " Glen Garioch 1968",
+    "cena": 1750.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.56,
+    "cena_na_enoto": "2,500 per litre"
+  },
+  {
+    "ime": " North Port Brechin 1976",
+    "cena": 1825.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.5,
+    "cena_na_enoto": "2,607.14 per litre"
+  },
+  {
+    "ime": " Brora 30 Year Old",
+    "cena": 1850.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.56,
+    "cena_na_enoto": "2,642.86 per litre"
+  },
+  {
+    "ime": " Clynelish 17 Year Old",
+    "cena": 1850.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.62,
+    "cena_na_enoto": "2,642.86 per litre"
+  },
+  {
+    "ime": " Brora 35 Year Old",
+    "cena": 1850.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.48,
+    "cena_na_enoto": "2,642.86 per litre"
+  },
+  {
+    "ime": " Brora 1977",
+    "cena": 1850.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.5,
+    "cena_na_enoto": "2,642.86 per litre"
+  },
+  {
+    "ime": " Brora 35 Year Old",
+    "cena": 1850.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.49,
+    "cena_na_enoto": "2,642.86 per litre"
+  },
+  {
+    "ime": " Brora 30 Year Old",
+    "cena": 2000.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.56,
+    "cena_na_enoto": "2,857.14 per litre"
+  },
+  {
+    "ime": " Dalmore 12 Year Old",
+    "cena": 2000.0,
+    "kolicina": "75",
+    "procent_alkohola": 0.43,
+    "cena_na_enoto": "2,666.67 per litre"
+  },
+  {
+    "ime": " Glen Mhor 10 Year Old",
+    "cena": 2000.0,
+    "kolicina": "75",
+    "procent_alkohola": 0.43,
+    "cena_na_enoto": "2,666.67 per litre"
+  },
+  {
+    "ime": " Oban Bicentenary",
+    "cena": 2000.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.64,
+    "cena_na_enoto": "2,857.14 per litre"
+  },
+  {
+    "ime": " Brora 30 Year Old",
+    "cena": 2000.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.56,
+    "cena_na_enoto": "2,857.14 per litre"
+  },
+  {
+    "ime": " Brora 1972",
+    "cena": 2000.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.4,
+    "cena_na_enoto": "2,857.14 per litre"
+  },
+  {
+    "ime": " Brora 32 Year Old",
+    "cena": 2000.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.55,
+    "cena_na_enoto": "2,857.14 per litre"
+  },
+  {
+    "ime": " Brora 1972",
+    "cena": 2000.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.4,
+    "cena_na_enoto": "2,857.14 per litre"
+  },
+  {
+    "ime": " Brora 1972",
+    "cena": 2000.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.4,
+    "cena_na_enoto": "2,857.14 per litre"
+  },
+  {
+    "ime": " Brora 37 Year Old",
+    "cena": 2000.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.5,
+    "cena_na_enoto": "2,857.14 per litre"
+  },
+  {
+    "ime": " Glen Mhor 6 Year Old",
+    "cena": 2000.0,
+    "kolicina": "75",
+    "procent_alkohola": 0.4,
+    "cena_na_enoto": "2,666.67 per litre"
+  },
+  {
+    "ime": " Tullibardine 1964",
+    "cena": 2000.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.44,
+    "cena_na_enoto": "2,857.14 per litre"
+  },
+  {
+    "ime": " Glendronach 1955",
+    "cena": 2000.0,
+    "kolicina": "75",
+    "procent_alkohola": 0.4,
+    "cena_na_enoto": "2,666.67 per litre"
+  },
+  {
+    "ime": " Lochside 1967",
+    "cena": 2000.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.41,
+    "cena_na_enoto": "2,857.15 per litre"
+  },
+  {
+    "ime": " Dalmore 12 Year Old",
+    "cena": 2000.0,
+    "kolicina": "75",
+    "procent_alkohola": 0.43,
+    "cena_na_enoto": "2,666.67 per litre"
+  },
+  {
+    "ime": " Brora 30 Year Old",
+    "cena": 2250.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.57,
+    "cena_na_enoto": "3,214.29 per litre"
+  },
+  {
+    "ime": " Brora 1975",
+    "cena": 2250.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.55,
+    "cena_na_enoto": "3,214.29 per litre"
+  },
+  {
+    "ime": " Glenmorangie 1963",
+    "cena": 2250.0,
+    "kolicina": "75",
+    "procent_alkohola": 0.43,
+    "cena_na_enoto": "3,000 per litre"
+  },
+  {
+    "ime": " Glenglassaugh 1972",
+    "cena": 2400.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.42,
+    "cena_na_enoto": "3,428.57 per litre"
+  },
+  {
+    "ime": " Dalmore 1985",
+    "cena": 2500.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.52,
+    "cena_na_enoto": "3,571.42 per litre"
+  },
+  {
+    "ime": " Dalmore 1973",
+    "cena": 2500.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.42,
+    "cena_na_enoto": "3,571.43 per litre"
+  },
+  {
+    "ime": " Glenmorangie 1976",
+    "cena": 2500.0,
+    "kolicina": "75",
+    "procent_alkohola": 0.59,
+    "cena_na_enoto": "3,333.33 per litre"
+  },
+  {
+    "ime": " Glenmorangie 1976",
+    "cena": 2500.0,
+    "kolicina": "75",
+    "procent_alkohola": 0.6,
+    "cena_na_enoto": "3,333.33 per litre"
+  },
+  {
+    "ime": " Old Elgin 1940",
+    "cena": 2500.0,
+    "kolicina": "75",
+    "procent_alkohola": 0.43,
+    "cena_na_enoto": "3,333.33 per litre"
+  },
+  {
+    "ime": " Dalmore 20 Year Old",
+    "cena": 2500.0,
+    "kolicina": "75",
+    "procent_alkohola": 0.43,
+    "cena_na_enoto": "3,333.33 per litre"
+  },
+  {
+    "ime": " Ben Nevis 1966",
+    "cena": 2500.0,
+    "kolicina": "75",
+    "procent_alkohola": 0.59,
+    "cena_na_enoto": "3,333.33 per litre"
+  },
+  {
+    "ime": " Brora 1977",
+    "cena": 2500.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.49,
+    "cena_na_enoto": "3,571.43 per litre"
+  },
+  {
+    "ime": " Glengoyne 40 Year Old",
+    "cena": 2500.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.57,
+    "cena_na_enoto": "3,571.43 per litre"
+  },
+  {
+    "ime": " Clynelish 1972",
+    "cena": 2500.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.46,
+    "cena_na_enoto": "3,571.43 per litre"
+  },
+  {
+    "ime": " SMWS 61.4 (Brora)",
+    "cena": 2500.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.58,
+    "cena_na_enoto": "3,571.43 per litre"
+  },
+  {
+    "ime": " Glenmorangie 30 Year Old",
+    "cena": 2500.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.44,
+    "cena_na_enoto": "3,571.43 per litre"
+  },
+  {
+    "ime": " Glenugie 1966",
+    "cena": 2500.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.54,
+    "cena_na_enoto": "3,571.43 per litre"
+  },
+  {
+    "ime": " Glen Garioch 1975",
+    "cena": 2500.0,
+    "kolicina": "75",
+    "procent_alkohola": 0.46,
+    "cena_na_enoto": "3,333.33 per litre"
+  },
+  {
+    "ime": " Dalmore 1985",
+    "cena": 2500.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.52,
+    "cena_na_enoto": "3,571.43 per litre"
+  },
+  {
+    "ime": " Dalmore 1973",
+    "cena": 2500.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.42,
+    "cena_na_enoto": "3,571.43 per litre"
+  },
+  {
+    "ime": " Brora 1974",
+    "cena": 2750.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.5,
+    "cena_na_enoto": "3,928.57 per litre"
+  },
+  {
+    "ime": " Highland Park 1960",
+    "cena": 2750.0,
+    "kolicina": "75",
+    "procent_alkohola": 0.43,
+    "cena_na_enoto": "3,666.67 per litre"
+  },
+  {
+    "ime": " Brora 1977",
+    "cena": 3000.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.55,
+    "cena_na_enoto": "4,285.71 per litre"
+  },
+  {
+    "ime": " Glen Garioch 1968",
+    "cena": 3000.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.56,
+    "cena_na_enoto": "4,285.71 per litre"
+  },
+  {
+    "ime": " Glen Garioch 1968",
+    "cena": 3000.0,
+    "kolicina": "75",
+    "procent_alkohola": 0.56,
+    "cena_na_enoto": "4,000 per litre"
+  },
+  {
+    "ime": "Glen Garioch Bicentenary 37 Year Old",
+    "cena": 3000.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.43,
+    "cena_na_enoto": "4,285.71 per litre"
+  },
+  {
+    "ime": " Glendronach 1968",
+    "cena": 3000.0,
+    "kolicina": "75",
+    "procent_alkohola": 0.43,
+    "cena_na_enoto": "4,000 per litre"
+  },
+  {
+    "ime": "Glendronach 150th Anniversary (1826-1976)",
+    "cena": 3000.0,
+    "kolicina": "75",
+    "procent_alkohola": 0.4,
+    "cena_na_enoto": "4,000 per litre"
+  },
+  {
+    "ime": " Glen Garioch 1968",
+    "cena": 3000.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.56,
+    "cena_na_enoto": "4,285.71 per litre"
+  },
+  {
+    "ime": " Glen Garioch 1968",
+    "cena": 3000.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.54,
+    "cena_na_enoto": "4,285.71 per litre"
+  },
+  {
+    "ime": " Glen Garioch 1968",
+    "cena": 3000.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.57,
+    "cena_na_enoto": "4,285.71 per litre"
+  },
+  {
+    "ime": " Glen Garioch 1968",
+    "cena": 3000.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.57,
+    "cena_na_enoto": "4,285.71 per litre"
+  },
+  {
+    "ime": " Dalmore 1963",
+    "cena": 3000.0,
+    "kolicina": "75",
+    "procent_alkohola": 0.46,
+    "cena_na_enoto": "4,000 per litre"
+  },
+  {
+    "ime": "Fettercairn 40 Year Old",
+    "cena": 3100.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.49,
+    "cena_na_enoto": "4,428.57 per litre"
+  },
+  {
+    "ime": " Dalmore 1965",
+    "cena": 3250.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.53,
+    "cena_na_enoto": "4,642.86 per litre"
+  },
+  {
+    "ime": " Glen Garioch 1958",
+    "cena": 3500.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.43,
+    "cena_na_enoto": "5,000 per litre"
+  },
+  {
+    "ime": " Ben Wyvis 1972",
+    "cena": 3500.0,
+    "kolicina": "75",
+    "procent_alkohola": 0.54,
+    "cena_na_enoto": "4,666.67 per litre"
+  },
+  {
+    "ime": "Dalmore 30 Year Old",
+    "cena": 3500.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.45,
+    "cena_na_enoto": "5,000 per litre"
+  },
+  {
+    "ime": " Dalmore 20 Year Old",
+    "cena": 3750.0,
+    "kolicina": "75",
+    "procent_alkohola": 0.43,
+    "cena_na_enoto": "5,000 per litre"
+  },
+  {
+    "ime": " Dalmore 1965 Set With Glass & Miniature",
+    "cena": 3750.0,
+    "kolicina": "75",
+    "procent_alkohola": 0.54,
+    "cena_na_enoto": "5,000 per litre"
+  },
+  {
+    "ime": " Glenglassaugh 1967",
+    "cena": 4050.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.43,
+    "cena_na_enoto": "5,785.71 per litre"
+  },
+  {
+    "ime": " Glendronach 19 Year Old",
+    "cena": 4500.0,
+    "kolicina": "75",
+    "procent_alkohola": 0.45,
+    "cena_na_enoto": "6,000 per litre"
+  },
+  {
+    "ime": " Dalmore 1979",
+    "cena": 4500.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.55,
+    "cena_na_enoto": "6,428.57 per litre"
+  },
+  {
+    "ime": " Dalmore 1979",
+    "cena": 4500.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.55,
+    "cena_na_enoto": "6,428.57 per litre"
+  },
+  {
+    "ime": " Dalmore 25 Year Old",
+    "cena": 5000.0,
+    "kolicina": "75",
+    "procent_alkohola": 0.43,
+    "cena_na_enoto": "6,666.67 per litre"
+  },
+  {
+    "ime": " Dalmore 1973",
+    "cena": 5000.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.45,
+    "cena_na_enoto": "7,142.86 per litre"
+  },
+  {
+    "ime": " Glendronach 1968",
+    "cena": 5000.0,
+    "kolicina": "75",
+    "procent_alkohola": 0.43,
+    "cena_na_enoto": "6,666.67 per litre"
+  },
+  {
+    "ime": " Old Pulteney",
+    "cena": 5000.0,
+    "kolicina": "75",
+    "procent_alkohola": 0.49,
+    "cena_na_enoto": "6,666.67 per litre"
+  },
+  {
+    "ime": " Dalmore 1979",
+    "cena": 5000.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.47,
+    "cena_na_enoto": "7,142.86 per litre"
+  },
+  {
+    "ime": " Glen Mhor 1965",
+    "cena": 5300.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.47,
+    "cena_na_enoto": "7,571.43 per litre"
+  },
+  {
+    "ime": " Brora 1971",
+    "cena": 5500.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.5,
+    "cena_na_enoto": "7,857.14 per litre"
+  },
+  {
+    "ime": " Glendronach 1971",
+    "cena": 5500.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.49,
+    "cena_na_enoto": "7,857.14 per litre"
+  },
+  {
+    "ime": " Glendronach 1968",
+    "cena": 5500.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.46,
+    "cena_na_enoto": "7,857.14 per litre"
+  },
+  {
+    "ime": " Glendronach 1972",
+    "cena": 6000.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.52,
+    "cena_na_enoto": "8,571.43 per litre"
+  },
+  {
+    "ime": " Brora 1970",
+    "cena": 6500.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.58,
+    "cena_na_enoto": "9,285.71 per litre"
+  },
+  {
+    "ime": " Brora 1972",
+    "cena": 6500.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.47,
+    "cena_na_enoto": "9,285.71 per litre"
+  },
+  {
+    "ime": " Brora 1972",
+    "cena": 6500.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.59,
+    "cena_na_enoto": "9,285.71 per litre"
+  },
+  {
+    "ime": " Brora 1972",
+    "cena": 6500.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.47,
+    "cena_na_enoto": "9,285.71 per litre"
+  },
+  {
+    "ime": " Dalmore 40 Year Old",
+    "cena": 6750.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.42,
+    "cena_na_enoto": "9,642.86 per litre"
+  },
+  {
+    "ime": " Dalmore 40 Year Old",
+    "cena": 6750.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.42,
+    "cena_na_enoto": "9,642.86 per litre"
+  },
+  {
+    "ime": " Brora 1972",
+    "cena": 7500.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.5,
+    "cena_na_enoto": "10,714.29 per litre"
+  },
+  {
+    "ime": " Glamis 10 Year Old",
+    "cena": 7500.0,
+    "kolicina": "75",
+    "procent_alkohola": 0.43,
+    "cena_na_enoto": "10,000 per litre"
+  },
+  {
+    "ime": " Pride of Strathspey 1937",
+    "cena": 7500.0,
+    "kolicina": "75",
+    "procent_alkohola": 0.4,
+    "cena_na_enoto": "10,000 per litre"
+  },
+  {
+    "ime": " Fettercairn 1973",
+    "cena": 8300.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.42,
+    "cena_na_enoto": "11,857.14 per litre"
+  },
+  {
+    "ime": " Brora 1972",
+    "cena": 9000.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.59,
+    "cena_na_enoto": "12,857.14 per litre"
+  },
+  {
+    "ime": " Clynelish 1965",
+    "cena": 10000.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.51,
+    "cena_na_enoto": "14,285.71 per litre"
+  },
+  {
+    "ime": " Clynelish 1965",
+    "cena": 10000.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.52,
+    "cena_na_enoto": "14,285.71 per litre"
+  },
+  {
+    "ime": " Dalmore 1966",
+    "cena": 10000.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.4,
+    "cena_na_enoto": "14,285.71 per litre"
+  },
+  {
+    "ime": " Dalmore 45 Year Old",
+    "cena": 11500.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.4,
+    "cena_na_enoto": "16,428.57 per litre"
+  },
+  {
+    "ime": " Brora 1972",
+    "cena": 12000.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.61,
+    "cena_na_enoto": "17,142.86 per litre"
+  },
+  {
+    "ime": " SMWS 61.1 (Brora)",
+    "cena": 12000.0,
+    "kolicina": "75",
+    "procent_alkohola": 0.63,
+    "cena_na_enoto": "16,000 per litre"
+  },
+  {
+    "ime": " Glenury Royal 1953",
+    "cena": 12000.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.43,
+    "cena_na_enoto": "17,142.86 per litre"
+  },
+  {
+    "ime": " Glenury Royal 1953",
+    "cena": 13500.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.43,
+    "cena_na_enoto": "19,285.71 per litre"
+  },
+  {
+    "ime": " Dalmore 150th Anniversary Crystal",
+    "cena": 17500.0,
+    "kolicina": "75",
+    "procent_alkohola": 0.46,
+    "cena_na_enoto": "23,333.33 per litre"
+  },
+  {
+    "ime": "Fettercairn 50 Year Old",
+    "cena": 18750.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.48,
+    "cena_na_enoto": "26,785.71 per litre"
+  },
+  {
+    "ime": " Tullibardine 1952",
+    "cena": 20000.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.4,
+    "cena_na_enoto": "28,571.43 per litre"
+  },
+  {
+    "ime": " Tomatin 1975",
+    "cena": 25000.0,
+    "kolicina": "75",
+    "procent_alkohola": 0.47,
+    "cena_na_enoto": "33,333.33 per litre"
+  },
+  {
+    "ime": "Dalmore 50 Year Old (1926) Black Ceramic",
+    "cena": 40000.0,
+    "kolicina": "75",
+    "procent_alkohola": 0.43,
+    "cena_na_enoto": "53,333.33 per litre"
+  },
+  {
+    "ime": " Dalmore 50 Year Old",
+    "cena": 90000.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.52,
+    "cena_na_enoto": "128,571.43 per litre"
+  },
+  {
+    "ime": "Dalmore - Candela 50 Year Old",
+    "cena": 100000.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.45,
+    "cena_na_enoto": "142,857.14 per litre"
+  }
+]

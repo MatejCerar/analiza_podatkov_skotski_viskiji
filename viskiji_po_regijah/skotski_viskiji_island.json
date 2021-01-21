@@ -1,0 +1,1570 @@
+[
+  {
+    "ime": " Talisker 10 Year Old",
+    "cena": 15.45,
+    "kolicina": "20",
+    "procent_alkohola": 0.46,
+    "cena_na_enoto": "7.73 per 10cl"
+  },
+  {
+    "ime": " Highland Park 12 Year Old",
+    "cena": 14.95,
+    "kolicina": "35",
+    "procent_alkohola": 0.4,
+    "cena_na_enoto": "42.71 per litre"
+  },
+  {
+    "ime": " Talisker 10 Year Old Campfire Hot Chocolate Gift Pack",
+    "cena": 20.95,
+    "kolicina": "20",
+    "procent_alkohola": 0.46,
+    "cena_na_enoto": "10.47 per 10cl"
+  },
+  {
+    "ime": "John Crabbie 12 Year Old",
+    "cena": 31.75,
+    "kolicina": "70",
+    "procent_alkohola": 0.43,
+    "cena_na_enoto": "45.36 per litre"
+  },
+  {
+    "ime": "Arran Robert Burns Single Malt",
+    "cena": 32.25,
+    "kolicina": "70",
+    "procent_alkohola": 0.43,
+    "cena_na_enoto": "46.07 per litre"
+  },
+  {
+    "ime": " Highland Park 12 Year Old",
+    "cena": 29.95,
+    "kolicina": "70",
+    "procent_alkohola": 0.4,
+    "cena_na_enoto": "42.79 per litre"
+  },
+  {
+    "ime": "Jura 10 Year Old",
+    "cena": 33.95,
+    "kolicina": "70",
+    "procent_alkohola": 0.4,
+    "cena_na_enoto": "48.50 per litre"
+  },
+  {
+    "ime": " Ledaig Rioja Cask Finish",
+    "cena": 33.95,
+    "kolicina": "70",
+    "procent_alkohola": 0.46,
+    "cena_na_enoto": "48.50 per litre"
+  },
+  {
+    "ime": " Arran Robert Burns",
+    "cena": 34.95,
+    "kolicina": "70",
+    "procent_alkohola": 0.43,
+    "cena_na_enoto": "49.93 per litre"
+  },
+  {
+    "ime": "Jura Journey",
+    "cena": 36.25,
+    "kolicina": "70",
+    "procent_alkohola": 0.4,
+    "cena_na_enoto": "51.79 per litre"
+  },
+  {
+    "ime": "Talisker 10 Year Old",
+    "cena": 37.95,
+    "kolicina": "70",
+    "procent_alkohola": 0.46,
+    "cena_na_enoto": "54.21 per litre"
+  },
+  {
+    "ime": "Talisker Skye",
+    "cena": 37.95,
+    "kolicina": "70",
+    "procent_alkohola": 0.46,
+    "cena_na_enoto": "54.21 per litre"
+  },
+  {
+    "ime": "Ledaig 10 Year Old",
+    "cena": 39.45,
+    "kolicina": "70",
+    "procent_alkohola": 0.46,
+    "cena_na_enoto": "56.36 per litre"
+  },
+  {
+    "ime": " Highland Park 12 Year Old",
+    "cena": 39.95,
+    "kolicina": "70",
+    "procent_alkohola": 0.4,
+    "cena_na_enoto": "57.07 per litre"
+  },
+  {
+    "ime": "Scapa Skiren",
+    "cena": 40.95,
+    "kolicina": "70",
+    "procent_alkohola": 0.4,
+    "cena_na_enoto": "58.50 per litre"
+  },
+  {
+    "ime": "Talisker Storm",
+    "cena": 41.95,
+    "kolicina": "70",
+    "procent_alkohola": 0.46,
+    "cena_na_enoto": "59.93 per litre"
+  },
+  {
+    "ime": "Scapa Glansa",
+    "cena": 42.95,
+    "kolicina": "70",
+    "procent_alkohola": 0.4,
+    "cena_na_enoto": "61.36 per litre"
+  },
+  {
+    "ime": " Arran Machrie Moor",
+    "cena": 44.25,
+    "kolicina": "70",
+    "procent_alkohola": 0.46,
+    "cena_na_enoto": "63.21 per litre"
+  },
+  {
+    "ime": "Jura 12 Year Old",
+    "cena": 44.95,
+    "kolicina": "70",
+    "procent_alkohola": 0.4,
+    "cena_na_enoto": "64.21 per litre"
+  },
+  {
+    "ime": "Tobermory 12 Year Old",
+    "cena": 45.95,
+    "kolicina": "70",
+    "procent_alkohola": 0.46,
+    "cena_na_enoto": "65.64 per litre"
+  },
+  {
+    "ime": "Arran Amarone Cask Finish",
+    "cena": 46.75,
+    "kolicina": "70",
+    "procent_alkohola": 0.5,
+    "cena_na_enoto": "66.79 per litre"
+  },
+  {
+    "ime": "Arran Port Cask Finish",
+    "cena": 46.75,
+    "kolicina": "70",
+    "procent_alkohola": 0.5,
+    "cena_na_enoto": "66.79 per litre"
+  },
+  {
+    "ime": "Arran Sauternes Cask Finish",
+    "cena": 46.75,
+    "kolicina": "70",
+    "procent_alkohola": 0.5,
+    "cena_na_enoto": "66.79 per litre"
+  },
+  {
+    "ime": " Classic Malts Coastal Collection",
+    "cena": 46.95,
+    "kolicina": "60",
+    "procent_alkohola": 0.45,
+    "cena_na_enoto": "78.25 per litre"
+  },
+  {
+    "ime": "Arran Quarter Cask",
+    "cena": 48.95,
+    "kolicina": "70",
+    "procent_alkohola": 0.56,
+    "cena_na_enoto": "69.93 per litre"
+  },
+  {
+    "ime": " Arran Machrie Moor Cask Strength",
+    "cena": 49.75,
+    "kolicina": "70",
+    "procent_alkohola": 0.56,
+    "cena_na_enoto": "71.07 per litre"
+  },
+  {
+    "ime": " Classic Malts Strong Collection",
+    "cena": 49.95,
+    "kolicina": "60",
+    "procent_alkohola": 0.43,
+    "cena_na_enoto": "83.25 per litre"
+  },
+  {
+    "ime": " Talisker Port Ruighe",
+    "cena": 49.95,
+    "kolicina": "70",
+    "procent_alkohola": 0.46,
+    "cena_na_enoto": "71.36 per litre"
+  },
+  {
+    "ime": " Talisker Select Reserve",
+    "cena": 49.95,
+    "kolicina": "70",
+    "procent_alkohola": 0.46,
+    "cena_na_enoto": "71.36 per litre"
+  },
+  {
+    "ime": "Talisker 10 Year Old Dry Bag Gift Set",
+    "cena": 50.95,
+    "kolicina": "70",
+    "procent_alkohola": 0.46,
+    "cena_na_enoto": "72.79 per litre"
+  },
+  {
+    "ime": "Highland Park Spirit of the Bear",
+    "cena": 51.95,
+    "kolicina": "100",
+    "procent_alkohola": 0.4,
+    "cena_na_enoto": null
+  },
+  {
+    "ime": "Arran Sherry Cask",
+    "cena": 53.95,
+    "kolicina": "70",
+    "procent_alkohola": 0.56,
+    "cena_na_enoto": "77.07 per litre"
+  },
+  {
+    "ime": " Jura Prophecy",
+    "cena": 54.95,
+    "kolicina": "70",
+    "procent_alkohola": 0.46,
+    "cena_na_enoto": "78.50 per litre"
+  },
+  {
+    "ime": "Highland Park Valfather",
+    "cena": 54.95,
+    "kolicina": "70",
+    "procent_alkohola": 0.47,
+    "cena_na_enoto": "78.50 per litre"
+  },
+  {
+    "ime": "Jura Seven Wood",
+    "cena": 58.95,
+    "kolicina": "70",
+    "procent_alkohola": 0.42,
+    "cena_na_enoto": "84.21 per litre"
+  },
+  {
+    "ime": "Highland Park Valkyrie",
+    "cena": 59.95,
+    "kolicina": "70",
+    "procent_alkohola": 0.46,
+    "cena_na_enoto": "85.64 per litre"
+  },
+  {
+    "ime": "Highland Park Valknut",
+    "cena": 59.95,
+    "kolicina": "70",
+    "procent_alkohola": 0.47,
+    "cena_na_enoto": "85.64 per litre"
+  },
+  {
+    "ime": "Cask Orkney 18 Year Old",
+    "cena": 62.45,
+    "kolicina": "70",
+    "procent_alkohola": 0.46,
+    "cena_na_enoto": "89.21 per litre"
+  },
+  {
+    "ime": " Ledaig 2011",
+    "cena": 64.95,
+    "kolicina": "70",
+    "procent_alkohola": 0.6,
+    "cena_na_enoto": "92.79 per litre"
+  },
+  {
+    "ime": "Highland Park 16 Year Old Twisted Tattoo",
+    "cena": 64.95,
+    "kolicina": "70",
+    "procent_alkohola": 0.47,
+    "cena_na_enoto": "92.79 per litre"
+  },
+  {
+    "ime": " Arran Peated 2011",
+    "cena": 71.95,
+    "kolicina": "70",
+    "procent_alkohola": 0.57,
+    "cena_na_enoto": "102.79 per litre"
+  },
+  {
+    "ime": " Jura 18 Year Old",
+    "cena": 73.95,
+    "kolicina": "70",
+    "procent_alkohola": 0.44,
+    "cena_na_enoto": "105.64 per litre"
+  },
+  {
+    "ime": " Arran 12 Year Old",
+    "cena": 74.95,
+    "kolicina": "70",
+    "procent_alkohola": 0.52,
+    "cena_na_enoto": "107.07 per litre"
+  },
+  {
+    "ime": " Ledaig 2008",
+    "cena": 74.95,
+    "kolicina": "70",
+    "procent_alkohola": 0.46,
+    "cena_na_enoto": "107.07 per litre"
+  },
+  {
+    "ime": " Orkney 2006",
+    "cena": 74.95,
+    "kolicina": "70",
+    "procent_alkohola": 0.61,
+    "cena_na_enoto": "107.07 per litre"
+  },
+  {
+    "ime": " Jura 18 Year Old",
+    "cena": 76.95,
+    "kolicina": "70",
+    "procent_alkohola": 0.42,
+    "cena_na_enoto": "109.93 per litre"
+  },
+  {
+    "ime": "Talisker 18 Year Old",
+    "cena": 78.95,
+    "kolicina": "70",
+    "procent_alkohola": 0.46,
+    "cena_na_enoto": "112.79 per litre"
+  },
+  {
+    "ime": " Ledaig 10 Year Old",
+    "cena": 79.95,
+    "kolicina": "70",
+    "procent_alkohola": 0.49,
+    "cena_na_enoto": "114.21 per litre"
+  },
+  {
+    "ime": "Ledaig 18 Year Old",
+    "cena": 74.95,
+    "kolicina": "70",
+    "procent_alkohola": 0.46,
+    "cena_na_enoto": "107.07 per litre"
+  },
+  {
+    "ime": " Breath of the Isles 2007",
+    "cena": 79.95,
+    "kolicina": "70",
+    "procent_alkohola": 0.59,
+    "cena_na_enoto": "114.21 per litre"
+  },
+  {
+    "ime": " Arran 2011",
+    "cena": 82.95,
+    "kolicina": "70",
+    "procent_alkohola": 0.52,
+    "cena_na_enoto": "118.50 per litre"
+  },
+  {
+    "ime": " Arran 2011",
+    "cena": 82.95,
+    "kolicina": "70",
+    "procent_alkohola": 0.53,
+    "cena_na_enoto": "118.50 per litre"
+  },
+  {
+    "ime": "Highland Park Dark Origins",
+    "cena": 84.95,
+    "kolicina": "70",
+    "procent_alkohola": 0.47,
+    "cena_na_enoto": "121.36 per litre"
+  },
+  {
+    "ime": " Ledaig 2008",
+    "cena": 87.95,
+    "kolicina": "70",
+    "procent_alkohola": 0.51,
+    "cena_na_enoto": "125.64 per litre"
+  },
+  {
+    "ime": " Ledaig 2007",
+    "cena": 87.95,
+    "kolicina": "70",
+    "procent_alkohola": 0.58,
+    "cena_na_enoto": "125.64 per litre"
+  },
+  {
+    "ime": " Jura Two-One-Two 2006",
+    "cena": 88.95,
+    "kolicina": "70",
+    "procent_alkohola": 0.47,
+    "cena_na_enoto": "127.07 per litre"
+  },
+  {
+    "ime": " Talisker 2011",
+    "cena": 88.95,
+    "kolicina": "70",
+    "procent_alkohola": 0.58,
+    "cena_na_enoto": "127.07 per litre"
+  },
+  {
+    "ime": " Tobermory 2007",
+    "cena": 93.95,
+    "kolicina": "70",
+    "procent_alkohola": 0.59,
+    "cena_na_enoto": "134.21 per litre"
+  },
+  {
+    "ime": " Ledaig 2010",
+    "cena": 94.95,
+    "kolicina": "70",
+    "procent_alkohola": 0.53,
+    "cena_na_enoto": "135.64 per litre"
+  },
+  {
+    "ime": " Ledaig 2007",
+    "cena": 98.95,
+    "kolicina": "70",
+    "procent_alkohola": 0.6,
+    "cena_na_enoto": "141.36 per litre"
+  },
+  {
+    "ime": " Highland Park 18 Year Old",
+    "cena": 99.95,
+    "kolicina": "70",
+    "procent_alkohola": 0.43,
+    "cena_na_enoto": "142.79 per litre"
+  },
+  {
+    "ime": " Talisker 2002",
+    "cena": 110.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.57,
+    "cena_na_enoto": "157.14 per litre"
+  },
+  {
+    "ime": " Ledaig 2008",
+    "cena": 115.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.53,
+    "cena_na_enoto": "164.29 per litre"
+  },
+  {
+    "ime": "Arran 21 Year Old",
+    "cena": 120.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.46,
+    "cena_na_enoto": "171.43 per litre"
+  },
+  {
+    "ime": " Highland Park 2003",
+    "cena": 125.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.53,
+    "cena_na_enoto": "178.57 per litre"
+  },
+  {
+    "ime": " Jura 21 Year Old",
+    "cena": 127.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.47,
+    "cena_na_enoto": "181.43 per litre"
+  },
+  {
+    "ime": "Jura 21 Year Old",
+    "cena": 150.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.44,
+    "cena_na_enoto": "214.29 per litre"
+  },
+  {
+    "ime": " Arran 1996",
+    "cena": 150.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.5,
+    "cena_na_enoto": "214.29 per litre"
+  },
+  {
+    "ime": " Arran 21 Years Old",
+    "cena": 160.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.5,
+    "cena_na_enoto": "228.57 per litre"
+  },
+  {
+    "ime": "Highland Park Triskelion",
+    "cena": 160.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.45,
+    "cena_na_enoto": "228.57 per litre"
+  },
+  {
+    "ime": " Isle of Jura 10 Year Old",
+    "cena": 175.0,
+    "kolicina": "75",
+    "procent_alkohola": 0.4,
+    "cena_na_enoto": "233.33 per litre"
+  },
+  {
+    "ime": " Isle of Jura 8 Year Old",
+    "cena": 175.0,
+    "kolicina": "75",
+    "procent_alkohola": 0.4,
+    "cena_na_enoto": "233.33 per litre"
+  },
+  {
+    "ime": " Tobermory 1995",
+    "cena": 180.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.44,
+    "cena_na_enoto": "257.14 per litre"
+  },
+  {
+    "ime": " Isle of Jura 8 Year Old",
+    "cena": 185.0,
+    "kolicina": "75",
+    "procent_alkohola": 0.4,
+    "cena_na_enoto": "246.67 per litre"
+  },
+  {
+    "ime": "Highland Park Fire 15 Year Old",
+    "cena": 195.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.45,
+    "cena_na_enoto": "278.57 per litre"
+  },
+  {
+    "ime": "Scapa 16 Year Old",
+    "cena": 199.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.4,
+    "cena_na_enoto": "284.29 per litre"
+  },
+  {
+    "ime": "Highland Park The Light 17 Year Old",
+    "cena": 199.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.53,
+    "cena_na_enoto": "284.29 per litre"
+  },
+  {
+    "ime": " Highland Park 2003",
+    "cena": 199.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.59,
+    "cena_na_enoto": "284.29 per litre"
+  },
+  {
+    "ime": " Highland Park 21 Year Old",
+    "cena": 210.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.46,
+    "cena_na_enoto": "300 per litre"
+  },
+  {
+    "ime": " Ledaig 1997",
+    "cena": 235.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.53,
+    "cena_na_enoto": "335.71 per litre"
+  },
+  {
+    "ime": " Isle of Jura 1999",
+    "cena": 250.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.61,
+    "cena_na_enoto": "357.14 per litre"
+  },
+  {
+    "ime": " Highland Park 1991",
+    "cena": 210.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.54,
+    "cena_na_enoto": "300 per litre"
+  },
+  {
+    "ime": " Highland Park 12 Year Old",
+    "cena": 250.0,
+    "kolicina": "100",
+    "procent_alkohola": 0.43,
+    "cena_na_enoto": null
+  },
+  {
+    "ime": " Highland Park 12 Year Old",
+    "cena": 250.0,
+    "kolicina": "100",
+    "procent_alkohola": 0.43,
+    "cena_na_enoto": null
+  },
+  {
+    "ime": " Jura 1992",
+    "cena": 250.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.55,
+    "cena_na_enoto": "357.14 per litre"
+  },
+  {
+    "ime": " Talisker 25 Year Old",
+    "cena": 260.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.46,
+    "cena_na_enoto": "371.43 per litre"
+  },
+  {
+    "ime": " Scapa 12 Year Old",
+    "cena": 275.0,
+    "kolicina": "100",
+    "procent_alkohola": 0.4,
+    "cena_na_enoto": null
+  },
+  {
+    "ime": " Tobermory 1996",
+    "cena": 275.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.46,
+    "cena_na_enoto": "392.86 per litre"
+  },
+  {
+    "ime": " Highland Park 1997",
+    "cena": 305.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.52,
+    "cena_na_enoto": "435.71 per litre"
+  },
+  {
+    "ime": " Highland Park St. Magnus 12 Year Old",
+    "cena": 325.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.55,
+    "cena_na_enoto": "464.29 per litre"
+  },
+  {
+    "ime": " Highland Park 1996",
+    "cena": 325.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.51,
+    "cena_na_enoto": "464.29 per litre"
+  },
+  {
+    "ime": " Highland Park 18 Year Old",
+    "cena": 350.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.43,
+    "cena_na_enoto": "500 per litre"
+  },
+  {
+    "ime": " Highland Park 1978",
+    "cena": 350.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.43,
+    "cena_na_enoto": "500 per litre"
+  },
+  {
+    "ime": "Highland Park Ice 17 Year Old",
+    "cena": 350.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.54,
+    "cena_na_enoto": "500 per litre"
+  },
+  {
+    "ime": " Highland Park 18 Year Old",
+    "cena": 350.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.43,
+    "cena_na_enoto": "500 per litre"
+  },
+  {
+    "ime": " Highland Park 1992",
+    "cena": 360.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.5,
+    "cena_na_enoto": "514.29 per litre"
+  },
+  {
+    "ime": " Highland Park 12 Year Old",
+    "cena": 375.0,
+    "kolicina": "75",
+    "procent_alkohola": 0.4,
+    "cena_na_enoto": "500 per litre"
+  },
+  {
+    "ime": "Ledaig 1974",
+    "cena": 375.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.43,
+    "cena_na_enoto": "535.71 per litre"
+  },
+  {
+    "ime": " Highland Park 12 Year Old",
+    "cena": 375.0,
+    "kolicina": "75",
+    "procent_alkohola": 0.4,
+    "cena_na_enoto": "500 per litre"
+  },
+  {
+    "ime": " Highland Park 12 Year Old",
+    "cena": 375.0,
+    "kolicina": "75",
+    "procent_alkohola": 0.4,
+    "cena_na_enoto": "500 per litre"
+  },
+  {
+    "ime": " Highland Park 12 Year Old",
+    "cena": 375.0,
+    "kolicina": "75",
+    "procent_alkohola": 0.4,
+    "cena_na_enoto": "500 per litre"
+  },
+  {
+    "ime": " Highland Park 12 Year Old",
+    "cena": 399.0,
+    "kolicina": "75",
+    "procent_alkohola": 0.43,
+    "cena_na_enoto": "532 per litre"
+  },
+  {
+    "ime": " Highland Park Odin",
+    "cena": 399.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.56,
+    "cena_na_enoto": "570 per litre"
+  },
+  {
+    "ime": " Highland Park 8 Year Old",
+    "cena": 399.0,
+    "kolicina": "75",
+    "procent_alkohola": 0.4,
+    "cena_na_enoto": "532 per litre"
+  },
+  {
+    "ime": " Jura 1988",
+    "cena": 399.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.5,
+    "cena_na_enoto": "570 per litre"
+  },
+  {
+    "ime": " Highland Park 1973",
+    "cena": 425.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.43,
+    "cena_na_enoto": "607.14 per litre"
+  },
+  {
+    "ime": " Highland Park 25 Year Old",
+    "cena": 430.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.46,
+    "cena_na_enoto": "614.29 per litre"
+  },
+  {
+    "ime": " Talisker 10 Year Old",
+    "cena": 450.0,
+    "kolicina": "100",
+    "procent_alkohola": 0.46,
+    "cena_na_enoto": null
+  },
+  {
+    "ime": " Talisker 25 Year Old",
+    "cena": 450.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.46,
+    "cena_na_enoto": "642.86 per litre"
+  },
+  {
+    "ime": "Highland Park Ragnvald",
+    "cena": 450.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.45,
+    "cena_na_enoto": "642.86 per litre"
+  },
+  {
+    "ime": " Talisker 25 Year Old",
+    "cena": 450.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.46,
+    "cena_na_enoto": "642.86 per litre"
+  },
+  {
+    "ime": " Highland Park Freya",
+    "cena": 499.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.51,
+    "cena_na_enoto": "712.86 per litre"
+  },
+  {
+    "ime": " Highland Park 1976",
+    "cena": 500.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.46,
+    "cena_na_enoto": "714.29 per litre"
+  },
+  {
+    "ime": " Highland Park 1981",
+    "cena": 500.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.46,
+    "cena_na_enoto": "714.29 per litre"
+  },
+  {
+    "ime": " Highland Park 1976",
+    "cena": 500.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.46,
+    "cena_na_enoto": "714.29 per litre"
+  },
+  {
+    "ime": " Highland Park 1981",
+    "cena": 500.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.46,
+    "cena_na_enoto": "714.29 per litre"
+  },
+  {
+    "ime": " Highland Park 1979",
+    "cena": 500.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.43,
+    "cena_na_enoto": "714.29 per litre"
+  },
+  {
+    "ime": " Highland Park 1989",
+    "cena": 525.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.43,
+    "cena_na_enoto": "750 per litre"
+  },
+  {
+    "ime": " Isle of Jura 1965",
+    "cena": 550.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.45,
+    "cena_na_enoto": "785.71 per litre"
+  },
+  {
+    "ime": " Scapa 8 Year Old",
+    "cena": 550.0,
+    "kolicina": "75",
+    "procent_alkohola": 0.57,
+    "cena_na_enoto": "733.33 per litre"
+  },
+  {
+    "ime": " Highland Park 12 Year Old",
+    "cena": 550.0,
+    "kolicina": "100",
+    "procent_alkohola": 0.43,
+    "cena_na_enoto": null
+  },
+  {
+    "ime": " Scapa 8 Year Old",
+    "cena": 550.0,
+    "kolicina": "75",
+    "procent_alkohola": 0.57,
+    "cena_na_enoto": "733.33 per litre"
+  },
+  {
+    "ime": " Highland Park Loki",
+    "cena": 600.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.49,
+    "cena_na_enoto": "857.14 per litre"
+  },
+  {
+    "ime": " Highland Park 1978",
+    "cena": 600.0,
+    "kolicina": "75",
+    "procent_alkohola": 0.43,
+    "cena_na_enoto": "800 per litre"
+  },
+  {
+    "ime": "Jura 1989 Rare Vintage",
+    "cena": 600.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.54,
+    "cena_na_enoto": "857.14 per litre"
+  },
+  {
+    "ime": " Jura 1988 Vintage Series 2",
+    "cena": 600.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.53,
+    "cena_na_enoto": "857.14 per litre"
+  },
+  {
+    "ime": " Talisker 25 Year Old",
+    "cena": 650.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.58,
+    "cena_na_enoto": "928.57 per litre"
+  },
+  {
+    "ime": " Talisker 25 Year Old",
+    "cena": 650.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.54,
+    "cena_na_enoto": "928.57 per litre"
+  },
+  {
+    "ime": " Jura 1988 Vintage Series",
+    "cena": 650.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.54,
+    "cena_na_enoto": "928.57 per litre"
+  },
+  {
+    "ime": " Highland Park 1973 & Glass Set",
+    "cena": 700.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.43,
+    "cena_na_enoto": "1,000 per litre"
+  },
+  {
+    "ime": " Highland Park 1979",
+    "cena": 700.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.52,
+    "cena_na_enoto": "1,000 per litre"
+  },
+  {
+    "ime": " Highland Park 12 Year Old",
+    "cena": 750.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.4,
+    "cena_na_enoto": "1,071.43 per litre"
+  },
+  {
+    "ime": " Talisker 25 Year Old",
+    "cena": 750.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.57,
+    "cena_na_enoto": "1,071.43 per litre"
+  },
+  {
+    "ime": " Talisker 1985",
+    "cena": 750.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.56,
+    "cena_na_enoto": "1,071.43 per litre"
+  },
+  {
+    "ime": " Talisker 30 Year Old",
+    "cena": 750.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.46,
+    "cena_na_enoto": "1,071.43 per litre"
+  },
+  {
+    "ime": " Highland Park 26 Year Old",
+    "cena": 750.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.41,
+    "cena_na_enoto": "1,071.43 per litre"
+  },
+  {
+    "ime": " Talisker 8 Year Old",
+    "cena": 799.0,
+    "kolicina": "75.7",
+    "procent_alkohola": 0.46,
+    "cena_na_enoto": "1,055.48 per litre"
+  },
+  {
+    "ime": " Talisker 25 Year Old",
+    "cena": 800.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.58,
+    "cena_na_enoto": "1,142.86 per litre"
+  },
+  {
+    "ime": " Highland Park 1977",
+    "cena": 800.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.58,
+    "cena_na_enoto": "1,142.86 per litre"
+  },
+  {
+    "ime": " Highland Park 8 Year Old",
+    "cena": 850.0,
+    "kolicina": "75",
+    "procent_alkohola": 0.43,
+    "cena_na_enoto": "1,133.33 per litre"
+  },
+  {
+    "ime": " Talisker 8 Year Old",
+    "cena": 850.0,
+    "kolicina": "75",
+    "procent_alkohola": 0.46,
+    "cena_na_enoto": "1,133.33 per litre"
+  },
+  {
+    "ime": " Talisker 12 Year Old",
+    "cena": 850.0,
+    "kolicina": "75",
+    "procent_alkohola": 0.43,
+    "cena_na_enoto": "1,133.33 per litre"
+  },
+  {
+    "ime": " Ledaig 1973",
+    "cena": 850.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.45,
+    "cena_na_enoto": "1,214.29 per litre"
+  },
+  {
+    "ime": " Highland Park 8 Year Old",
+    "cena": 850.0,
+    "kolicina": "75",
+    "procent_alkohola": 0.43,
+    "cena_na_enoto": "1,133.33 per litre"
+  },
+  {
+    "ime": " Talisker 8 Year Old",
+    "cena": 850.0,
+    "kolicina": "75",
+    "procent_alkohola": 0.46,
+    "cena_na_enoto": "1,133.33 per litre"
+  },
+  {
+    "ime": " Talisker 12 Year Old",
+    "cena": 850.0,
+    "kolicina": "75",
+    "procent_alkohola": 0.43,
+    "cena_na_enoto": "1,133.33 per litre"
+  },
+  {
+    "ime": " Talisker 12 Year Old",
+    "cena": 850.0,
+    "kolicina": "75",
+    "procent_alkohola": 0.43,
+    "cena_na_enoto": "1,133.33 per litre"
+  },
+  {
+    "ime": " Talisker 8 Year Old",
+    "cena": 850.0,
+    "kolicina": "75",
+    "procent_alkohola": 0.46,
+    "cena_na_enoto": "1,133.33 per litre"
+  },
+  {
+    "ime": " Talisker 8 Year Old",
+    "cena": 850.0,
+    "kolicina": "75",
+    "procent_alkohola": 0.46,
+    "cena_na_enoto": "1,133.33 per litre"
+  },
+  {
+    "ime": " Highland Park 30 Year Old",
+    "cena": 850.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.45,
+    "cena_na_enoto": "1,214.29 per litre"
+  },
+  {
+    "ime": " Talisker 12 Year Old",
+    "cena": 899.0,
+    "kolicina": "75",
+    "procent_alkohola": 0.43,
+    "cena_na_enoto": "1,198.67 per litre"
+  },
+  {
+    "ime": " Highland Park 1977",
+    "cena": 900.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.4,
+    "cena_na_enoto": "1,285.71 per litre"
+  },
+  {
+    "ime": " Tobermory 1972",
+    "cena": 900.0,
+    "kolicina": "75",
+    "procent_alkohola": 0.4,
+    "cena_na_enoto": "1,200 per litre"
+  },
+  {
+    "ime": " SMWS 4.62 (Highland Park)",
+    "cena": 900.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.54,
+    "cena_na_enoto": "1,285.71 per litre"
+  },
+  {
+    "ime": " Talisker 1979",
+    "cena": 900.0,
+    "kolicina": "75",
+    "procent_alkohola": 0.63,
+    "cena_na_enoto": "1,200 per litre"
+  },
+  {
+    "ime": "Highland Park 30 Year Old",
+    "cena": 950.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.46,
+    "cena_na_enoto": "1,357.14 per litre"
+  },
+  {
+    "ime": " Talisker 1974",
+    "cena": 950.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.45,
+    "cena_na_enoto": "1,357.14 per litre"
+  },
+  {
+    "ime": " Talisker 8 Year Old",
+    "cena": 1000.0,
+    "kolicina": "75",
+    "procent_alkohola": 0.46,
+    "cena_na_enoto": "1,333.33 per litre"
+  },
+  {
+    "ime": " Talisker 30 Year Old",
+    "cena": 1000.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.53,
+    "cena_na_enoto": "1,428.57 per litre"
+  },
+  {
+    "ime": " Talisker 30 Year Old",
+    "cena": 1000.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.57,
+    "cena_na_enoto": "1,428.57 per litre"
+  },
+  {
+    "ime": " Talisker 8 Year Old",
+    "cena": 1000.0,
+    "kolicina": "75.7",
+    "procent_alkohola": 0.46,
+    "cena_na_enoto": "1,321 per litre"
+  },
+  {
+    "ime": " Talisker 8 Year Old",
+    "cena": 1000.0,
+    "kolicina": "75",
+    "procent_alkohola": 0.46,
+    "cena_na_enoto": "1,333.33 per litre"
+  },
+  {
+    "ime": " Talisker 8 Year Old",
+    "cena": 1000.0,
+    "kolicina": "75",
+    "procent_alkohola": 0.46,
+    "cena_na_enoto": "1,333.33 per litre"
+  },
+  {
+    "ime": " Highland Park 1972",
+    "cena": 1000.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.56,
+    "cena_na_enoto": "1,428.57 per litre"
+  },
+  {
+    "ime": " SMWS 14.5 (Talisker)",
+    "cena": 1000.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.64,
+    "cena_na_enoto": "1,428.57 per litre"
+  },
+  {
+    "ime": " Isle Of Jura 33 Year Old",
+    "cena": 1000.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.43,
+    "cena_na_enoto": "1,428.57 per litre"
+  },
+  {
+    "ime": " SMWS 4.65 (Highland Park)",
+    "cena": 1000.0,
+    "kolicina": "50",
+    "procent_alkohola": 0.58,
+    "cena_na_enoto": "2,000 per litre"
+  },
+  {
+    "ime": " SMWS 4.7 (Highland Park)",
+    "cena": 1000.0,
+    "kolicina": "75",
+    "procent_alkohola": 0.6,
+    "cena_na_enoto": "1,333.33 per litre"
+  },
+  {
+    "ime": " Highland Park 25 Year Old",
+    "cena": 1100.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.51,
+    "cena_na_enoto": "1,571.43 per litre"
+  },
+  {
+    "ime": " SMWS 14.7 (Talisker)",
+    "cena": 1100.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.63,
+    "cena_na_enoto": "1,571.43 per litre"
+  },
+  {
+    "ime": " Highland Park 1977",
+    "cena": 1200.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.4,
+    "cena_na_enoto": "1,714.29 per litre"
+  },
+  {
+    "ime": " Talisker 12 Year Old",
+    "cena": 1200.0,
+    "kolicina": "100",
+    "procent_alkohola": 0.43,
+    "cena_na_enoto": null
+  },
+  {
+    "ime": " Highland Park 1986",
+    "cena": 1200.0,
+    "kolicina": "75",
+    "procent_alkohola": 0.54,
+    "cena_na_enoto": "1,600 per litre"
+  },
+  {
+    "ime": " Highland Park 1973",
+    "cena": 1200.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.55,
+    "cena_na_enoto": "1,714.29 per litre"
+  },
+  {
+    "ime": " Talisker 12 Year Old",
+    "cena": 1250.0,
+    "kolicina": "75",
+    "procent_alkohola": 0.43,
+    "cena_na_enoto": "1,666.67 per litre"
+  },
+  {
+    "ime": " Highland Park 1978",
+    "cena": 1250.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.55,
+    "cena_na_enoto": "1,785.71 per litre"
+  },
+  {
+    "ime": " Talisker 12 Year Old",
+    "cena": 1250.0,
+    "kolicina": "75",
+    "procent_alkohola": 0.43,
+    "cena_na_enoto": "1,666.67 per litre"
+  },
+  {
+    "ime": "Highland Park Thorfinn",
+    "cena": 1300.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.45,
+    "cena_na_enoto": "1,857.14 per litre"
+  },
+  {
+    "ime": " Talisker 30 Year Old",
+    "cena": 1350.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.52,
+    "cena_na_enoto": "1,928.57 per litre"
+  },
+  {
+    "ime": " Highland Park 1972",
+    "cena": 1350.0,
+    "kolicina": "75",
+    "procent_alkohola": 0.55,
+    "cena_na_enoto": "1,800 per litre"
+  },
+  {
+    "ime": " Highland Park 1972",
+    "cena": 1350.0,
+    "kolicina": "75",
+    "procent_alkohola": 0.6,
+    "cena_na_enoto": "1,800 per litre"
+  },
+  {
+    "ime": " Highland Park 1967",
+    "cena": 1500.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.43,
+    "cena_na_enoto": "2,142.86 per litre"
+  },
+  {
+    "ime": " Highland Park 1977",
+    "cena": 1500.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.52,
+    "cena_na_enoto": "2,142.86 per litre"
+  },
+  {
+    "ime": " Jura 1976",
+    "cena": 1500.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.54,
+    "cena_na_enoto": "2,142.86 per litre"
+  },
+  {
+    "ime": " Highland Park 30 Year Old",
+    "cena": 1750.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.48,
+    "cena_na_enoto": "2,500 per litre"
+  },
+  {
+    "ime": " Isle of Jura 1973",
+    "cena": 1750.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.55,
+    "cena_na_enoto": "2,500 per litre"
+  },
+  {
+    "ime": " Talisker 1977",
+    "cena": 1750.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.55,
+    "cena_na_enoto": "2,500 per litre"
+  },
+  {
+    "ime": " Talisker 1952",
+    "cena": 2000.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.4,
+    "cena_na_enoto": "2,857.14 per litre"
+  },
+  {
+    "ime": " Highland Park 1966",
+    "cena": 2000.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.43,
+    "cena_na_enoto": "2,857.14 per litre"
+  },
+  {
+    "ime": " Talisker 1953",
+    "cena": 2000.0,
+    "kolicina": "75",
+    "procent_alkohola": 0.4,
+    "cena_na_enoto": "2,666.67 per litre"
+  },
+  {
+    "ime": " Highland Park 30 Year Old",
+    "cena": 2000.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.48,
+    "cena_na_enoto": "2,857.14 per litre"
+  },
+  {
+    "ime": " Highland Park 1966",
+    "cena": 2000.0,
+    "kolicina": "75",
+    "procent_alkohola": 0.4,
+    "cena_na_enoto": "2,666.67 per litre"
+  },
+  {
+    "ime": " Highland Park 1966",
+    "cena": 2000.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.41,
+    "cena_na_enoto": "2,857.14 per litre"
+  },
+  {
+    "ime": " Highland Park 1965",
+    "cena": 2000.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.4,
+    "cena_na_enoto": "2,857.14 per litre"
+  },
+  {
+    "ime": " Highland Park 1968",
+    "cena": 2500.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.49,
+    "cena_na_enoto": "3,571.42 per litre"
+  },
+  {
+    "ime": " Talisker 1958",
+    "cena": 2500.0,
+    "kolicina": "75",
+    "procent_alkohola": 0.4,
+    "cena_na_enoto": "3,333.33 per litre"
+  },
+  {
+    "ime": " Talisker 1955",
+    "cena": 2500.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.4,
+    "cena_na_enoto": "3,571.43 per litre"
+  },
+  {
+    "ime": " Isle of Jura 1966",
+    "cena": 2500.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.43,
+    "cena_na_enoto": "3,571.43 per litre"
+  },
+  {
+    "ime": " Talisker 1956",
+    "cena": 2500.0,
+    "kolicina": "75",
+    "procent_alkohola": 0.4,
+    "cena_na_enoto": "3,333.33 per litre"
+  },
+  {
+    "ime": " Tobermory 42 Year Old",
+    "cena": 2500.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.48,
+    "cena_na_enoto": "3,571.43 per litre"
+  },
+  {
+    "ime": " Talisker 1956",
+    "cena": 2500.0,
+    "kolicina": "75",
+    "procent_alkohola": 0.4,
+    "cena_na_enoto": "3,333.33 per litre"
+  },
+  {
+    "ime": " Talisker 1951",
+    "cena": 2500.0,
+    "kolicina": "75",
+    "procent_alkohola": 0.43,
+    "cena_na_enoto": "3,333.33 per litre"
+  },
+  {
+    "ime": " Talisker 1951",
+    "cena": 2500.0,
+    "kolicina": "75",
+    "procent_alkohola": 0.43,
+    "cena_na_enoto": "3,333.33 per litre"
+  },
+  {
+    "ime": " Talisker 1978",
+    "cena": 2750.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.5,
+    "cena_na_enoto": "3,928.57 per litre"
+  },
+  {
+    "ime": " Talisker 1978",
+    "cena": 2875.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.51,
+    "cena_na_enoto": "4,107.14 per litre"
+  },
+  {
+    "ime": " Highland Park 21 Year Old",
+    "cena": 3000.0,
+    "kolicina": "75",
+    "procent_alkohola": 0.43,
+    "cena_na_enoto": "4,000 per litre"
+  },
+  {
+    "ime": " Highland Park 1956",
+    "cena": 3000.0,
+    "kolicina": "75",
+    "procent_alkohola": 0.43,
+    "cena_na_enoto": "4,000 per litre"
+  },
+  {
+    "ime": " Highland Park 1956",
+    "cena": 3000.0,
+    "kolicina": "75",
+    "procent_alkohola": 0.43,
+    "cena_na_enoto": "4,000 per litre"
+  },
+  {
+    "ime": "Highland Park 40 Year Old",
+    "cena": 3000.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.47,
+    "cena_na_enoto": "4,285.71 per litre"
+  },
+  {
+    "ime": " Highland Park 1959",
+    "cena": 3000.0,
+    "kolicina": "75",
+    "procent_alkohola": 0.43,
+    "cena_na_enoto": "4,000 per litre"
+  },
+  {
+    "ime": " Highland Park 1958",
+    "cena": 3000.0,
+    "kolicina": "75",
+    "procent_alkohola": 0.43,
+    "cena_na_enoto": "4,000 per litre"
+  },
+  {
+    "ime": " Highland Park 1956",
+    "cena": 3000.0,
+    "kolicina": "75",
+    "procent_alkohola": 0.43,
+    "cena_na_enoto": "4,000 per litre"
+  },
+  {
+    "ime": " Isle of Jura 1965",
+    "cena": 4000.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.44,
+    "cena_na_enoto": "5,714.29 per litre"
+  },
+  {
+    "ime": " Talisker 1973",
+    "cena": 4000.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.43,
+    "cena_na_enoto": "5,714.29 per litre"
+  },
+  {
+    "ime": " Highland Park 1962",
+    "cena": 4000.0,
+    "kolicina": "75",
+    "procent_alkohola": 0.43,
+    "cena_na_enoto": "5,333.33 per litre"
+  },
+  {
+    "ime": " Talisker 12 Year Old",
+    "cena": 4000.0,
+    "kolicina": "75",
+    "procent_alkohola": 0.43,
+    "cena_na_enoto": "5,333.33 per litre"
+  },
+  {
+    "ime": " Highland Park 20 Year Old",
+    "cena": 4500.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.45,
+    "cena_na_enoto": "6,428.57 per litre"
+  },
+  {
+    "ime": " Highland Park 35 Year Old",
+    "cena": 5000.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.5,
+    "cena_na_enoto": "7,142.86 per litre"
+  },
+  {
+    "ime": " Isle of Jura 1966",
+    "cena": 6500.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.45,
+    "cena_na_enoto": "9,285.71 per litre"
+  },
+  {
+    "ime": " Secret Stills 1.1",
+    "cena": 7500.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.45,
+    "cena_na_enoto": "10,714.29 per litre"
+  },
+  {
+    "ime": " Highland Park 1958",
+    "cena": 10000.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.44,
+    "cena_na_enoto": "14,285.71 per litre"
+  },
+  {
+    "ime": " Highland Park 1958",
+    "cena": 10000.0,
+    "kolicina": "75",
+    "procent_alkohola": 0.44,
+    "cena_na_enoto": "13,333.33 per litre"
+  },
+  {
+    "ime": "Highland Park 50 Year Old",
+    "cena": 23250.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.42,
+    "cena_na_enoto": "33,214.29 per litre"
+  },
+  {
+    "ime": " Highland Park 50 Year Old",
+    "cena": 40000.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.45,
+    "cena_na_enoto": "57,142.86 per litre"
+  }
+]

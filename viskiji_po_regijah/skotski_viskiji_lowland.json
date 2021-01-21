@@ -1,0 +1,996 @@
+[
+  {
+    "ime": " Glenkinchie 12 Year Old",
+    "cena": 15.25,
+    "kolicina": "20",
+    "procent_alkohola": 0.43,
+    "cena_na_enoto": "7.62 per 10cl"
+  },
+  {
+    "ime": "Kingsbarns Spirit Drink",
+    "cena": 16.95,
+    "kolicina": "20",
+    "procent_alkohola": 0.64,
+    "cena_na_enoto": "8.48 per 10cl"
+  },
+  {
+    "ime": "Auchentoshan American Oak",
+    "cena": 24.95,
+    "kolicina": "70",
+    "procent_alkohola": 0.4,
+    "cena_na_enoto": "35.64 per litre"
+  },
+  {
+    "ime": "Auchentoshan 12 Year Old",
+    "cena": 36.95,
+    "kolicina": "70",
+    "procent_alkohola": 0.4,
+    "cena_na_enoto": "52.79 per litre"
+  },
+  {
+    "ime": "Glenkinchie 12 Year Old",
+    "cena": 39.95,
+    "kolicina": "70",
+    "procent_alkohola": 0.43,
+    "cena_na_enoto": "57.07 per litre"
+  },
+  {
+    "ime": " Classic Malts Gentle Collection",
+    "cena": 46.95,
+    "kolicina": "60",
+    "procent_alkohola": 0.43,
+    "cena_na_enoto": "78.25 per litre"
+  },
+  {
+    "ime": "Auchentoshan Three Wood",
+    "cena": 43.75,
+    "kolicina": "70",
+    "procent_alkohola": 0.43,
+    "cena_na_enoto": "62.50 per litre"
+  },
+  {
+    "ime": "Ailsa Bay Sweet Smoke",
+    "cena": 54.95,
+    "kolicina": "70",
+    "procent_alkohola": 0.49,
+    "cena_na_enoto": "78.50 per litre"
+  },
+  {
+    "ime": " Bladnoch 10 Year Old",
+    "cena": 58.95,
+    "kolicina": "70",
+    "procent_alkohola": 0.47,
+    "cena_na_enoto": "84.21 per litre"
+  },
+  {
+    "ime": "Bladnoch 11 Year Old",
+    "cena": 62.95,
+    "kolicina": "70",
+    "procent_alkohola": 0.47,
+    "cena_na_enoto": "89.93 per litre"
+  },
+  {
+    "ime": " Glenkinchie 2007",
+    "cena": 63.95,
+    "kolicina": "70",
+    "procent_alkohola": 0.43,
+    "cena_na_enoto": "91.36 per litre"
+  },
+  {
+    "ime": " Auchentoshan Virgin Oak",
+    "cena": 64.95,
+    "kolicina": "70",
+    "procent_alkohola": 0.46,
+    "cena_na_enoto": "92.79 per litre"
+  },
+  {
+    "ime": "Auchentoshan 18 Year Old",
+    "cena": 69.95,
+    "kolicina": "70",
+    "procent_alkohola": 0.43,
+    "cena_na_enoto": "99.93 per litre"
+  },
+  {
+    "ime": "Bladnoch Samsara",
+    "cena": 74.95,
+    "kolicina": "70",
+    "procent_alkohola": 0.47,
+    "cena_na_enoto": "107.07 per litre"
+  },
+  {
+    "ime": " Auchentoshan 1997",
+    "cena": 150.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.52,
+    "cena_na_enoto": "214.29 per litre"
+  },
+  {
+    "ime": " Glenkinchie 1990",
+    "cena": 225.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.55,
+    "cena_na_enoto": "321.43 per litre"
+  },
+  {
+    "ime": "James Martin 20 Year Old Lowland Malt",
+    "cena": 225.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.4,
+    "cena_na_enoto": "321.43 per litre"
+  },
+  {
+    "ime": " Bladnoch 10 Year Old",
+    "cena": 235.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.43,
+    "cena_na_enoto": "335.71 per litre"
+  },
+  {
+    "ime": " Glentoshan (Auchentoshan) 5 Year Old",
+    "cena": 250.0,
+    "kolicina": "75",
+    "procent_alkohola": 0.4,
+    "cena_na_enoto": "333.33 per litre"
+  },
+  {
+    "ime": " Bladnoch 1990",
+    "cena": 255.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.52,
+    "cena_na_enoto": "364.29 per litre"
+  },
+  {
+    "ime": " Bladnoch 1990",
+    "cena": 265.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.49,
+    "cena_na_enoto": "378.57 per litre"
+  },
+  {
+    "ime": " Glenkinchie 1992",
+    "cena": 325.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.58,
+    "cena_na_enoto": "464.29 per litre"
+  },
+  {
+    "ime": " Auchentoshan 18 Year Old",
+    "cena": 399.0,
+    "kolicina": "75",
+    "procent_alkohola": 0.43,
+    "cena_na_enoto": "532 per litre"
+  },
+  {
+    "ime": " Rosebank 1990",
+    "cena": 450.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.46,
+    "cena_na_enoto": "642.86 per litre"
+  },
+  {
+    "ime": " Littlemill 1991",
+    "cena": 500.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.5,
+    "cena_na_enoto": "714.29 per litre"
+  },
+  {
+    "ime": " Littlemill 1992",
+    "cena": 500.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.46,
+    "cena_na_enoto": "714.29 per litre"
+  },
+  {
+    "ime": " Littlemill 17 Year Old",
+    "cena": 500.0,
+    "kolicina": "75",
+    "procent_alkohola": 0.43,
+    "cena_na_enoto": "666.67 per litre"
+  },
+  {
+    "ime": " Rosebank 12 Year Old",
+    "cena": 550.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.43,
+    "cena_na_enoto": "785.71 per litre"
+  },
+  {
+    "ime": " St. Magdalene 1981",
+    "cena": 550.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.4,
+    "cena_na_enoto": "785.71 per litre"
+  },
+  {
+    "ime": " Littlemill 1985",
+    "cena": 600.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.4,
+    "cena_na_enoto": "857.14 per litre"
+  },
+  {
+    "ime": " Littlemill 1992",
+    "cena": 600.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.52,
+    "cena_na_enoto": "857.14 per litre"
+  },
+  {
+    "ime": " Littlemill 1991",
+    "cena": 600.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.51,
+    "cena_na_enoto": "857.14 per litre"
+  },
+  {
+    "ime": " Littlemill 1990",
+    "cena": 600.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.5,
+    "cena_na_enoto": "857.14 per litre"
+  },
+  {
+    "ime": " Littlemill 1992",
+    "cena": 600.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.58,
+    "cena_na_enoto": "857.14 per litre"
+  },
+  {
+    "ime": " Littlemill 1989",
+    "cena": 600.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.62,
+    "cena_na_enoto": "857.14 per litre"
+  },
+  {
+    "ime": " Littlemill 1990",
+    "cena": 600.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.54,
+    "cena_na_enoto": "857.14 per litre"
+  },
+  {
+    "ime": " Littlemill 1990",
+    "cena": 600.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.51,
+    "cena_na_enoto": "857.14 per litre"
+  },
+  {
+    "ime": " Littlemill 1990",
+    "cena": 600.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.52,
+    "cena_na_enoto": "857.14 per litre"
+  },
+  {
+    "ime": " Littlemill 1990",
+    "cena": 600.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.55,
+    "cena_na_enoto": "857.14 per litre"
+  },
+  {
+    "ime": " Littlemill 22 Year Old",
+    "cena": 600.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.54,
+    "cena_na_enoto": "857.14 per litre"
+  },
+  {
+    "ime": " Littlemill 1991",
+    "cena": 600.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.53,
+    "cena_na_enoto": "857.14 per litre"
+  },
+  {
+    "ime": " Littlemill 1989",
+    "cena": 600.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.53,
+    "cena_na_enoto": "857.14 per litre"
+  },
+  {
+    "ime": " Littlemill 1990",
+    "cena": 600.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.48,
+    "cena_na_enoto": "857.14 per litre"
+  },
+  {
+    "ime": " Littlemill 1989",
+    "cena": 650.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.49,
+    "cena_na_enoto": "928.57 per litre"
+  },
+  {
+    "ime": " Littlemill 1989",
+    "cena": 650.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.53,
+    "cena_na_enoto": "928.57 per litre"
+  },
+  {
+    "ime": " Littlemill 1988",
+    "cena": 650.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.52,
+    "cena_na_enoto": "928.57 per litre"
+  },
+  {
+    "ime": " Littlemill 1984",
+    "cena": 650.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.46,
+    "cena_na_enoto": "928.57 per litre"
+  },
+  {
+    "ime": "Dunglas 1967",
+    "cena": 699.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.46,
+    "cena_na_enoto": "998.57 per litre"
+  },
+  {
+    "ime": " Glen Flagler 5 Year Old",
+    "cena": 699.0,
+    "kolicina": "75",
+    "procent_alkohola": 0.4,
+    "cena_na_enoto": "932 per litre"
+  },
+  {
+    "ime": " Glen Flagler 8 Year Old",
+    "cena": 699.0,
+    "kolicina": "75",
+    "procent_alkohola": 0.4,
+    "cena_na_enoto": "932 per litre"
+  },
+  {
+    "ime": " Linlithgow 1982",
+    "cena": 699.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.46,
+    "cena_na_enoto": "998.57 per litre"
+  },
+  {
+    "ime": " Linlithgow 1982",
+    "cena": 699.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.43,
+    "cena_na_enoto": "998.57 per litre"
+  },
+  {
+    "ime": " Glen Flagler 8 Year Old",
+    "cena": 699.0,
+    "kolicina": "75",
+    "procent_alkohola": 0.43,
+    "cena_na_enoto": "932 per litre"
+  },
+  {
+    "ime": " Glen Flagler 8 Year Old",
+    "cena": 699.0,
+    "kolicina": "75",
+    "procent_alkohola": 0.4,
+    "cena_na_enoto": "932 per litre"
+  },
+  {
+    "ime": " Linlithgow 1982",
+    "cena": 699.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.43,
+    "cena_na_enoto": "998.57 per litre"
+  },
+  {
+    "ime": " Linlithgow 1982",
+    "cena": 699.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.43,
+    "cena_na_enoto": "998.57 per litre"
+  },
+  {
+    "ime": " Linlithgow 1982",
+    "cena": 699.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.43,
+    "cena_na_enoto": "998.57 per litre"
+  },
+  {
+    "ime": " Littlemill 1989",
+    "cena": 700.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.51,
+    "cena_na_enoto": "999.99 per litre"
+  },
+  {
+    "ime": " St Magdalene 1980",
+    "cena": 700.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.4,
+    "cena_na_enoto": "1,000 per litre"
+  },
+  {
+    "ime": " Inverleven 1973",
+    "cena": 700.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.49,
+    "cena_na_enoto": "1,000 per litre"
+  },
+  {
+    "ime": " Linlithgow 1982",
+    "cena": 700.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.46,
+    "cena_na_enoto": "1,000 per litre"
+  },
+  {
+    "ime": " Linlithgow 1982",
+    "cena": 700.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.43,
+    "cena_na_enoto": "1,000 per litre"
+  },
+  {
+    "ime": " St Magdalene 1982",
+    "cena": 750.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.46,
+    "cena_na_enoto": "1,071.43 per litre"
+  },
+  {
+    "ime": " Linlithgow 1982",
+    "cena": 750.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.57,
+    "cena_na_enoto": "1,071.43 per litre"
+  },
+  {
+    "ime": " Linlithgow 1982",
+    "cena": 750.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.63,
+    "cena_na_enoto": "1,071.43 per litre"
+  },
+  {
+    "ime": " Linlithgow 1975",
+    "cena": 750.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.46,
+    "cena_na_enoto": "1,071.43 per litre"
+  },
+  {
+    "ime": " St Magdalene 1982",
+    "cena": 750.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.5,
+    "cena_na_enoto": "1,071.43 per litre"
+  },
+  {
+    "ime": " Linlithgow 1982",
+    "cena": 750.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.63,
+    "cena_na_enoto": "1,071.43 per litre"
+  },
+  {
+    "ime": " Linlithgow 1975",
+    "cena": 750.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.46,
+    "cena_na_enoto": "1,071.43 per litre"
+  },
+  {
+    "ime": " Linlithgow 1982",
+    "cena": 800.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.62,
+    "cena_na_enoto": "1,142.86 per litre"
+  },
+  {
+    "ime": " Littlemill 1988",
+    "cena": 800.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.52,
+    "cena_na_enoto": "1,142.86 per litre"
+  },
+  {
+    "ime": " Linlithgow 1982",
+    "cena": 850.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.64,
+    "cena_na_enoto": "1,214.29 per litre"
+  },
+  {
+    "ime": " Rosebank 8 Year Old",
+    "cena": 850.0,
+    "kolicina": "75",
+    "procent_alkohola": 0.4,
+    "cena_na_enoto": "1,133.33 per litre"
+  },
+  {
+    "ime": " Linlithgow 1982",
+    "cena": 850.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.5,
+    "cena_na_enoto": "1,214.29 per litre"
+  },
+  {
+    "ime": " St Magdalene 1982",
+    "cena": 850.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.5,
+    "cena_na_enoto": "1,214.29 per litre"
+  },
+  {
+    "ime": " St Magdalene 1982",
+    "cena": 850.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.5,
+    "cena_na_enoto": "1,214.29 per litre"
+  },
+  {
+    "ime": " Linlithgow 1982",
+    "cena": 850.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.63,
+    "cena_na_enoto": "1,214.29 per litre"
+  },
+  {
+    "ime": " Glen Flagler",
+    "cena": 899.0,
+    "kolicina": "75",
+    "procent_alkohola": 0.4,
+    "cena_na_enoto": "1,198.67 per litre"
+  },
+  {
+    "ime": " Linlithgow 1974",
+    "cena": 900.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.5,
+    "cena_na_enoto": "1,285.71 per litre"
+  },
+  {
+    "ime": " St Magdalene 1982",
+    "cena": 900.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.5,
+    "cena_na_enoto": "1,285.71 per litre"
+  },
+  {
+    "ime": " Linlithgow 1975",
+    "cena": 900.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.5,
+    "cena_na_enoto": "1,285.71 per litre"
+  },
+  {
+    "ime": " St Magdalene 1982",
+    "cena": 900.0,
+    "kolicina": "75",
+    "procent_alkohola": 0.56,
+    "cena_na_enoto": "1,200 per litre"
+  },
+  {
+    "ime": " Dunglass 1967",
+    "cena": 1000.0,
+    "kolicina": "75",
+    "procent_alkohola": 0.46,
+    "cena_na_enoto": "1,333.33 per litre"
+  },
+  {
+    "ime": " Rosebank",
+    "cena": 1000.0,
+    "kolicina": "75",
+    "procent_alkohola": 0.4,
+    "cena_na_enoto": "1,333.33 per litre"
+  },
+  {
+    "ime": " Linlithgow 1975",
+    "cena": 1000.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.52,
+    "cena_na_enoto": "1,428.57 per litre"
+  },
+  {
+    "ime": " St Magdalene 1965",
+    "cena": 1000.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.4,
+    "cena_na_enoto": "1,428.57 per litre"
+  },
+  {
+    "ime": " Linlithgow 1975",
+    "cena": 1000.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.51,
+    "cena_na_enoto": "1,428.57 per litre"
+  },
+  {
+    "ime": " Linlithgow 1975",
+    "cena": 1000.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.52,
+    "cena_na_enoto": "1,428.57 per litre"
+  },
+  {
+    "ime": " Rosebank",
+    "cena": 1000.0,
+    "kolicina": "75",
+    "procent_alkohola": 0.4,
+    "cena_na_enoto": "1,333.33 per litre"
+  },
+  {
+    "ime": " Glen Flagler 8 Year Old",
+    "cena": 1000.0,
+    "kolicina": "75",
+    "procent_alkohola": 0.4,
+    "cena_na_enoto": "1,333.33 per litre"
+  },
+  {
+    "ime": " St Magdalene 1982",
+    "cena": 1000.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.46,
+    "cena_na_enoto": "1,428.57 per litre"
+  },
+  {
+    "ime": " St Magdalene 1965",
+    "cena": 1000.0,
+    "kolicina": "75",
+    "procent_alkohola": 0.4,
+    "cena_na_enoto": "1,333.33 per litre"
+  },
+  {
+    "ime": " Linlithgow 1975",
+    "cena": 1000.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.52,
+    "cena_na_enoto": "1,428.57 per litre"
+  },
+  {
+    "ime": " St Magdalene 1975",
+    "cena": 1000.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.46,
+    "cena_na_enoto": "1,428.57 per litre"
+  },
+  {
+    "ime": " Linlithgow 1975",
+    "cena": 1000.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.58,
+    "cena_na_enoto": "1,428.57 per litre"
+  },
+  {
+    "ime": " Linlithgow 1975",
+    "cena": 1000.0,
+    "kolicina": "75",
+    "procent_alkohola": 0.5,
+    "cena_na_enoto": "1,333.33 per litre"
+  },
+  {
+    "ime": " Rosebank 8 Year Old",
+    "cena": 1100.0,
+    "kolicina": "75",
+    "procent_alkohola": 0.4,
+    "cena_na_enoto": "1,466.67 per litre"
+  },
+  {
+    "ime": " SMWS 49.13 (St Magdalene)",
+    "cena": 1100.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.5,
+    "cena_na_enoto": "1,571.43 per litre"
+  },
+  {
+    "ime": " SMWS 49.4 (St Magdalene)",
+    "cena": 1100.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.63,
+    "cena_na_enoto": "1,571.43 per litre"
+  },
+  {
+    "ime": " SMWS 49.3 (St Magdalene)",
+    "cena": 1100.0,
+    "kolicina": "75",
+    "procent_alkohola": 0.63,
+    "cena_na_enoto": "1,466.67 per litre"
+  },
+  {
+    "ime": " Glen Flagler 1970",
+    "cena": 1200.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.5,
+    "cena_na_enoto": "1,714.29 per litre"
+  },
+  {
+    "ime": " Kinclaith 1966",
+    "cena": 1200.0,
+    "kolicina": "75",
+    "procent_alkohola": 0.4,
+    "cena_na_enoto": "1,600 per litre"
+  },
+  {
+    "ime": " Kinclaith 1967",
+    "cena": 1200.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.4,
+    "cena_na_enoto": "1,714.29 per litre"
+  },
+  {
+    "ime": " Linlithgow 1982",
+    "cena": 1200.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.65,
+    "cena_na_enoto": "1,714.29 per litre"
+  },
+  {
+    "ime": " Linlithgow 1975",
+    "cena": 1200.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.52,
+    "cena_na_enoto": "1,714.29 per litre"
+  },
+  {
+    "ime": " Glenflagler 1972",
+    "cena": 1200.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.53,
+    "cena_na_enoto": "1,714.29 per litre"
+  },
+  {
+    "ime": " Rosebank 1992",
+    "cena": 1200.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.55,
+    "cena_na_enoto": "1,714.29 per litre"
+  },
+  {
+    "ime": " Auchentoshan 1965",
+    "cena": 1250.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.46,
+    "cena_na_enoto": "1,785.71 per litre"
+  },
+  {
+    "ime": " Glenkinchie 1964",
+    "cena": 1250.0,
+    "kolicina": "75",
+    "procent_alkohola": 0.4,
+    "cena_na_enoto": "1,666.67 per litre"
+  },
+  {
+    "ime": " Auchentoshan 1966",
+    "cena": 1350.0,
+    "kolicina": "75",
+    "procent_alkohola": 0.43,
+    "cena_na_enoto": "1,800 per litre"
+  },
+  {
+    "ime": " SMWS 49.1 (St Magdalene)",
+    "cena": 1350.0,
+    "kolicina": "75",
+    "procent_alkohola": 0.65,
+    "cena_na_enoto": "1,800 per litre"
+  },
+  {
+    "ime": " Auchentoshan 1966",
+    "cena": 1350.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.47,
+    "cena_na_enoto": "1,928.57 per litre"
+  },
+  {
+    "ime": " Auchentoshan 1966",
+    "cena": 1350.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.43,
+    "cena_na_enoto": "1,928.57 per litre"
+  },
+  {
+    "ime": " Auchentoshan 1966",
+    "cena": 1350.0,
+    "kolicina": "75",
+    "procent_alkohola": 0.47,
+    "cena_na_enoto": "1,800 per litre"
+  },
+  {
+    "ime": " Auchentoshan 1966",
+    "cena": 1350.0,
+    "kolicina": "75",
+    "procent_alkohola": 0.43,
+    "cena_na_enoto": "1,800 per litre"
+  },
+  {
+    "ime": " Auchentoshan 1966",
+    "cena": 1350.0,
+    "kolicina": "75",
+    "procent_alkohola": 0.45,
+    "cena_na_enoto": "1,800 per litre"
+  },
+  {
+    "ime": " Rosebank Ceramic 15 Year Old",
+    "cena": 1500.0,
+    "kolicina": "75",
+    "procent_alkohola": 0.5,
+    "cena_na_enoto": "2,000 per litre"
+  },
+  {
+    "ime": " Rosebank 1981",
+    "cena": 1500.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.61,
+    "cena_na_enoto": "2,142.86 per litre"
+  },
+  {
+    "ime": " St Magdalene 1979",
+    "cena": 1500.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.64,
+    "cena_na_enoto": "2,142.86 per litre"
+  },
+  {
+    "ime": " Rosebank 1990",
+    "cena": 1500.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.54,
+    "cena_na_enoto": "2,142.86 per litre"
+  },
+  {
+    "ime": " Auchentoshan 1966",
+    "cena": 1500.0,
+    "kolicina": "75",
+    "procent_alkohola": 0.43,
+    "cena_na_enoto": "2,000 per litre"
+  },
+  {
+    "ime": " St Magdalene 1979",
+    "cena": 1500.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.64,
+    "cena_na_enoto": "2,142.86 per litre"
+  },
+  {
+    "ime": " Auchentoshan 1965",
+    "cena": 1500.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.49,
+    "cena_na_enoto": "2,142.86 per litre"
+  },
+  {
+    "ime": " St Magdalene 1964",
+    "cena": 1600.0,
+    "kolicina": "75",
+    "procent_alkohola": 0.4,
+    "cena_na_enoto": "2,133.33 per litre"
+  },
+  {
+    "ime": " St Magdalene 1964",
+    "cena": 1600.0,
+    "kolicina": "75",
+    "procent_alkohola": 0.4,
+    "cena_na_enoto": "2,133.33 per litre"
+  },
+  {
+    "ime": " St Magdalene 1964",
+    "cena": 1600.0,
+    "kolicina": "75",
+    "procent_alkohola": 0.4,
+    "cena_na_enoto": "2,133.33 per litre"
+  },
+  {
+    "ime": " Linlithgow 1973",
+    "cena": 1750.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.6,
+    "cena_na_enoto": "2,500 per litre"
+  },
+  {
+    "ime": " Glen Flagler 1973",
+    "cena": 2000.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.46,
+    "cena_na_enoto": "2,857.14 per litre"
+  },
+  {
+    "ime": " St Magdalene 1970",
+    "cena": 2000.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.58,
+    "cena_na_enoto": "2,857.14 per litre"
+  },
+  {
+    "ime": " Ladyburn 1973",
+    "cena": 2000.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.42,
+    "cena_na_enoto": "2,857.14 per litre"
+  },
+  {
+    "ime": " Littlemill 25 Year Old",
+    "cena": 1750.0,
+    "kolicina": "75",
+    "procent_alkohola": 0.5,
+    "cena_na_enoto": "2,333.33 per litre"
+  },
+  {
+    "ime": " Rosebank 1981",
+    "cena": 2500.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.61,
+    "cena_na_enoto": "3,571.43 per litre"
+  },
+  {
+    "ime": " Littlemill 1950",
+    "cena": 2500.0,
+    "kolicina": "75",
+    "procent_alkohola": 0.54,
+    "cena_na_enoto": "3,333.33 per litre"
+  },
+  {
+    "ime": " Rosebank 12 Year Old",
+    "cena": 2500.0,
+    "kolicina": "75",
+    "procent_alkohola": 0.43,
+    "cena_na_enoto": "3,333.33 per litre"
+  },
+  {
+    "ime": " Littlemill 29 Year Old",
+    "cena": 2750.0,
+    "kolicina": "75",
+    "procent_alkohola": 0.47,
+    "cena_na_enoto": "3,666.67 per litre"
+  },
+  {
+    "ime": " St Magdalene 1964",
+    "cena": 3000.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.48,
+    "cena_na_enoto": "4,285.71 per litre"
+  },
+  {
+    "ime": " Kinclaith 1965",
+    "cena": 3000.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.51,
+    "cena_na_enoto": "4,285.71 per litre"
+  },
+  {
+    "ime": " Auchentoshan 1965",
+    "cena": 4000.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.41,
+    "cena_na_enoto": "5,714.29 per litre"
+  },
+  {
+    "ime": " Bladnoch 29 Year Old",
+    "cena": 5000.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.41,
+    "cena_na_enoto": "7,142.86 per litre"
+  },
+  {
+    "ime": " Kinclaith 1969",
+    "cena": 5500.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.47,
+    "cena_na_enoto": "7,857.14 per litre"
+  },
+  {
+    "ime": " SMWS 98.1 (Inverleven)",
+    "cena": 6000.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.58,
+    "cena_na_enoto": "8,571.43 per litre"
+  },
+  {
+    "ime": " Littlemill 40 Year Old",
+    "cena": 6000.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.47,
+    "cena_na_enoto": "8,571.43 per litre"
+  }
+]

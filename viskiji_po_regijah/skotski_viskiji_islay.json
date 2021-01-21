@@ -1,0 +1,3488 @@
+[
+  {
+    "ime": " Bunnahabhain Stiuireadair",
+    "cena": 13.75,
+    "kolicina": "20",
+    "procent_alkohola": 0.46,
+    "cena_na_enoto": "6.87 per 10cl"
+  },
+  {
+    "ime": " Bunnahabhain 12 Year Old",
+    "cena": 16.45,
+    "kolicina": "20",
+    "procent_alkohola": 0.46,
+    "cena_na_enoto": "8.22 per 10cl"
+  },
+  {
+    "ime": " Bruichladdich Classic Laddie Scottish Barley",
+    "cena": 17.25,
+    "kolicina": "20",
+    "procent_alkohola": 0.5,
+    "cena_na_enoto": "8.63 per 10cl"
+  },
+  {
+    "ime": " Caol Ila 12 Year Old",
+    "cena": 14.95,
+    "kolicina": "20",
+    "procent_alkohola": 0.43,
+    "cena_na_enoto": "7.48 per 10cl"
+  },
+  {
+    "ime": " Bruichladdich Islay Barley",
+    "cena": 20.95,
+    "kolicina": "20",
+    "procent_alkohola": 0.5,
+    "cena_na_enoto": "10.47 per 10cl"
+  },
+  {
+    "ime": " Kilchoman Machir Bay",
+    "cena": 21.95,
+    "kolicina": "20",
+    "procent_alkohola": 0.46,
+    "cena_na_enoto": "10.98 per 10cl"
+  },
+  {
+    "ime": " Kilchoman Sanaig",
+    "cena": 24.95,
+    "kolicina": "20",
+    "procent_alkohola": 0.46,
+    "cena_na_enoto": "12.48 per 10cl"
+  },
+  {
+    "ime": "Bowmore No.1",
+    "cena": 29.95,
+    "kolicina": "70",
+    "procent_alkohola": 0.4,
+    "cena_na_enoto": "42.79 per litre"
+  },
+  {
+    "ime": " Finlaggan Original",
+    "cena": 31.95,
+    "kolicina": "70",
+    "procent_alkohola": 0.4,
+    "cena_na_enoto": "45.64 per litre"
+  },
+  {
+    "ime": "Laphroaig Select",
+    "cena": 31.95,
+    "kolicina": "70",
+    "procent_alkohola": 0.4,
+    "cena_na_enoto": "45.64 per litre"
+  },
+  {
+    "ime": " Cask Islay",
+    "cena": 32.95,
+    "kolicina": "70",
+    "procent_alkohola": 0.46,
+    "cena_na_enoto": "47.07 per litre"
+  },
+  {
+    "ime": " Finlaggan Old Reserve",
+    "cena": 33.45,
+    "kolicina": "70",
+    "procent_alkohola": 0.4,
+    "cena_na_enoto": "47.79 per litre"
+  },
+  {
+    "ime": "Ileach Peaty",
+    "cena": 34.45,
+    "kolicina": "70",
+    "procent_alkohola": 0.4,
+    "cena_na_enoto": "49.21 per litre"
+  },
+  {
+    "ime": "Bowmore 12 Year Old",
+    "cena": 34.95,
+    "kolicina": "70",
+    "procent_alkohola": 0.4,
+    "cena_na_enoto": "49.93 per litre"
+  },
+  {
+    "ime": "Smokehead",
+    "cena": 36.95,
+    "kolicina": "70",
+    "procent_alkohola": 0.43,
+    "cena_na_enoto": "52.79 per litre"
+  },
+  {
+    "ime": " Ardbeg Wee Beastie",
+    "cena": 36.95,
+    "kolicina": "70",
+    "procent_alkohola": 0.47,
+    "cena_na_enoto": "52.79 per litre"
+  },
+  {
+    "ime": "Bunnahabhain Stiuireadair",
+    "cena": 37.95,
+    "kolicina": "70",
+    "procent_alkohola": 0.46,
+    "cena_na_enoto": "54.21 per litre"
+  },
+  {
+    "ime": "Laphroaig 10 Year Old",
+    "cena": 36.95,
+    "kolicina": "70",
+    "procent_alkohola": 0.4,
+    "cena_na_enoto": "52.79 per litre"
+  },
+  {
+    "ime": "Bowmore Legend",
+    "cena": 39.95,
+    "kolicina": "70",
+    "procent_alkohola": 0.4,
+    "cena_na_enoto": "57.07 per litre"
+  },
+  {
+    "ime": "Port Askaig 8 Year Old",
+    "cena": 39.95,
+    "kolicina": "70",
+    "procent_alkohola": 0.46,
+    "cena_na_enoto": "57.07 per litre"
+  },
+  {
+    "ime": " Chaos Batch 2",
+    "cena": 39.95,
+    "kolicina": "70",
+    "procent_alkohola": 0.5,
+    "cena_na_enoto": "57.07 per litre"
+  },
+  {
+    "ime": "Laphroaig Quarter Cask",
+    "cena": 40.95,
+    "kolicina": "70",
+    "procent_alkohola": 0.48,
+    "cena_na_enoto": "58.50 per litre"
+  },
+  {
+    "ime": "Aerolite Lyndsay 10 Year Old",
+    "cena": 41.95,
+    "kolicina": "70",
+    "procent_alkohola": 0.46,
+    "cena_na_enoto": "59.93 per litre"
+  },
+  {
+    "ime": "Ardbeg 10 Year Old",
+    "cena": 42.45,
+    "kolicina": "70",
+    "procent_alkohola": 0.46,
+    "cena_na_enoto": "60.64 per litre"
+  },
+  {
+    "ime": " Bruichladdich Classic Laddie",
+    "cena": 39.95,
+    "kolicina": "70",
+    "procent_alkohola": 0.5,
+    "cena_na_enoto": "57.07 per litre"
+  },
+  {
+    "ime": " Cask Islay",
+    "cena": 42.95,
+    "kolicina": "70",
+    "procent_alkohola": 0.59,
+    "cena_na_enoto": "61.36 per litre"
+  },
+  {
+    "ime": "Bunnahabhain Toiteach A Dha",
+    "cena": 43.45,
+    "kolicina": "70",
+    "procent_alkohola": 0.46,
+    "cena_na_enoto": "62.07 per litre"
+  },
+  {
+    "ime": " Caol ila 2011",
+    "cena": 43.75,
+    "kolicina": "70",
+    "procent_alkohola": 0.46,
+    "cena_na_enoto": "62.50 per litre"
+  },
+  {
+    "ime": "Ardbeg An Oa",
+    "cena": 43.95,
+    "kolicina": "70",
+    "procent_alkohola": 0.47,
+    "cena_na_enoto": "62.79 per litre"
+  },
+  {
+    "ime": "Kilchoman Machir Bay",
+    "cena": 43.95,
+    "kolicina": "70",
+    "procent_alkohola": 0.46,
+    "cena_na_enoto": "62.79 per litre"
+  },
+  {
+    "ime": "Caol Ila 12 Year Old",
+    "cena": 44.95,
+    "kolicina": "70",
+    "procent_alkohola": 0.43,
+    "cena_na_enoto": "64.21 per litre"
+  },
+  {
+    "ime": "Bunnahabhain 12 Year Old",
+    "cena": 39.95,
+    "kolicina": "70",
+    "procent_alkohola": 0.46,
+    "cena_na_enoto": "57.07 per litre"
+  },
+  {
+    "ime": "Port Askaig 100\u00b0 Proof",
+    "cena": 42.95,
+    "kolicina": "70",
+    "procent_alkohola": 0.57,
+    "cena_na_enoto": "61.36 per litre"
+  },
+  {
+    "ime": " Classic Malts Coastal Collection",
+    "cena": 46.95,
+    "kolicina": "60",
+    "procent_alkohola": 0.45,
+    "cena_na_enoto": "78.25 per litre"
+  },
+  {
+    "ime": " Kilchoman Machir Bay and Sanaig Gift Pack",
+    "cena": 46.95,
+    "kolicina": "40",
+    "procent_alkohola": 0.46,
+    "cena_na_enoto": "117.38 per litre"
+  },
+  {
+    "ime": " Bowmore 10 Year Old",
+    "cena": 46.95,
+    "kolicina": "100",
+    "procent_alkohola": 0.4,
+    "cena_na_enoto": null
+  },
+  {
+    "ime": "Ileach Cask Strength",
+    "cena": 47.95,
+    "kolicina": "70",
+    "procent_alkohola": 0.58,
+    "cena_na_enoto": "68.50 per litre"
+  },
+  {
+    "ime": "Finlaggan Cask Strength Islay Malt",
+    "cena": 48.45,
+    "kolicina": "70",
+    "procent_alkohola": 0.58,
+    "cena_na_enoto": "69.21 per litre"
+  },
+  {
+    "ime": " Caol Ila 13 Year Old",
+    "cena": 48.95,
+    "kolicina": "70",
+    "procent_alkohola": 0.43,
+    "cena_na_enoto": "69.93 per litre"
+  },
+  {
+    "ime": "Kilchoman Sanaig",
+    "cena": 49.45,
+    "kolicina": "70",
+    "procent_alkohola": 0.46,
+    "cena_na_enoto": "70.64 per litre"
+  },
+  {
+    "ime": "Caol Ila Moch",
+    "cena": 49.95,
+    "kolicina": "70",
+    "procent_alkohola": 0.43,
+    "cena_na_enoto": "71.36 per litre"
+  },
+  {
+    "ime": " Classic Malts Strong Collection",
+    "cena": 49.95,
+    "kolicina": "60",
+    "procent_alkohola": 0.43,
+    "cena_na_enoto": "83.25 per litre"
+  },
+  {
+    "ime": " Bruichladdich The Classic Laddie",
+    "cena": 49.95,
+    "kolicina": "70",
+    "procent_alkohola": 0.5,
+    "cena_na_enoto": "71.36 per litre"
+  },
+  {
+    "ime": "Port Askaig 8 Year Old Glass Set",
+    "cena": 49.95,
+    "kolicina": "70",
+    "procent_alkohola": 0.46,
+    "cena_na_enoto": "71.36 per litre"
+  },
+  {
+    "ime": "Port Charlotte 10 Year Old",
+    "cena": 45.95,
+    "kolicina": "70",
+    "procent_alkohola": 0.5,
+    "cena_na_enoto": "65.64 per litre"
+  },
+  {
+    "ime": " Bunnahabhain 11 Year Old",
+    "cena": 49.95,
+    "kolicina": "70",
+    "procent_alkohola": 0.43,
+    "cena_na_enoto": "71.36 per litre"
+  },
+  {
+    "ime": "Smokehead Rum Rebel",
+    "cena": 49.95,
+    "kolicina": "70",
+    "procent_alkohola": 0.46,
+    "cena_na_enoto": "71.36 per litre"
+  },
+  {
+    "ime": "Bruichladdich Islay Barley 2011",
+    "cena": 50.95,
+    "kolicina": "70",
+    "procent_alkohola": 0.5,
+    "cena_na_enoto": "72.79 per litre"
+  },
+  {
+    "ime": " Kilchoman Machir Bay Gift Pack",
+    "cena": 51.95,
+    "kolicina": "70",
+    "procent_alkohola": 0.46,
+    "cena_na_enoto": "74.21 per litre"
+  },
+  {
+    "ime": "Kilchoman Machir Bay Cask Strength",
+    "cena": 51.95,
+    "kolicina": "70",
+    "procent_alkohola": 0.59,
+    "cena_na_enoto": "74.21 per litre"
+  },
+  {
+    "ime": " Kilchoman UK Small Batch",
+    "cena": 51.95,
+    "kolicina": "70",
+    "procent_alkohola": 0.47,
+    "cena_na_enoto": "74.21 per litre"
+  },
+  {
+    "ime": " Lagavulin 8 Year Old",
+    "cena": 53.95,
+    "kolicina": "70",
+    "procent_alkohola": 0.48,
+    "cena_na_enoto": "77.07 per litre"
+  },
+  {
+    "ime": "Lagavulin 8 Year Old",
+    "cena": 53.95,
+    "kolicina": "70",
+    "procent_alkohola": 0.48,
+    "cena_na_enoto": "77.07 per litre"
+  },
+  {
+    "ime": "Smokehead High Voltage",
+    "cena": 54.75,
+    "kolicina": "70",
+    "procent_alkohola": 0.58,
+    "cena_na_enoto": "78.21 per litre"
+  },
+  {
+    "ime": "Bowmore 15 Year Old",
+    "cena": 54.95,
+    "kolicina": "70",
+    "procent_alkohola": 0.43,
+    "cena_na_enoto": "78.50 per litre"
+  },
+  {
+    "ime": "Laphroaig Triple Wood",
+    "cena": 56.45,
+    "kolicina": "70",
+    "procent_alkohola": 0.48,
+    "cena_na_enoto": "80.64 per litre"
+  },
+  {
+    "ime": " Bowmore Classic Collection",
+    "cena": 57.95,
+    "kolicina": "60",
+    "procent_alkohola": 0.42,
+    "cena_na_enoto": "96.58 per litre"
+  },
+  {
+    "ime": " Port Charlotte 10 Year Old",
+    "cena": 58.95,
+    "kolicina": "70",
+    "procent_alkohola": 0.5,
+    "cena_na_enoto": "84.21 per litre"
+  },
+  {
+    "ime": "Ardbeg Uigeadail",
+    "cena": 59.95,
+    "kolicina": "70",
+    "procent_alkohola": 0.54,
+    "cena_na_enoto": "85.64 per litre"
+  },
+  {
+    "ime": "Lagavulin 16 Year Old",
+    "cena": 59.95,
+    "kolicina": "70",
+    "procent_alkohola": 0.43,
+    "cena_na_enoto": "85.64 per litre"
+  },
+  {
+    "ime": "Smokehead Sherry Bomb",
+    "cena": 62.75,
+    "kolicina": "70",
+    "procent_alkohola": 0.48,
+    "cena_na_enoto": "89.64 per litre"
+  },
+  {
+    "ime": " Lagavulin 9 Year Old",
+    "cena": 64.95,
+    "kolicina": "70",
+    "procent_alkohola": 0.46,
+    "cena_na_enoto": "92.79 per litre"
+  },
+  {
+    "ime": " Port Askaig 12 Year Old",
+    "cena": 65.95,
+    "kolicina": "70",
+    "procent_alkohola": 0.46,
+    "cena_na_enoto": "94.21 per litre"
+  },
+  {
+    "ime": "Port Charlotte 2011 Islay Barley",
+    "cena": 66.45,
+    "kolicina": "70",
+    "procent_alkohola": 0.5,
+    "cena_na_enoto": "94.93 per litre"
+  },
+  {
+    "ime": "Bowmore 15 Year Old + 2 Glasses Set",
+    "cena": 66.95,
+    "kolicina": "70",
+    "procent_alkohola": 0.43,
+    "cena_na_enoto": "95.64 per litre"
+  },
+  {
+    "ime": "Ardbeg Corryvreckan",
+    "cena": 67.95,
+    "kolicina": "70",
+    "procent_alkohola": 0.57,
+    "cena_na_enoto": "97.07 per litre"
+  },
+  {
+    "ime": "Laphroaig Lore",
+    "cena": 68.95,
+    "kolicina": "70",
+    "procent_alkohola": 0.48,
+    "cena_na_enoto": "98.50 per litre"
+  },
+  {
+    "ime": " Bunnahabhain Eirigh Na Greine",
+    "cena": 69.95,
+    "kolicina": "100",
+    "procent_alkohola": 0.46,
+    "cena_na_enoto": null
+  },
+  {
+    "ime": " Caol Ila 2011",
+    "cena": 69.95,
+    "kolicina": "70",
+    "procent_alkohola": 0.47,
+    "cena_na_enoto": "99.93 per litre"
+  },
+  {
+    "ime": " Caol Ila 2011",
+    "cena": 69.95,
+    "kolicina": "70",
+    "procent_alkohola": 0.47,
+    "cena_na_enoto": "99.93 per litre"
+  },
+  {
+    "ime": " Caol Ila 2011",
+    "cena": 69.95,
+    "kolicina": "70",
+    "procent_alkohola": 0.47,
+    "cena_na_enoto": "99.93 per litre"
+  },
+  {
+    "ime": " Bowmore Vault Edition 2",
+    "cena": 69.95,
+    "kolicina": "70",
+    "procent_alkohola": 0.5,
+    "cena_na_enoto": "99.93 per litre"
+  },
+  {
+    "ime": "Personalised 10 Year Old Scotch Whisky",
+    "cena": 69.95,
+    "kolicina": "70",
+    "procent_alkohola": 0.54,
+    "cena_na_enoto": "99.93 per litre"
+  },
+  {
+    "ime": "Bruichladdich Bere Barley 2010",
+    "cena": 71.25,
+    "kolicina": "70",
+    "procent_alkohola": 0.5,
+    "cena_na_enoto": "101.79 per litre"
+  },
+  {
+    "ime": "Bruichladdich Organic 2010",
+    "cena": 71.25,
+    "kolicina": "70",
+    "procent_alkohola": 0.5,
+    "cena_na_enoto": "101.79 per litre"
+  },
+  {
+    "ime": "Bruichladdich Organic 2009",
+    "cena": 67.95,
+    "kolicina": "70",
+    "procent_alkohola": 0.5,
+    "cena_na_enoto": "97.07 per litre"
+  },
+  {
+    "ime": " Port Askaig 12 Year Old",
+    "cena": 72.95,
+    "kolicina": "70",
+    "procent_alkohola": 0.46,
+    "cena_na_enoto": "104.21 per litre"
+  },
+  {
+    "ime": " Kilchoman Fino Sherry Cask",
+    "cena": 73.75,
+    "kolicina": "70",
+    "procent_alkohola": 0.46,
+    "cena_na_enoto": "105.36 per litre"
+  },
+  {
+    "ime": " Kilchoman 2010 Vintage",
+    "cena": 73.95,
+    "kolicina": "70",
+    "procent_alkohola": 0.48,
+    "cena_na_enoto": "105.64 per litre"
+  },
+  {
+    "ime": " Laphroaig 10 Year Old",
+    "cena": 73.95,
+    "kolicina": "70",
+    "procent_alkohola": 0.6,
+    "cena_na_enoto": "105.64 per litre"
+  },
+  {
+    "ime": "Bn3 \u2013 Elements of Islay",
+    "cena": 74.95,
+    "kolicina": "50",
+    "procent_alkohola": 0.56,
+    "cena_na_enoto": "149.90 per litre"
+  },
+  {
+    "ime": "Bowmore Vault Edition First Release \"Atlantic Sea Salt\"",
+    "cena": 74.95,
+    "kolicina": "70",
+    "procent_alkohola": 0.52,
+    "cena_na_enoto": "107.07 per litre"
+  },
+  {
+    "ime": " Kilchoman 100% Islay",
+    "cena": 74.95,
+    "kolicina": "70",
+    "procent_alkohola": 0.5,
+    "cena_na_enoto": "107.07 per litre"
+  },
+  {
+    "ime": " Caol Ila 2008",
+    "cena": 74.95,
+    "kolicina": "70",
+    "procent_alkohola": 0.58,
+    "cena_na_enoto": "107.07 per litre"
+  },
+  {
+    "ime": " Caol Ila 2007",
+    "cena": 76.25,
+    "kolicina": "70",
+    "procent_alkohola": 0.55,
+    "cena_na_enoto": "108.93 per litre"
+  },
+  {
+    "ime": "Bowmore 18 Year Old",
+    "cena": 79.95,
+    "kolicina": "70",
+    "procent_alkohola": 0.43,
+    "cena_na_enoto": "114.21 per litre"
+  },
+  {
+    "ime": "Bunnahabhain Cruach-Mhona",
+    "cena": 79.95,
+    "kolicina": "100",
+    "procent_alkohola": 0.5,
+    "cena_na_enoto": null
+  },
+  {
+    "ime": "Br5 - Elements of Islay",
+    "cena": 79.95,
+    "kolicina": "50",
+    "procent_alkohola": 0.54,
+    "cena_na_enoto": "159.90 per litre"
+  },
+  {
+    "ime": " Laphroaig PX Cask",
+    "cena": 79.95,
+    "kolicina": "100",
+    "procent_alkohola": 0.48,
+    "cena_na_enoto": null
+  },
+  {
+    "ime": "Lg6 - Elements of Islay",
+    "cena": 79.95,
+    "kolicina": "50",
+    "procent_alkohola": 0.54,
+    "cena_na_enoto": "159.90 per litre"
+  },
+  {
+    "ime": " Laphroaig Lore",
+    "cena": 79.95,
+    "kolicina": "70",
+    "procent_alkohola": 0.48,
+    "cena_na_enoto": "114.21 per litre"
+  },
+  {
+    "ime": "Caol Ila 18 Year Old",
+    "cena": 81.95,
+    "kolicina": "70",
+    "procent_alkohola": 0.43,
+    "cena_na_enoto": "117.07 per litre"
+  },
+  {
+    "ime": " Caol Ila 2012",
+    "cena": 82.95,
+    "kolicina": "70",
+    "procent_alkohola": 0.6,
+    "cena_na_enoto": "118.50 per litre"
+  },
+  {
+    "ime": " Bowmore 18 Year Old",
+    "cena": 73.95,
+    "kolicina": "70",
+    "procent_alkohola": 0.43,
+    "cena_na_enoto": "105.64 per litre"
+  },
+  {
+    "ime": " Laphroaig 10 Year Old",
+    "cena": 83.95,
+    "kolicina": "70",
+    "procent_alkohola": 0.59,
+    "cena_na_enoto": "119.93 per litre"
+  },
+  {
+    "ime": "Br6 - Elements of Islay",
+    "cena": 84.95,
+    "kolicina": "50",
+    "procent_alkohola": 0.5,
+    "cena_na_enoto": "169.90 per litre"
+  },
+  {
+    "ime": "Laphroaig The 1815",
+    "cena": 84.95,
+    "kolicina": "70",
+    "procent_alkohola": 0.48,
+    "cena_na_enoto": "121.36 per litre"
+  },
+  {
+    "ime": " Bunnahabhain Staoisha 2013",
+    "cena": 86.95,
+    "kolicina": "70",
+    "procent_alkohola": 0.53,
+    "cena_na_enoto": "124.21 per litre"
+  },
+  {
+    "ime": " Lagavulin 2003",
+    "cena": 87.95,
+    "kolicina": "70",
+    "procent_alkohola": 0.43,
+    "cena_na_enoto": "125.64 per litre"
+  },
+  {
+    "ime": " Caol Ila 2000",
+    "cena": 89.95,
+    "kolicina": "70",
+    "procent_alkohola": 0.61,
+    "cena_na_enoto": "128.50 per litre"
+  },
+  {
+    "ime": "Port Charlotte 2010 OLC:01 Heavily Peated",
+    "cena": 89.95,
+    "kolicina": "70",
+    "procent_alkohola": 0.55,
+    "cena_na_enoto": "128.50 per litre"
+  },
+  {
+    "ime": " Caol Ila 15 Year Old Unpeated",
+    "cena": 94.95,
+    "kolicina": "70",
+    "procent_alkohola": 0.59,
+    "cena_na_enoto": "135.64 per litre"
+  },
+  {
+    "ime": " Caol Ila 18 Year Old",
+    "cena": 97.95,
+    "kolicina": "70",
+    "procent_alkohola": 0.6,
+    "cena_na_enoto": "139.93 per litre"
+  },
+  {
+    "ime": "Ma2 - Elements of Islay",
+    "cena": 99.95,
+    "kolicina": "50",
+    "procent_alkohola": 0.55,
+    "cena_na_enoto": "199.90 per litre"
+  },
+  {
+    "ime": " Lagavulin 2002 Distillers Edition",
+    "cena": 99.95,
+    "kolicina": "70",
+    "procent_alkohola": 0.43,
+    "cena_na_enoto": "142.79 per litre"
+  },
+  {
+    "ime": " Caol Ila 2010",
+    "cena": 102.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.6,
+    "cena_na_enoto": "145.71 per litre"
+  },
+  {
+    "ime": " Caol Ila 17 Year Old",
+    "cena": 110.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.56,
+    "cena_na_enoto": "157.14 per litre"
+  },
+  {
+    "ime": " Bunnahabhain 2008",
+    "cena": 115.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.52,
+    "cena_na_enoto": "164.29 per litre"
+  },
+  {
+    "ime": " Caol Ila 2007",
+    "cena": 118.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.53,
+    "cena_na_enoto": "168.57 per litre"
+  },
+  {
+    "ime": "Bunnahabhain 18 Year Old",
+    "cena": 120.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.46,
+    "cena_na_enoto": "171.43 per litre"
+  },
+  {
+    "ime": " Caol Ila Unpeated",
+    "cena": 120.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.6,
+    "cena_na_enoto": "171.43 per litre"
+  },
+  {
+    "ime": " Bowmore Tempest 10 Year Old",
+    "cena": 120.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.55,
+    "cena_na_enoto": "171.43 per litre"
+  },
+  {
+    "ime": "Oc3 - Elements of Islay",
+    "cena": 120.0,
+    "kolicina": "50",
+    "procent_alkohola": 0.6,
+    "cena_na_enoto": "240 per litre"
+  },
+  {
+    "ime": " Bw7 - Elements of Islay",
+    "cena": 120.0,
+    "kolicina": "50",
+    "procent_alkohola": 0.53,
+    "cena_na_enoto": "240 per litre"
+  },
+  {
+    "ime": " Lagavulin 2001 Distillers Edition",
+    "cena": 120.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.43,
+    "cena_na_enoto": "171.43 per litre"
+  },
+  {
+    "ime": "Caol Ila 2001 Distillers Edition",
+    "cena": 125.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.43,
+    "cena_na_enoto": "178.57 per litre"
+  },
+  {
+    "ime": " Lagavulin 12 Year Old",
+    "cena": 125.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.58,
+    "cena_na_enoto": "178.57 per litre"
+  },
+  {
+    "ime": " Octomore Edition 10.1",
+    "cena": 125.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.6,
+    "cena_na_enoto": "178.57 per litre"
+  },
+  {
+    "ime": " Lagavulin 2007",
+    "cena": 125.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.56,
+    "cena_na_enoto": "178.57 per litre"
+  },
+  {
+    "ime": " Octomore Scottish Barley 11.1",
+    "cena": 125.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.59,
+    "cena_na_enoto": "178.57 per litre"
+  },
+  {
+    "ime": "Pl6 - Elements of Islay",
+    "cena": 128.0,
+    "kolicina": "50",
+    "procent_alkohola": 0.55,
+    "cena_na_enoto": "256 per litre"
+  },
+  {
+    "ime": " Bruichladdich 10 Year Old",
+    "cena": 140.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.46,
+    "cena_na_enoto": "200 per litre"
+  },
+  {
+    "ime": " Bowmore Tempest 10 Year Old",
+    "cena": 140.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.56,
+    "cena_na_enoto": "200 per litre"
+  },
+  {
+    "ime": " Lagavulin 12 Year Old",
+    "cena": 140.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.56,
+    "cena_na_enoto": "200 per litre"
+  },
+  {
+    "ime": "Bw8 - Elements of Islay",
+    "cena": 140.0,
+    "kolicina": "50",
+    "procent_alkohola": 0.51,
+    "cena_na_enoto": "280 per litre"
+  },
+  {
+    "ime": " Bunnahabhain 2005",
+    "cena": 140.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.57,
+    "cena_na_enoto": "200 per litre"
+  },
+  {
+    "ime": " Bunnahabhain 2009",
+    "cena": 145.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.52,
+    "cena_na_enoto": "207.14 per litre"
+  },
+  {
+    "ime": " Laphroaig 2004",
+    "cena": 145.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.5,
+    "cena_na_enoto": "207.14 per litre"
+  },
+  {
+    "ime": "Ma1 \u2013 Elements of Islay",
+    "cena": 150.0,
+    "kolicina": "50",
+    "procent_alkohola": 0.54,
+    "cena_na_enoto": "300 per litre"
+  },
+  {
+    "ime": "Oc4 - Elements of Islay",
+    "cena": 150.0,
+    "kolicina": "50",
+    "procent_alkohola": 0.59,
+    "cena_na_enoto": "300 per litre"
+  },
+  {
+    "ime": " Octomore 10.4",
+    "cena": 156.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.64,
+    "cena_na_enoto": "222.86 per litre"
+  },
+  {
+    "ime": " Octomore 2009",
+    "cena": 160.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.54,
+    "cena_na_enoto": "228.57 per litre"
+  },
+  {
+    "ime": "Of The Year 2021 Winners Collection",
+    "cena": 168.0,
+    "kolicina": "215",
+    "procent_alkohola": 0.34,
+    "cena_na_enoto": "78.14 per litre"
+  },
+  {
+    "ime": " Octomore 10.3",
+    "cena": 172.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.61,
+    "cena_na_enoto": "245.71 per litre"
+  },
+  {
+    "ime": " Ardbeg Auriverdes",
+    "cena": 175.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.5,
+    "cena_na_enoto": "250 per litre"
+  },
+  {
+    "ime": " Lp8 - Elements of Islay",
+    "cena": 175.0,
+    "kolicina": "50",
+    "procent_alkohola": 0.54,
+    "cena_na_enoto": "350 per litre"
+  },
+  {
+    "ime": " Octomore 9.3",
+    "cena": 175.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.63,
+    "cena_na_enoto": "250 per litre"
+  },
+  {
+    "ime": " Octomore 2014 Islay Barley 11.3",
+    "cena": 175.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.62,
+    "cena_na_enoto": "250 per litre"
+  },
+  {
+    "ime": "Oc6 - Elements of Islay",
+    "cena": 180.0,
+    "kolicina": "50",
+    "procent_alkohola": 0.58,
+    "cena_na_enoto": "360 per litre"
+  },
+  {
+    "ime": " Lagavulin 12 Year Old",
+    "cena": 185.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.57,
+    "cena_na_enoto": "264.29 per litre"
+  },
+  {
+    "ime": "Laphroaig 18 Year Old",
+    "cena": 195.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.48,
+    "cena_na_enoto": "278.57 per litre"
+  },
+  {
+    "ime": " Octomore 2010 Edition 07.3",
+    "cena": 195.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.63,
+    "cena_na_enoto": "278.57 per litre"
+  },
+  {
+    "ime": "Caol Ila 25 Year Old",
+    "cena": 199.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.43,
+    "cena_na_enoto": "284.29 per litre"
+  },
+  {
+    "ime": " Laphroaig 15 Year Old",
+    "cena": 199.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.43,
+    "cena_na_enoto": "284.29 per litre"
+  },
+  {
+    "ime": " Ardbeg Perpetuum",
+    "cena": 199.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.47,
+    "cena_na_enoto": "284.29 per litre"
+  },
+  {
+    "ime": " Lagavulin 12 Year Old",
+    "cena": 199.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.58,
+    "cena_na_enoto": "284.29 per litre"
+  },
+  {
+    "ime": "Peat's Beast 27 Year Old",
+    "cena": 210.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.5,
+    "cena_na_enoto": "300 per litre"
+  },
+  {
+    "ime": " Bruichladdich 15 Year Old",
+    "cena": 225.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.4,
+    "cena_na_enoto": "321.43 per litre"
+  },
+  {
+    "ime": " Lagavulin 12 Year Old",
+    "cena": 225.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.54,
+    "cena_na_enoto": "321.43 per litre"
+  },
+  {
+    "ime": " Ar7 \u2013 Elements of Islay",
+    "cena": 225.0,
+    "kolicina": "50",
+    "procent_alkohola": 0.56,
+    "cena_na_enoto": "450 per litre"
+  },
+  {
+    "ime": " Ardbeg Grooves",
+    "cena": 225.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.46,
+    "cena_na_enoto": "321.43 per litre"
+  },
+  {
+    "ime": " Laphroaig 10 Year Old Cask Strength",
+    "cena": 235.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.55,
+    "cena_na_enoto": "335.71 per litre"
+  },
+  {
+    "ime": " Lagavulin 12 Year Old",
+    "cena": 235.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.55,
+    "cena_na_enoto": "335.71 per litre"
+  },
+  {
+    "ime": " Bunnahabhain 1989",
+    "cena": 235.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.45,
+    "cena_na_enoto": "335.71 per litre"
+  },
+  {
+    "ime": " Bunnahabhain 1989",
+    "cena": 235.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.4,
+    "cena_na_enoto": "335.71 per litre"
+  },
+  {
+    "ime": " Port Charlotte 2001",
+    "cena": 250.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.64,
+    "cena_na_enoto": "357.14 per litre"
+  },
+  {
+    "ime": " Bunnahabhain 1997",
+    "cena": 250.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.51,
+    "cena_na_enoto": "357.14 per litre"
+  },
+  {
+    "ime": " Bunnahabhain 1989",
+    "cena": 255.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.43,
+    "cena_na_enoto": "364.29 per litre"
+  },
+  {
+    "ime": " Bruichladdich 1991",
+    "cena": 265.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.45,
+    "cena_na_enoto": "378.57 per litre"
+  },
+  {
+    "ime": " Bunnahabhain 1989",
+    "cena": 270.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.43,
+    "cena_na_enoto": "385.71 per litre"
+  },
+  {
+    "ime": " Bruichladdich 10 Year Old",
+    "cena": 275.0,
+    "kolicina": "75",
+    "procent_alkohola": 0.4,
+    "cena_na_enoto": "366.67 per litre"
+  },
+  {
+    "ime": " Lagavulin 12 Year Old",
+    "cena": 275.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.56,
+    "cena_na_enoto": "392.86 per litre"
+  },
+  {
+    "ime": "Bruichladdich Laddie 22 Year Old",
+    "cena": 275.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.46,
+    "cena_na_enoto": "392.86 per litre"
+  },
+  {
+    "ime": "Ardbog (Ardbeg)",
+    "cena": 275.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.52,
+    "cena_na_enoto": "392.86 per litre"
+  },
+  {
+    "ime": " Bowmore 1997",
+    "cena": 285.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.58,
+    "cena_na_enoto": "407.14 per litre"
+  },
+  {
+    "ime": " Bruichladdich Black Art 8.1",
+    "cena": 285.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.45,
+    "cena_na_enoto": "407.14 per litre"
+  },
+  {
+    "ime": "Port Askaig 28 Year Old",
+    "cena": 295.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.46,
+    "cena_na_enoto": "421.43 per litre"
+  },
+  {
+    "ime": "Laphroaig 15 Year Old",
+    "cena": 299.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.43,
+    "cena_na_enoto": "427.14 per litre"
+  },
+  {
+    "ime": " Lagavulin 12 Year Old",
+    "cena": 299.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.57,
+    "cena_na_enoto": "427.14 per litre"
+  },
+  {
+    "ime": " Laphroaig 10 Year Old",
+    "cena": 299.0,
+    "kolicina": "50",
+    "procent_alkohola": 0.43,
+    "cena_na_enoto": "598 per litre"
+  },
+  {
+    "ime": " Ardbeg Dark Cove",
+    "cena": 299.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.47,
+    "cena_na_enoto": "427.14 per litre"
+  },
+  {
+    "ime": " Bruichladdich 10 Year Old",
+    "cena": 299.0,
+    "kolicina": "75",
+    "procent_alkohola": 0.43,
+    "cena_na_enoto": "398.67 per litre"
+  },
+  {
+    "ime": " Bunnahabhain 1990",
+    "cena": 310.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.54,
+    "cena_na_enoto": "442.86 per litre"
+  },
+  {
+    "ime": " Ardbeg 1998",
+    "cena": 325.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.54,
+    "cena_na_enoto": "464.29 per litre"
+  },
+  {
+    "ime": " Ardbeg Kildalton",
+    "cena": 325.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.46,
+    "cena_na_enoto": "464.29 per litre"
+  },
+  {
+    "ime": " Bowmore 26 Year Old Wine Cask",
+    "cena": 299.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.49,
+    "cena_na_enoto": "427.14 per litre"
+  },
+  {
+    "ime": " Bowmore 27 Year Old",
+    "cena": 325.0,
+    "kolicina": "50",
+    "procent_alkohola": 0.48,
+    "cena_na_enoto": "650 per litre"
+  },
+  {
+    "ime": " Ardbeg 1998",
+    "cena": 350.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.56,
+    "cena_na_enoto": "500 per litre"
+  },
+  {
+    "ime": " Lagavulin 12 Year Old",
+    "cena": 350.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.57,
+    "cena_na_enoto": "500 per litre"
+  },
+  {
+    "ime": " Laphroaig 10 Year Old Cask Strength",
+    "cena": 350.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.58,
+    "cena_na_enoto": "500 per litre"
+  },
+  {
+    "ime": " Ardbeg Perpetuum",
+    "cena": 350.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.49,
+    "cena_na_enoto": "500 per litre"
+  },
+  {
+    "ime": " Bunnahabhain Moine 1997",
+    "cena": 350.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.5,
+    "cena_na_enoto": "500 per litre"
+  },
+  {
+    "ime": " Bruichladdich Classic Laddie Scottish Barley",
+    "cena": 355.0,
+    "kolicina": "450",
+    "procent_alkohola": 0.5,
+    "cena_na_enoto": "78.89 per litre"
+  },
+  {
+    "ime": " Bunnahabhain 1987",
+    "cena": 355.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.48,
+    "cena_na_enoto": "507.14 per litre"
+  },
+  {
+    "ime": "Bunnahabhain 25 Year Old",
+    "cena": 365.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.46,
+    "cena_na_enoto": "521.43 per litre"
+  },
+  {
+    "ime": " Ardbeg 1990",
+    "cena": 375.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.46,
+    "cena_na_enoto": "535.71 per litre"
+  },
+  {
+    "ime": "Lagavulin 1996 Distillers Edition",
+    "cena": 375.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.43,
+    "cena_na_enoto": "535.71 per litre"
+  },
+  {
+    "ime": "Bowmore 25 Year Old",
+    "cena": 380.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.43,
+    "cena_na_enoto": "542.86 per litre"
+  },
+  {
+    "ime": " Caol Ila 1995",
+    "cena": 385.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.54,
+    "cena_na_enoto": "550 per litre"
+  },
+  {
+    "ime": " Bruichladdich 1990",
+    "cena": 390.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.59,
+    "cena_na_enoto": "557.14 per litre"
+  },
+  {
+    "ime": " Bowmore 1988",
+    "cena": 395.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.48,
+    "cena_na_enoto": "564.29 per litre"
+  },
+  {
+    "ime": " Octomore 5 Year Old",
+    "cena": 399.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.59,
+    "cena_na_enoto": "570 per litre"
+  },
+  {
+    "ime": " Caol Ila 1984",
+    "cena": 399.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.46,
+    "cena_na_enoto": "570 per litre"
+  },
+  {
+    "ime": " Ardbeg Supernova 2019",
+    "cena": 399.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.54,
+    "cena_na_enoto": "570 per litre"
+  },
+  {
+    "ime": " Bruichladdich 1990",
+    "cena": 399.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.55,
+    "cena_na_enoto": "570 per litre"
+  },
+  {
+    "ime": "Islay Violets 33 Years Old",
+    "cena": 399.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.46,
+    "cena_na_enoto": "570 per litre"
+  },
+  {
+    "ime": " Bunnahabhain 1987",
+    "cena": 410.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.49,
+    "cena_na_enoto": "585.71 per litre"
+  },
+  {
+    "ime": " Laphroaig 25 Year Old",
+    "cena": 335.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.49,
+    "cena_na_enoto": "478.57 per litre"
+  },
+  {
+    "ime": " Bowmore 2001",
+    "cena": 420.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.55,
+    "cena_na_enoto": "600 per litre"
+  },
+  {
+    "ime": " Lagavulin 1995",
+    "cena": 425.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.48,
+    "cena_na_enoto": "607.14 per litre"
+  },
+  {
+    "ime": " Bowmore 1996",
+    "cena": 425.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.53,
+    "cena_na_enoto": "607.14 per litre"
+  },
+  {
+    "ime": " Laphroaig 25 Year Old",
+    "cena": 425.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.51,
+    "cena_na_enoto": "607.14 per litre"
+  },
+  {
+    "ime": " Laphroaig 27 Year Old",
+    "cena": 445.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.42,
+    "cena_na_enoto": "635.71 per litre"
+  },
+  {
+    "ime": " Laphroaig 10 Year Old Cask Strength",
+    "cena": 450.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.58,
+    "cena_na_enoto": "642.86 per litre"
+  },
+  {
+    "ime": " Ardbeg 1999 Galileo",
+    "cena": 450.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.49,
+    "cena_na_enoto": "642.86 per litre"
+  },
+  {
+    "ime": " Ardbeg 1999 Galileo",
+    "cena": 450.0,
+    "kolicina": "75",
+    "procent_alkohola": 0.49,
+    "cena_na_enoto": "600 per litre"
+  },
+  {
+    "ime": " Bowmore 12 Year Old",
+    "cena": 475.0,
+    "kolicina": "75",
+    "procent_alkohola": 0.4,
+    "cena_na_enoto": "633.33 per litre"
+  },
+  {
+    "ime": " Bruichladdich Centenary (1881-1981)",
+    "cena": 499.0,
+    "kolicina": "75",
+    "procent_alkohola": 0.43,
+    "cena_na_enoto": "665.33 per litre"
+  },
+  {
+    "ime": " Lagavulin 12 Year Old",
+    "cena": 500.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.58,
+    "cena_na_enoto": "714.29 per litre"
+  },
+  {
+    "ime": " Ardbeg Supernova",
+    "cena": 500.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.59,
+    "cena_na_enoto": "714.29 per litre"
+  },
+  {
+    "ime": " Ardbeg Supernova",
+    "cena": 500.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.6,
+    "cena_na_enoto": "714.29 per litre"
+  },
+  {
+    "ime": " Caol Ila 1983",
+    "cena": 500.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.48,
+    "cena_na_enoto": "714.29 per litre"
+  },
+  {
+    "ime": " Laphroaig 10 Year Old",
+    "cena": 500.0,
+    "kolicina": "100",
+    "procent_alkohola": 0.43,
+    "cena_na_enoto": null
+  },
+  {
+    "ime": " Caol Ila 1981",
+    "cena": 500.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.55,
+    "cena_na_enoto": "714.29 per litre"
+  },
+  {
+    "ime": " Bunnahabhain 1989",
+    "cena": 500.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.46,
+    "cena_na_enoto": "714.29 per litre"
+  },
+  {
+    "ime": " Caol Ila 1989",
+    "cena": 500.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.42,
+    "cena_na_enoto": "714.29 per litre"
+  },
+  {
+    "ime": " Laphroaig 1990",
+    "cena": 500.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.41,
+    "cena_na_enoto": "714.29 per litre"
+  },
+  {
+    "ime": "Bunnahabhain 30 Year Old",
+    "cena": 500.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.46,
+    "cena_na_enoto": "714.29 per litre"
+  },
+  {
+    "ime": " Laphroaig 28 Year Old",
+    "cena": 525.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.44,
+    "cena_na_enoto": "750 per litre"
+  },
+  {
+    "ime": " Laphroaig 10 Year Old",
+    "cena": 550.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.56,
+    "cena_na_enoto": "785.71 per litre"
+  },
+  {
+    "ime": " Bowmore 12 Year Old",
+    "cena": 550.0,
+    "kolicina": "75",
+    "procent_alkohola": 0.43,
+    "cena_na_enoto": "733.33 per litre"
+  },
+  {
+    "ime": " Laphroaig 10 Year Old",
+    "cena": 550.0,
+    "kolicina": "75",
+    "procent_alkohola": 0.56,
+    "cena_na_enoto": "733.33 per litre"
+  },
+  {
+    "ime": " Laphroaig 10 Year Old",
+    "cena": 550.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.56,
+    "cena_na_enoto": "785.71 per litre"
+  },
+  {
+    "ime": " Laphroaig 1998",
+    "cena": 550.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.55,
+    "cena_na_enoto": "785.71 per litre"
+  },
+  {
+    "ime": " Bruichladdich 27 Year Old",
+    "cena": 565.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.5,
+    "cena_na_enoto": "807.14 per litre"
+  },
+  {
+    "ime": "Ardbeg 17 Year Old",
+    "cena": 600.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.4,
+    "cena_na_enoto": "857.14 per litre"
+  },
+  {
+    "ime": "Lagavulin 1990 Distillers Edition",
+    "cena": 600.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.43,
+    "cena_na_enoto": "857.14 per litre"
+  },
+  {
+    "ime": " Bowmore 10 Year Old",
+    "cena": 600.0,
+    "kolicina": "75",
+    "procent_alkohola": 0.4,
+    "cena_na_enoto": "800 per litre"
+  },
+  {
+    "ime": " Laphroaig 25 Year Old",
+    "cena": 600.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.45,
+    "cena_na_enoto": "857.14 per litre"
+  },
+  {
+    "ime": " Laphroaig 1991",
+    "cena": 600.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.53,
+    "cena_na_enoto": "857.14 per litre"
+  },
+  {
+    "ime": " Ardbeg Twenty Something",
+    "cena": 600.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.46,
+    "cena_na_enoto": "857.14 per litre"
+  },
+  {
+    "ime": " Bowmore 10 Year Old",
+    "cena": 600.0,
+    "kolicina": "75",
+    "procent_alkohola": 0.4,
+    "cena_na_enoto": "800 per litre"
+  },
+  {
+    "ime": " Caol Ila 1981",
+    "cena": 600.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.6,
+    "cena_na_enoto": "857.14 per litre"
+  },
+  {
+    "ime": " Bunnahabhain 30 Year Old",
+    "cena": 615.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.48,
+    "cena_na_enoto": "878.57 per litre"
+  },
+  {
+    "ime": " Bowmore 30 Year Old",
+    "cena": 615.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.46,
+    "cena_na_enoto": "878.57 per litre"
+  },
+  {
+    "ime": " Lagavulin 1989",
+    "cena": 650.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.43,
+    "cena_na_enoto": "928.57 per litre"
+  },
+  {
+    "ime": " Laphroaig 10 Year Old",
+    "cena": 650.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.4,
+    "cena_na_enoto": "928.57 per litre"
+  },
+  {
+    "ime": " SMWS 53.70 (Caol Ila)",
+    "cena": 650.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.58,
+    "cena_na_enoto": "928.57 per litre"
+  },
+  {
+    "ime": " SMWS 53.62 (Caol Ila)",
+    "cena": 650.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.58,
+    "cena_na_enoto": "928.57 per litre"
+  },
+  {
+    "ime": " Caol Ila 1984",
+    "cena": 655.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.49,
+    "cena_na_enoto": "935.71 per litre"
+  },
+  {
+    "ime": " Laphroaig 1987",
+    "cena": 700.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.63,
+    "cena_na_enoto": "1,000 per litre"
+  },
+  {
+    "ime": " Laphroaig 1984",
+    "cena": 700.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.6,
+    "cena_na_enoto": "1,000 per litre"
+  },
+  {
+    "ime": " Bowmore 12 Year Old",
+    "cena": 700.0,
+    "kolicina": "100",
+    "procent_alkohola": 0.43,
+    "cena_na_enoto": null
+  },
+  {
+    "ime": " Caol Ila 1983",
+    "cena": 700.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.55,
+    "cena_na_enoto": "1,000 per litre"
+  },
+  {
+    "ime": " Bowmore 12 Year Old",
+    "cena": 700.0,
+    "kolicina": "100",
+    "procent_alkohola": 0.43,
+    "cena_na_enoto": null
+  },
+  {
+    "ime": " Laphroaig 10 Year Old",
+    "cena": 700.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.43,
+    "cena_na_enoto": "1,000 per litre"
+  },
+  {
+    "ime": " Bruichladdich 1984",
+    "cena": 700.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.44,
+    "cena_na_enoto": "1,000 per litre"
+  },
+  {
+    "ime": " Bruichladdich 1985",
+    "cena": 700.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.49,
+    "cena_na_enoto": "1,000 per litre"
+  },
+  {
+    "ime": " Bruichladdich 1988",
+    "cena": 720.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.46,
+    "cena_na_enoto": "1,028.57 per litre"
+  },
+  {
+    "ime": " Caol Ila 1982",
+    "cena": 725.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.51,
+    "cena_na_enoto": "1,035.71 per litre"
+  },
+  {
+    "ime": " Caol Ila 1983",
+    "cena": 725.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.53,
+    "cena_na_enoto": "1,035.71 per litre"
+  },
+  {
+    "ime": " Bowmore De Luxe",
+    "cena": 750.0,
+    "kolicina": "75",
+    "procent_alkohola": 0.43,
+    "cena_na_enoto": "1,000 per litre"
+  },
+  {
+    "ime": " Port Ellen 1981",
+    "cena": 750.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.4,
+    "cena_na_enoto": "1,071.43 per litre"
+  },
+  {
+    "ime": " Port Ellen 1983",
+    "cena": 750.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.43,
+    "cena_na_enoto": "1,071.43 per litre"
+  },
+  {
+    "ime": " Octomore 5 Year Old",
+    "cena": 750.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.61,
+    "cena_na_enoto": "1,071.43 per litre"
+  },
+  {
+    "ime": " Bowmore 15 Year Old",
+    "cena": 750.0,
+    "kolicina": "75",
+    "procent_alkohola": 0.4,
+    "cena_na_enoto": "1,000 per litre"
+  },
+  {
+    "ime": " Port Ellen 1981",
+    "cena": 750.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.4,
+    "cena_na_enoto": "1,071.43 per litre"
+  },
+  {
+    "ime": " Laphroaig 10 Year Old",
+    "cena": 750.0,
+    "kolicina": "100",
+    "procent_alkohola": 0.56,
+    "cena_na_enoto": null
+  },
+  {
+    "ime": " Caol Ila 1976",
+    "cena": 750.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.6,
+    "cena_na_enoto": "1,071.43 per litre"
+  },
+  {
+    "ime": " Caol Ila 1979",
+    "cena": 750.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.57,
+    "cena_na_enoto": "1,071.43 per litre"
+  },
+  {
+    "ime": " Laphroaig 1998",
+    "cena": 750.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.55,
+    "cena_na_enoto": "1,071.43 per litre"
+  },
+  {
+    "ime": " Caol Ila 35 Year Old",
+    "cena": 775.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.58,
+    "cena_na_enoto": "1,107.14 per litre"
+  },
+  {
+    "ime": " Caol Ila 1988",
+    "cena": 775.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.51,
+    "cena_na_enoto": "1,107.14 per litre"
+  },
+  {
+    "ime": " Lagavulin 16 Year Old",
+    "cena": 800.0,
+    "kolicina": "100",
+    "procent_alkohola": 0.43,
+    "cena_na_enoto": null
+  },
+  {
+    "ime": " Port Ellen 1980",
+    "cena": 800.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.43,
+    "cena_na_enoto": "1,142.86 per litre"
+  },
+  {
+    "ime": " Lagavulin 16 Year Old",
+    "cena": 800.0,
+    "kolicina": "100",
+    "procent_alkohola": 0.43,
+    "cena_na_enoto": null
+  },
+  {
+    "ime": " Caol Ila 1975",
+    "cena": 800.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.58,
+    "cena_na_enoto": "1,142.86 per litre"
+  },
+  {
+    "ime": " Laphroaig 1990",
+    "cena": 825.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.54,
+    "cena_na_enoto": "1,178.57 per litre"
+  },
+  {
+    "ime": " Caol Ila 1975",
+    "cena": 850.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.61,
+    "cena_na_enoto": "1,214.29 per litre"
+  },
+  {
+    "ime": " Caol Ila 1975",
+    "cena": 850.0,
+    "kolicina": "75",
+    "procent_alkohola": 0.61,
+    "cena_na_enoto": "1,133.33 per litre"
+  },
+  {
+    "ime": " Laphroaig 1989",
+    "cena": 850.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.5,
+    "cena_na_enoto": "1,214.29 per litre"
+  },
+  {
+    "ime": " Port Ellen 1979",
+    "cena": 850.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.4,
+    "cena_na_enoto": "1,214.29 per litre"
+  },
+  {
+    "ime": " Bowmore 21 Year Old",
+    "cena": 850.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.43,
+    "cena_na_enoto": "1,214.29 per litre"
+  },
+  {
+    "ime": " Port Ellen 1979",
+    "cena": 899.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.43,
+    "cena_na_enoto": "1,284.29 per litre"
+  },
+  {
+    "ime": " Port Ellen 1979",
+    "cena": 899.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.43,
+    "cena_na_enoto": "1,284.29 per litre"
+  },
+  {
+    "ime": " Port Ellen 12 Year Old",
+    "cena": 900.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.4,
+    "cena_na_enoto": "1,285.71 per litre"
+  },
+  {
+    "ime": " Laphroaig 10 Year Old",
+    "cena": 900.0,
+    "kolicina": "100",
+    "procent_alkohola": 0.43,
+    "cena_na_enoto": null
+  },
+  {
+    "ime": " Laphroaig 10 Year Old",
+    "cena": 900.0,
+    "kolicina": "100",
+    "procent_alkohola": 0.43,
+    "cena_na_enoto": null
+  },
+  {
+    "ime": " Ardbeg 1975",
+    "cena": 900.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.4,
+    "cena_na_enoto": "1,285.71 per litre"
+  },
+  {
+    "ime": " Port Ellen 1983",
+    "cena": 950.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.43,
+    "cena_na_enoto": "1,357.14 per litre"
+  },
+  {
+    "ime": " Port Ellen 1983",
+    "cena": 950.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.58,
+    "cena_na_enoto": "1,357.14 per litre"
+  },
+  {
+    "ime": " Laphroaig 1987",
+    "cena": 950.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.56,
+    "cena_na_enoto": "1,357.14 per litre"
+  },
+  {
+    "ime": " Port Ellen 1980",
+    "cena": 950.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.46,
+    "cena_na_enoto": "1,357.14 per litre"
+  },
+  {
+    "ime": " Port Ellen 1980",
+    "cena": 950.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.46,
+    "cena_na_enoto": "1,357.14 per litre"
+  },
+  {
+    "ime": " Port Ellen 1983",
+    "cena": 950.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.43,
+    "cena_na_enoto": "1,357.14 per litre"
+  },
+  {
+    "ime": " Caol Ila 15 Year Old",
+    "cena": 1000.0,
+    "kolicina": "75",
+    "procent_alkohola": 0.43,
+    "cena_na_enoto": "1,333.33 per litre"
+  },
+  {
+    "ime": " Port Ellen 1982",
+    "cena": 1000.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.43,
+    "cena_na_enoto": "1,428.57 per litre"
+  },
+  {
+    "ime": " Port Ellen 1980",
+    "cena": 1000.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.46,
+    "cena_na_enoto": "1,428.57 per litre"
+  },
+  {
+    "ime": " Port Ellen 1979",
+    "cena": 1000.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.56,
+    "cena_na_enoto": "1,428.57 per litre"
+  },
+  {
+    "ime": " Port Ellen 1980",
+    "cena": 1000.0,
+    "kolicina": "75",
+    "procent_alkohola": 0.4,
+    "cena_na_enoto": "1,333.33 per litre"
+  },
+  {
+    "ime": " Bowmore De Luxe",
+    "cena": 1000.0,
+    "kolicina": "100",
+    "procent_alkohola": 0.43,
+    "cena_na_enoto": null
+  },
+  {
+    "ime": " Laphroaig 30 Year Old",
+    "cena": 1000.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.54,
+    "cena_na_enoto": "1,428.57 per litre"
+  },
+  {
+    "ime": " Port Ellen 1980",
+    "cena": 1000.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.59,
+    "cena_na_enoto": "1,428.57 per litre"
+  },
+  {
+    "ime": " Laphroaig 10 Year Old",
+    "cena": 1000.0,
+    "kolicina": "75",
+    "procent_alkohola": 0.43,
+    "cena_na_enoto": "1,333.33 per litre"
+  },
+  {
+    "ime": " Ardbeg 1992",
+    "cena": 1000.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.5,
+    "cena_na_enoto": "1,428.57 per litre"
+  },
+  {
+    "ime": " Port Ellen 14 Year Old",
+    "cena": 1100.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.58,
+    "cena_na_enoto": "1,571.43 per litre"
+  },
+  {
+    "ime": " Ardbeg 1991",
+    "cena": 1100.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.5,
+    "cena_na_enoto": "1,571.43 per litre"
+  },
+  {
+    "ime": " Ardbeg 26 Year Old",
+    "cena": 1100.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.47,
+    "cena_na_enoto": "1,571.43 per litre"
+  },
+  {
+    "ime": " Ardbeg 1974",
+    "cena": 1100.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.43,
+    "cena_na_enoto": "1,571.43 per litre"
+  },
+  {
+    "ime": " Ardbeg 1975",
+    "cena": 1200.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.43,
+    "cena_na_enoto": "1,714.29 per litre"
+  },
+  {
+    "ime": " Port Ellen 1979",
+    "cena": 1200.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.5,
+    "cena_na_enoto": "1,714.29 per litre"
+  },
+  {
+    "ime": " Port Ellen 1979",
+    "cena": 1200.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.5,
+    "cena_na_enoto": "1,714.29 per litre"
+  },
+  {
+    "ime": " Laphroaig 10 Year Old",
+    "cena": 1200.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.57,
+    "cena_na_enoto": "1,714.29 per litre"
+  },
+  {
+    "ime": " Port Ellen 1979",
+    "cena": 1200.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.5,
+    "cena_na_enoto": "1,714.29 per litre"
+  },
+  {
+    "ime": " Port Ellen 1979",
+    "cena": 1200.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.5,
+    "cena_na_enoto": "1,714.29 per litre"
+  },
+  {
+    "ime": " Port Ellen 1979",
+    "cena": 1200.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.5,
+    "cena_na_enoto": "1,714.29 per litre"
+  },
+  {
+    "ime": " Bunnahabhain 1966",
+    "cena": 1200.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.4,
+    "cena_na_enoto": "1,714.29 per litre"
+  },
+  {
+    "ime": " Bunnahabhain 43 Year Old",
+    "cena": 1200.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.41,
+    "cena_na_enoto": "1,714.29 per litre"
+  },
+  {
+    "ime": " Port Ellen 1977",
+    "cena": 1200.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.6,
+    "cena_na_enoto": "1,714.29 per litre"
+  },
+  {
+    "ime": " Bruichladdich 1966",
+    "cena": 1250.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.41,
+    "cena_na_enoto": "1,785.71 per litre"
+  },
+  {
+    "ime": " Laphroaig 15 Year Old",
+    "cena": 1250.0,
+    "kolicina": "75",
+    "procent_alkohola": 0.4,
+    "cena_na_enoto": "1,666.67 per litre"
+  },
+  {
+    "ime": " Bunnahabhain 1967",
+    "cena": 1250.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.4,
+    "cena_na_enoto": "1,785.71 per litre"
+  },
+  {
+    "ime": " Bunnahabhain 1968",
+    "cena": 1250.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.43,
+    "cena_na_enoto": "1,785.71 per litre"
+  },
+  {
+    "ime": " Bunnahabhain 1967",
+    "cena": 1250.0,
+    "kolicina": "75",
+    "procent_alkohola": 0.46,
+    "cena_na_enoto": "1,666.67 per litre"
+  },
+  {
+    "ime": " Bruichladdich 1965",
+    "cena": 1250.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.42,
+    "cena_na_enoto": "1,785.71 per litre"
+  },
+  {
+    "ime": " Port Ellen 1982",
+    "cena": 1250.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.49,
+    "cena_na_enoto": "1,785.71 per litre"
+  },
+  {
+    "ime": " Bruichladdich 1965",
+    "cena": 1300.0,
+    "kolicina": "75",
+    "procent_alkohola": 0.49,
+    "cena_na_enoto": "1,733.33 per litre"
+  },
+  {
+    "ime": " Bunnahabhain 44 Years Old",
+    "cena": 1300.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.42,
+    "cena_na_enoto": "1,857.14 per litre"
+  },
+  {
+    "ime": " Bunnahabhain 1966",
+    "cena": 1350.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.41,
+    "cena_na_enoto": "1,928.57 per litre"
+  },
+  {
+    "ime": " Port Ellen 1974",
+    "cena": 1350.0,
+    "kolicina": "75",
+    "procent_alkohola": 0.4,
+    "cena_na_enoto": "1,800 per litre"
+  },
+  {
+    "ime": " Port Ellen 1981",
+    "cena": 1350.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.46,
+    "cena_na_enoto": "1,928.57 per litre"
+  },
+  {
+    "ime": " Port Ellen 1979",
+    "cena": 1350.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.64,
+    "cena_na_enoto": "1,928.57 per litre"
+  },
+  {
+    "ime": " Bunnahabhain 1966",
+    "cena": 1350.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.41,
+    "cena_na_enoto": "1,928.57 per litre"
+  },
+  {
+    "ime": " Bunnahabhain 1966",
+    "cena": 1350.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.4,
+    "cena_na_enoto": "1,928.57 per litre"
+  },
+  {
+    "ime": " Bunnahabhain 1966",
+    "cena": 1350.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.41,
+    "cena_na_enoto": "1,928.57 per litre"
+  },
+  {
+    "ime": "Bowmore Blair Castle Horse Trials 1996",
+    "cena": 1400.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.4,
+    "cena_na_enoto": "2,000 per litre"
+  },
+  {
+    "ime": " Port Ellen 1982",
+    "cena": 1460.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.48,
+    "cena_na_enoto": "2,085.71 per litre"
+  },
+  {
+    "ime": " Ardbeg 10 Year Old",
+    "cena": 1500.0,
+    "kolicina": "75",
+    "procent_alkohola": 0.4,
+    "cena_na_enoto": "2,000 per litre"
+  },
+  {
+    "ime": " Bruichladdich 1966",
+    "cena": 1500.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.41,
+    "cena_na_enoto": "2,142.86 per litre"
+  },
+  {
+    "ime": " Caol Ila 20 Year Old",
+    "cena": 1500.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.58,
+    "cena_na_enoto": "2,142.86 per litre"
+  },
+  {
+    "ime": " Lagavulin 12 Year Old",
+    "cena": 1500.0,
+    "kolicina": "75",
+    "procent_alkohola": 0.43,
+    "cena_na_enoto": "2,000 per litre"
+  },
+  {
+    "ime": " Port Ellen 1979",
+    "cena": 1500.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.5,
+    "cena_na_enoto": "2,142.86 per litre"
+  },
+  {
+    "ime": " Port Ellen 1978",
+    "cena": 1500.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.55,
+    "cena_na_enoto": "2,142.86 per litre"
+  },
+  {
+    "ime": " Port Ellen 1979",
+    "cena": 1500.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.56,
+    "cena_na_enoto": "2,142.86 per litre"
+  },
+  {
+    "ime": " Ardbeg 10 Year Old 'MOR'",
+    "cena": 1500.0,
+    "kolicina": "450",
+    "procent_alkohola": 0.57,
+    "cena_na_enoto": "333.33 per litre"
+  },
+  {
+    "ime": " Port Ellen 1982",
+    "cena": 1500.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.57,
+    "cena_na_enoto": "2,142.86 per litre"
+  },
+  {
+    "ime": " Port Ellen 1979",
+    "cena": 1500.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.52,
+    "cena_na_enoto": "2,142.86 per litre"
+  },
+  {
+    "ime": " Port Ellen 1979",
+    "cena": 1500.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.55,
+    "cena_na_enoto": "2,142.86 per litre"
+  },
+  {
+    "ime": " Ardbeg 1975",
+    "cena": 1500.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.5,
+    "cena_na_enoto": "2,142.86 per litre"
+  },
+  {
+    "ime": " Ardbeg 1975",
+    "cena": 1500.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.5,
+    "cena_na_enoto": "2,142.86 per litre"
+  },
+  {
+    "ime": " Ardbeg 1975",
+    "cena": 1500.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.5,
+    "cena_na_enoto": "2,142.86 per litre"
+  },
+  {
+    "ime": " Port Ellen 1979",
+    "cena": 1500.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.46,
+    "cena_na_enoto": "2,142.86 per litre"
+  },
+  {
+    "ime": " Laphroaig 10 Year Old",
+    "cena": 1500.0,
+    "kolicina": "100",
+    "procent_alkohola": 0.57,
+    "cena_na_enoto": null
+  },
+  {
+    "ime": "Bowmore Blair Castle Horse Trials 2001",
+    "cena": 1500.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.4,
+    "cena_na_enoto": "2,142.86 per litre"
+  },
+  {
+    "ime": " Port Ellen 1982",
+    "cena": 1500.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.52,
+    "cena_na_enoto": "2,142.86 per litre"
+  },
+  {
+    "ime": "Port Askaig 45 Year Old",
+    "cena": 1500.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.41,
+    "cena_na_enoto": "2,142.86 per litre"
+  },
+  {
+    "ime": " Port Ellen 1980",
+    "cena": 1500.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.46,
+    "cena_na_enoto": "2,142.86 per litre"
+  },
+  {
+    "ime": " Ardbeg 1978",
+    "cena": 1500.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.65,
+    "cena_na_enoto": "2,142.86 per litre"
+  },
+  {
+    "ime": " Ardbeg 10 Year Old",
+    "cena": 1500.0,
+    "kolicina": "75",
+    "procent_alkohola": 0.4,
+    "cena_na_enoto": "2,000 per litre"
+  },
+  {
+    "ime": " Port Ellen 1982",
+    "cena": 1500.0,
+    "kolicina": "75",
+    "procent_alkohola": 0.5,
+    "cena_na_enoto": "2,000 per litre"
+  },
+  {
+    "ime": " Port Ellen 1978",
+    "cena": 1500.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.62,
+    "cena_na_enoto": "2,142.86 per litre"
+  },
+  {
+    "ime": " Port Ellen 1978",
+    "cena": 1500.0,
+    "kolicina": "75",
+    "procent_alkohola": 0.5,
+    "cena_na_enoto": "2,000 per litre"
+  },
+  {
+    "ime": " Port Ellen 1982",
+    "cena": 1500.0,
+    "kolicina": "75",
+    "procent_alkohola": 0.5,
+    "cena_na_enoto": "2,000 per litre"
+  },
+  {
+    "ime": " Bowmore 1989",
+    "cena": 1500.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.45,
+    "cena_na_enoto": "2,142.86 per litre"
+  },
+  {
+    "ime": " Laphroaig 10 Year Old",
+    "cena": 1500.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.57,
+    "cena_na_enoto": "2,142.86 per litre"
+  },
+  {
+    "ime": " Laphroaig 15 Year Old",
+    "cena": 1500.0,
+    "kolicina": "75",
+    "procent_alkohola": 0.43,
+    "cena_na_enoto": "2,000 per litre"
+  },
+  {
+    "ime": " Bowmore 1974",
+    "cena": 1500.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.51,
+    "cena_na_enoto": "2,142.86 per litre"
+  },
+  {
+    "ime": " Laphroaig 15 Year Old",
+    "cena": 1500.0,
+    "kolicina": "75",
+    "procent_alkohola": 0.43,
+    "cena_na_enoto": "2,000 per litre"
+  },
+  {
+    "ime": " Caol Ila 40 Year Old",
+    "cena": 1600.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.45,
+    "cena_na_enoto": "2,285.71 per litre"
+  },
+  {
+    "ime": "Bruichladdich 1970",
+    "cena": 1650.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.44,
+    "cena_na_enoto": "2,357.14 per litre"
+  },
+  {
+    "ime": "Bunnahabhain 1963",
+    "cena": 1750.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.43,
+    "cena_na_enoto": "2,500 per litre"
+  },
+  {
+    "ime": " Port Ellen 1979",
+    "cena": 1750.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.5,
+    "cena_na_enoto": "2,500 per litre"
+  },
+  {
+    "ime": " Port Ellen 1978",
+    "cena": 1750.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.61,
+    "cena_na_enoto": "2,500 per litre"
+  },
+  {
+    "ime": " Bunnahabhain Canasta 1980",
+    "cena": 1750.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.49,
+    "cena_na_enoto": "2,500 per litre"
+  },
+  {
+    "ime": " Bunnahabhain 40 Year Old",
+    "cena": 1750.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.42,
+    "cena_na_enoto": "2,500 per litre"
+  },
+  {
+    "ime": "Bunnahabhain 1963",
+    "cena": 1750.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.43,
+    "cena_na_enoto": "2,500 per litre"
+  },
+  {
+    "ime": " Port Ellen 1978",
+    "cena": 1900.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.59,
+    "cena_na_enoto": "2,714.29 per litre"
+  },
+  {
+    "ime": " Port Ellen 1979",
+    "cena": 1900.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.57,
+    "cena_na_enoto": "2,714.29 per litre"
+  },
+  {
+    "ime": " Port Ellen 1978",
+    "cena": 1900.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.56,
+    "cena_na_enoto": "2,714.29 per litre"
+  },
+  {
+    "ime": "Bowmore Horse Trials 1996",
+    "cena": 1999.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.4,
+    "cena_na_enoto": "2,855.71 per litre"
+  },
+  {
+    "ime": " Ardbeg 25 Year Old",
+    "cena": 2000.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.46,
+    "cena_na_enoto": "2,857.14 per litre"
+  },
+  {
+    "ime": " Port Ellen 1978",
+    "cena": 2000.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.59,
+    "cena_na_enoto": "2,857.14 per litre"
+  },
+  {
+    "ime": " Port Ellen 1979",
+    "cena": 2000.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.57,
+    "cena_na_enoto": "2,857.14 per litre"
+  },
+  {
+    "ime": " Port Ellen 1979",
+    "cena": 2000.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.57,
+    "cena_na_enoto": "2,857.14 per litre"
+  },
+  {
+    "ime": " Port Ellen 1979",
+    "cena": 2000.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.46,
+    "cena_na_enoto": "2,857.14 per litre"
+  },
+  {
+    "ime": " Port Ellen 1978",
+    "cena": 2000.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.54,
+    "cena_na_enoto": "2,857.14 per litre"
+  },
+  {
+    "ime": " Port Ellen 1979",
+    "cena": 2000.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.54,
+    "cena_na_enoto": "2,857.14 per litre"
+  },
+  {
+    "ime": " Laphroaig 10 Year Old",
+    "cena": 2000.0,
+    "kolicina": "75",
+    "procent_alkohola": 0.43,
+    "cena_na_enoto": "2,666.67 per litre"
+  },
+  {
+    "ime": " Port Ellen 1978",
+    "cena": 2000.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.55,
+    "cena_na_enoto": "2,857.14 per litre"
+  },
+  {
+    "ime": " Port Ellen 1979",
+    "cena": 2000.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.58,
+    "cena_na_enoto": "2,857.14 per litre"
+  },
+  {
+    "ime": " Bowmore 1980",
+    "cena": 2000.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.47,
+    "cena_na_enoto": "2,857.14 per litre"
+  },
+  {
+    "ime": " Port Ellen 1978",
+    "cena": 2000.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.55,
+    "cena_na_enoto": "2,857.14 per litre"
+  },
+  {
+    "ime": " Laphroaig 10 Year Old",
+    "cena": 2000.0,
+    "kolicina": "100",
+    "procent_alkohola": 0.43,
+    "cena_na_enoto": null
+  },
+  {
+    "ime": " Laphroaig 1973",
+    "cena": 2000.0,
+    "kolicina": "75",
+    "procent_alkohola": 0.4,
+    "cena_na_enoto": "2,666.67 per litre"
+  },
+  {
+    "ime": " Bruichladdich 1984",
+    "cena": 2000.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.46,
+    "cena_na_enoto": "2,857.14 per litre"
+  },
+  {
+    "ime": " Port Ellen 1982",
+    "cena": 2200.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.58,
+    "cena_na_enoto": "3,142.86 per litre"
+  },
+  {
+    "ime": "Bowmore Mizunara Cask Finish",
+    "cena": 2250.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.54,
+    "cena_na_enoto": "3,214.29 per litre"
+  },
+  {
+    "ime": " Port Ellen 25 Year Old",
+    "cena": 2250.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.56,
+    "cena_na_enoto": "3,214.29 per litre"
+  },
+  {
+    "ime": " Laphroaig 15 Year Old",
+    "cena": 2250.0,
+    "kolicina": "75",
+    "procent_alkohola": 0.43,
+    "cena_na_enoto": "3,000 per litre"
+  },
+  {
+    "ime": " Port Ellen 1983",
+    "cena": 2400.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.54,
+    "cena_na_enoto": "3,428.57 per litre"
+  },
+  {
+    "ime": " Bunnahabhain 1965",
+    "cena": 2500.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.54,
+    "cena_na_enoto": "3,571.43 per litre"
+  },
+  {
+    "ime": " Bunnahabhain 1966",
+    "cena": 2500.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.46,
+    "cena_na_enoto": "3,571.43 per litre"
+  },
+  {
+    "ime": "Laphroaig 30 Year Old",
+    "cena": 2500.0,
+    "kolicina": "75",
+    "procent_alkohola": 0.43,
+    "cena_na_enoto": "3,333.33 per litre"
+  },
+  {
+    "ime": " Ardbeg 1975",
+    "cena": 2500.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.46,
+    "cena_na_enoto": "3,571.43 per litre"
+  },
+  {
+    "ime": " Ardbeg 1975",
+    "cena": 2500.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.58,
+    "cena_na_enoto": "3,571.43 per litre"
+  },
+  {
+    "ime": " Port Ellen 1978",
+    "cena": 2500.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.55,
+    "cena_na_enoto": "3,571.43 per litre"
+  },
+  {
+    "ime": " Ardbeg 1973",
+    "cena": 2500.0,
+    "kolicina": "75",
+    "procent_alkohola": 0.46,
+    "cena_na_enoto": "3,333.33 per litre"
+  },
+  {
+    "ime": "Laphroaig 30 Year Old",
+    "cena": 2500.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.43,
+    "cena_na_enoto": "3,571.43 per litre"
+  },
+  {
+    "ime": " Ardbeg 1972",
+    "cena": 2500.0,
+    "kolicina": "75",
+    "procent_alkohola": 0.43,
+    "cena_na_enoto": "3,333.33 per litre"
+  },
+  {
+    "ime": " Port Ellen 1983",
+    "cena": 2500.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.54,
+    "cena_na_enoto": "3,571.43 per litre"
+  },
+  {
+    "ime": " Port Ellen 1982",
+    "cena": 2500.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.62,
+    "cena_na_enoto": "3,571.43 per litre"
+  },
+  {
+    "ime": " Bowmore Sherriff's",
+    "cena": 2500.0,
+    "kolicina": "37.8",
+    "procent_alkohola": 0.4,
+    "cena_na_enoto": "6,613.76 per litre"
+  },
+  {
+    "ime": " Ardbeg 1975",
+    "cena": 2500.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.47,
+    "cena_na_enoto": "3,571.43 per litre"
+  },
+  {
+    "ime": " Port Ellen 1978",
+    "cena": 2600.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.55,
+    "cena_na_enoto": "3,714.29 per litre"
+  },
+  {
+    "ime": " Port Ellen 1979",
+    "cena": 2750.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.53,
+    "cena_na_enoto": "3,928.57 per litre"
+  },
+  {
+    "ime": " Lagavulin 12 Year Old",
+    "cena": 2750.0,
+    "kolicina": "75",
+    "procent_alkohola": 0.43,
+    "cena_na_enoto": "3,666.67 per litre"
+  },
+  {
+    "ime": " Port Ellen 1978",
+    "cena": 2750.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.56,
+    "cena_na_enoto": "3,928.57 per litre"
+  },
+  {
+    "ime": " Port Ellen 1978",
+    "cena": 2750.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.55,
+    "cena_na_enoto": "3,928.57 per litre"
+  },
+  {
+    "ime": " Bowmore 1970",
+    "cena": 2750.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.43,
+    "cena_na_enoto": "3,928.57 per litre"
+  },
+  {
+    "ime": " Port Ellen 1979",
+    "cena": 2875.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.51,
+    "cena_na_enoto": "4,107.14 per litre"
+  },
+  {
+    "ime": " Ardbeg 1973",
+    "cena": 3000.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.5,
+    "cena_na_enoto": "4,285.71 per litre"
+  },
+  {
+    "ime": " Ardbeg 1976",
+    "cena": 3000.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.56,
+    "cena_na_enoto": "4,285.71 per litre"
+  },
+  {
+    "ime": " Lagavulin 12 Year Old",
+    "cena": 3000.0,
+    "kolicina": "75",
+    "procent_alkohola": 0.43,
+    "cena_na_enoto": "4,000 per litre"
+  },
+  {
+    "ime": "Laphroaig 1976",
+    "cena": 3000.0,
+    "kolicina": "75",
+    "procent_alkohola": 0.43,
+    "cena_na_enoto": "4,000 per litre"
+  },
+  {
+    "ime": " Laphroaig 1977",
+    "cena": 3000.0,
+    "kolicina": "75",
+    "procent_alkohola": 0.43,
+    "cena_na_enoto": "4,000 per litre"
+  },
+  {
+    "ime": " Ardbeg 1973",
+    "cena": 3000.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.5,
+    "cena_na_enoto": "4,285.71 per litre"
+  },
+  {
+    "ime": "Laphroaig 1976",
+    "cena": 3000.0,
+    "kolicina": "75",
+    "procent_alkohola": 0.43,
+    "cena_na_enoto": "4,000 per litre"
+  },
+  {
+    "ime": " Lagavulin 12 Year Old",
+    "cena": 3000.0,
+    "kolicina": "75",
+    "procent_alkohola": 0.43,
+    "cena_na_enoto": "4,000 per litre"
+  },
+  {
+    "ime": " SMWS 33.21 (Ardbeg)",
+    "cena": 3000.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.63,
+    "cena_na_enoto": "4,285.71 per litre"
+  },
+  {
+    "ime": " Bowmore 30 Year Old",
+    "cena": 3500.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.43,
+    "cena_na_enoto": "5,000 per litre"
+  },
+  {
+    "ime": " Caol Ila 1966",
+    "cena": 3500.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.4,
+    "cena_na_enoto": "5,000 per litre"
+  },
+  {
+    "ime": " Lagavulin 1985",
+    "cena": 3500.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.56,
+    "cena_na_enoto": "5,000 per litre"
+  },
+  {
+    "ime": " Bowmore 30 Year Old",
+    "cena": 3500.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.43,
+    "cena_na_enoto": "5,000 per litre"
+  },
+  {
+    "ime": " Bowmore 30 Year Old",
+    "cena": 3500.0,
+    "kolicina": "75",
+    "procent_alkohola": 0.43,
+    "cena_na_enoto": "4,666.67 per litre"
+  },
+  {
+    "ime": " Ardbeg 1974",
+    "cena": 3500.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.51,
+    "cena_na_enoto": "5,000 per litre"
+  },
+  {
+    "ime": " Bowmore 1974",
+    "cena": 3600.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.5,
+    "cena_na_enoto": "5,142.86 per litre"
+  },
+  {
+    "ime": " Bowmore 1968",
+    "cena": 3750.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.4,
+    "cena_na_enoto": "5,357.14 per litre"
+  },
+  {
+    "ime": " Lagavulin 1976",
+    "cena": 3750.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.53,
+    "cena_na_enoto": "5,357.14 per litre"
+  },
+  {
+    "ime": " Lagavulin 1976",
+    "cena": 3750.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.51,
+    "cena_na_enoto": "5,357.14 per litre"
+  },
+  {
+    "ime": " Bowmore 8 Year Old",
+    "cena": 3750.0,
+    "kolicina": "75",
+    "procent_alkohola": 0.4,
+    "cena_na_enoto": "5,000 per litre"
+  },
+  {
+    "ime": " Ardbeg 1974",
+    "cena": 4000.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.52,
+    "cena_na_enoto": "5,714.29 per litre"
+  },
+  {
+    "ime": " Bowmore 1968",
+    "cena": 4000.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.43,
+    "cena_na_enoto": "5,714.29 per litre"
+  },
+  {
+    "ime": " Bowmore 1968",
+    "cena": 4000.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.43,
+    "cena_na_enoto": "5,714.29 per litre"
+  },
+  {
+    "ime": " Ardbeg 1975",
+    "cena": 4000.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.54,
+    "cena_na_enoto": "5,714.29 per litre"
+  },
+  {
+    "ime": " Ardbeg 1974",
+    "cena": 4000.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.53,
+    "cena_na_enoto": "5,714.29 per litre"
+  },
+  {
+    "ime": " Bowmore 1968",
+    "cena": 4000.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.46,
+    "cena_na_enoto": "5,714.29 per litre"
+  },
+  {
+    "ime": " Bowmore 1968",
+    "cena": 4000.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.43,
+    "cena_na_enoto": "5,714.29 per litre"
+  },
+  {
+    "ime": " Lagavulin 1991",
+    "cena": 4000.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.53,
+    "cena_na_enoto": "5,714.29 per litre"
+  },
+  {
+    "ime": " Bowmore 1968",
+    "cena": 4000.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.46,
+    "cena_na_enoto": "5,714.29 per litre"
+  },
+  {
+    "ime": " Bruichladdich 1964",
+    "cena": 4500.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.43,
+    "cena_na_enoto": "6,428.57 per litre"
+  },
+  {
+    "ime": " Bowmore 1973",
+    "cena": 4500.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.43,
+    "cena_na_enoto": "6,428.57 per litre"
+  },
+  {
+    "ime": " Bowmore 1966",
+    "cena": 4500.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.41,
+    "cena_na_enoto": "6,428.57 per litre"
+  },
+  {
+    "ime": " Ardbeg 1963",
+    "cena": 4500.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.4,
+    "cena_na_enoto": "6,428.57 per litre"
+  },
+  {
+    "ime": " Ardbeg 1974 Provenance",
+    "cena": 4750.0,
+    "kolicina": "75",
+    "procent_alkohola": 0.55,
+    "cena_na_enoto": "6,333.33 per litre"
+  },
+  {
+    "ime": " Ardbeg 1974 Provenance",
+    "cena": 4750.0,
+    "kolicina": "75",
+    "procent_alkohola": 0.55,
+    "cena_na_enoto": "6,333.33 per litre"
+  },
+  {
+    "ime": " Ardbeg 1976",
+    "cena": 4750.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.55,
+    "cena_na_enoto": "6,785.71 per litre"
+  },
+  {
+    "ime": " Ardbeg 1974 Provenance",
+    "cena": 4750.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.56,
+    "cena_na_enoto": "6,785.71 per litre"
+  },
+  {
+    "ime": " Ardbeg 1974 Provenance",
+    "cena": 4750.0,
+    "kolicina": "75",
+    "procent_alkohola": 0.55,
+    "cena_na_enoto": "6,333.33 per litre"
+  },
+  {
+    "ime": " Bowmore 1972",
+    "cena": 4950.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.47,
+    "cena_na_enoto": "7,071.43 per litre"
+  },
+  {
+    "ime": " Ardbeg 1976",
+    "cena": 5000.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.53,
+    "cena_na_enoto": "7,142.86 per litre"
+  },
+  {
+    "ime": " Ardbeg 1976",
+    "cena": 5000.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.53,
+    "cena_na_enoto": "7,142.86 per litre"
+  },
+  {
+    "ime": " Bowmore 7 Year Old",
+    "cena": 5000.0,
+    "kolicina": "75",
+    "procent_alkohola": 0.43,
+    "cena_na_enoto": "6,666.67 per litre"
+  },
+  {
+    "ime": " Ardbeg 10 Year Old",
+    "cena": 5000.0,
+    "kolicina": "75",
+    "procent_alkohola": 0.4,
+    "cena_na_enoto": "6,666.67 per litre"
+  },
+  {
+    "ime": " Bowmore 1968",
+    "cena": 5000.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.46,
+    "cena_na_enoto": "7,142.86 per litre"
+  },
+  {
+    "ime": " Bowmore 1968",
+    "cena": 5000.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.46,
+    "cena_na_enoto": "7,142.86 per litre"
+  },
+  {
+    "ime": " Bowmore 1965",
+    "cena": 5000.0,
+    "kolicina": "75",
+    "procent_alkohola": 0.43,
+    "cena_na_enoto": "6,666.67 per litre"
+  },
+  {
+    "ime": " Bowmore Bicentenary",
+    "cena": 5250.0,
+    "kolicina": "75",
+    "procent_alkohola": 0.43,
+    "cena_na_enoto": "7,000 per litre"
+  },
+  {
+    "ime": " Bowmore Bicentenary",
+    "cena": 5250.0,
+    "kolicina": "75.7",
+    "procent_alkohola": 0.43,
+    "cena_na_enoto": "6,935.27 per litre"
+  },
+  {
+    "ime": " Ardbeg 1976",
+    "cena": 5500.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.51,
+    "cena_na_enoto": "7,857.14 per litre"
+  },
+  {
+    "ime": " Laphroaig 19 Year Old",
+    "cena": 5500.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.55,
+    "cena_na_enoto": "7,857.14 per litre"
+  },
+  {
+    "ime": " Bowmore Sherriff's",
+    "cena": 5500.0,
+    "kolicina": "100",
+    "procent_alkohola": 0.43,
+    "cena_na_enoto": null
+  },
+  {
+    "ime": " Port Ellen 21 Year Old",
+    "cena": 6000.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.58,
+    "cena_na_enoto": "8,571.43 per litre"
+  },
+  {
+    "ime": " Bowmore 8 Year Old",
+    "cena": 6000.0,
+    "kolicina": "113",
+    "procent_alkohola": 0.43,
+    "cena_na_enoto": "5,309.73 per litre"
+  },
+  {
+    "ime": " Bowmore Bicentenary",
+    "cena": 6000.0,
+    "kolicina": "75",
+    "procent_alkohola": 0.43,
+    "cena_na_enoto": "8,000 per litre"
+  },
+  {
+    "ime": " Laphroaig 1981",
+    "cena": 6000.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.57,
+    "cena_na_enoto": "8,571.43 per litre"
+  },
+  {
+    "ime": " Port Ellen 1979",
+    "cena": 6400.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.51,
+    "cena_na_enoto": "9,142.86 per litre"
+  },
+  {
+    "ime": " Bowmore 1968",
+    "cena": 6500.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.43,
+    "cena_na_enoto": "9,285.71 per litre"
+  },
+  {
+    "ime": " Laphroaig 1980",
+    "cena": 6500.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.57,
+    "cena_na_enoto": "9,285.71 per litre"
+  },
+  {
+    "ime": " Laphroaig 1981",
+    "cena": 6500.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.57,
+    "cena_na_enoto": "9,285.71 per litre"
+  },
+  {
+    "ime": " Bowmore 1973",
+    "cena": 6500.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.43,
+    "cena_na_enoto": "9,285.71 per litre"
+  },
+  {
+    "ime": " Ardbeggeddon 1972",
+    "cena": 6750.0,
+    "kolicina": "75",
+    "procent_alkohola": 0.48,
+    "cena_na_enoto": "9,000 per litre"
+  },
+  {
+    "ime": " Ardbeg 1967",
+    "cena": 7000.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.52,
+    "cena_na_enoto": "10,000 per litre"
+  },
+  {
+    "ime": " Ardbeg 1967",
+    "cena": 7000.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.5,
+    "cena_na_enoto": "10,000 per litre"
+  },
+  {
+    "ime": " Ardbeg 1967",
+    "cena": 7000.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.52,
+    "cena_na_enoto": "10,000 per litre"
+  },
+  {
+    "ime": " Ardbeg 1976 Manager's Choice",
+    "cena": 7500.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.56,
+    "cena_na_enoto": "10,714.29 per litre"
+  },
+  {
+    "ime": " Caol Ila 15 Year Old",
+    "cena": 7500.0,
+    "kolicina": "75",
+    "procent_alkohola": 0.63,
+    "cena_na_enoto": "10,000 per litre"
+  },
+  {
+    "ime": "Bowmore 1964 Bicentenary",
+    "cena": 7500.0,
+    "kolicina": "75",
+    "procent_alkohola": 0.43,
+    "cena_na_enoto": "10,000 per litre"
+  },
+  {
+    "ime": " Bowmore 1963",
+    "cena": 7500.0,
+    "kolicina": "75",
+    "procent_alkohola": 0.43,
+    "cena_na_enoto": "10,000 per litre"
+  },
+  {
+    "ime": " Bowmore 1965",
+    "cena": 7500.0,
+    "kolicina": "75",
+    "procent_alkohola": 0.5,
+    "cena_na_enoto": "10,000 per litre"
+  },
+  {
+    "ime": " Caol Ila 1968",
+    "cena": 7500.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.53,
+    "cena_na_enoto": "10,714.29 per litre"
+  },
+  {
+    "ime": "Laphroaig 40 Year Old",
+    "cena": 11000.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.42,
+    "cena_na_enoto": "15,714.29 per litre"
+  },
+  {
+    "ime": "Laphroaig 40 Year Old",
+    "cena": 11000.0,
+    "kolicina": "75",
+    "procent_alkohola": 0.42,
+    "cena_na_enoto": "14,666.67 per litre"
+  },
+  {
+    "ime": " Ardbeg 1973",
+    "cena": 12000.0,
+    "kolicina": "75",
+    "procent_alkohola": 0.57,
+    "cena_na_enoto": "16,000 per litre"
+  },
+  {
+    "ime": " Bowmore 1963",
+    "cena": 15000.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.5,
+    "cena_na_enoto": "21,428.57 per litre"
+  },
+  {
+    "ime": " Bowmore 8 Year Old",
+    "cena": 17500.0,
+    "kolicina": "75",
+    "procent_alkohola": 0.43,
+    "cena_na_enoto": "23,333.33 per litre"
+  },
+  {
+    "ime": " Bowmore 1957",
+    "cena": 19000.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.4,
+    "cena_na_enoto": "27,142.86 per litre"
+  },
+  {
+    "ime": " Bowmore 1957",
+    "cena": 20000.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.4,
+    "cena_na_enoto": "28,571.43 per litre"
+  },
+  {
+    "ime": " Black Bowmore 1964",
+    "cena": 22000.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.49,
+    "cena_na_enoto": "31,428.57 per litre"
+  },
+  {
+    "ime": " Black Bowmore 1964",
+    "cena": 22500.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.5,
+    "cena_na_enoto": "32,142.86 per litre"
+  },
+  {
+    "ime": " Bowmore 1964",
+    "cena": 22500.0,
+    "kolicina": "75",
+    "procent_alkohola": 0.43,
+    "cena_na_enoto": "30,000 per litre"
+  },
+  {
+    "ime": " White Bowmore 1964",
+    "cena": 25000.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.43,
+    "cena_na_enoto": "35,714.29 per litre"
+  },
+  {
+    "ime": " Black Bowmore 1964",
+    "cena": 25000.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.5,
+    "cena_na_enoto": "35,714.29 per litre"
+  },
+  {
+    "ime": " Black Bowmore 1964",
+    "cena": 30000.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.41,
+    "cena_na_enoto": "42,857.14 per litre"
+  },
+  {
+    "ime": " Bowmore 1955",
+    "cena": 40000.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.42,
+    "cena_na_enoto": "57,142.86 per litre"
+  },
+  {
+    "ime": " Ardbeg 1974",
+    "cena": 40000.0,
+    "kolicina": "150",
+    "procent_alkohola": 0.47,
+    "cena_na_enoto": "26,666.67 per litre"
+  },
+  {
+    "ime": " Bowmore 1965",
+    "cena": 45000.0,
+    "kolicina": "70",
+    "procent_alkohola": 0.42,
+    "cena_na_enoto": "64,285.71 per litre"
+  },
+  {
+    "ime": " Bowmore 1967",
+    "cena": 50000.0,
+    "kolicina": "90",
+    "procent_alkohola": 0.44,
+    "cena_na_enoto": "55,555.56 per litre"
+  },
+  {
+    "ime": " Black Bowmore 1964",
+    "cena": 65000.0,
+    "kolicina": "75",
+    "procent_alkohola": 0.41,
+    "cena_na_enoto": "86,666.67 per litre"
+  }
+]
