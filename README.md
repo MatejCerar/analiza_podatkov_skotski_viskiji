@@ -19,7 +19,7 @@ Za vsak viski bom zajel:<ul>
   <li>70% viskijev je cenejših od 200 funtov.</li>
   <li>Kakšen je povprečni odstotek alkohola v viskijih za vsako regijo?</li>
 <h3>Naložene datotke</h3><ul>
-  <li>Python datoteki sta za pobiranje podatkov s spletne strani in za zapis teh podatkov v csv in json.<br>
+  <li>python datoteki sta za pobiranje podatkov s spletne strani in za zapis teh podatkov v csv in json.<br>
     Datoteka orodja.py je "pobrana" s predavanj Programiranja 1,  ki jo je napisal doc. dr. Matija Pretnar.<br>
     Druga datoteka pa je poberi_z_orodji.py, ki naredi html datoteke(teh nisem prilagal), iz teh datotek pa izlušči relavantne podatke v csv in json datoteke..</li>
   <li>skotski_viskiji.csv in skotski_viskiji.json sta datoteki ki sta bili narjeni s poberi_z_orodji.py, kjer so shranjeni osnovni podatki za vse viskije.</li>
